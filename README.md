@@ -8,7 +8,7 @@
 
 项目支持两种发布方式：
 
-- **Vercel（推荐，无需绑定银行卡）**：按 [DEPLOY_VERCEL.md](DEPLOY_VERCEL.md) 部署静态页面 + Serverless API。
+- **Vercel（推荐，无需绑定银行卡）**：按 [DEPLOY_VERCEL.md](DEPLOY_VERCEL.md) 部署静态页面 + Serverless API。Framework Preset 必须选 **Other**，不要选 Node.js，否则 Vercel 会把 `server.mjs` 当成服务器入口。
 - **Render**：按 [DEPLOY.md](DEPLOY.md) 使用常驻 Node Web Service（Blueprint 流程可能要求绑定银行卡）。
 
 两种方式都不需要在托管平台配置 TMDB Key，运行时只读取已同步好的 `data/movies.json`。

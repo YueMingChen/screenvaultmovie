@@ -28,7 +28,7 @@ vercel.json             build、Function、CSP 配置
 
 | 配置 | 值 |
 | --- | --- |
-| Framework Preset | `Other` |
+| Framework Preset | **`Other`，不能选 Node.js** |
 | Root Directory | `./` |
 | Build Command | `npm run build` |
 | Output Directory | `dist` |
@@ -36,6 +36,8 @@ vercel.json             build、Function、CSP 配置
 | Environment Variables | 不需要 |
 
 5. 点击 **Deploy**。
+
+> 如果项目已经用 Node.js 预设创建，请到 **Settings → General → Framework Preset** 改成 **Other**，保存后重新部署。项目根目录的 `.vercelignore` 会排除本地 `server.mjs`，避免 Vercel 把它当成服务器入口。
 
 `vercel.json` 里已经配置了：
 
@@ -73,6 +75,14 @@ https://你的地址/api/health
 然后检查首页、搜索、类型筛选、详情页和相关推荐。
 
 ## 常见问题
+
+**日志出现 `/var/task/server.mjs` 或 `/var/task/app.js`**
+
+说明 Vercel 把本地脚本当成了服务器入口：
+
+1. 确认 Framework Preset 是 **Other**
+2. 确认 `.vercelignore` 中包含 `server.mjs`
+3. 在 Deployments 里 Redeploy，并且不要使用旧构建缓存
 
 **页面能打开，但 API 500**
 
