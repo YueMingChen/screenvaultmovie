@@ -1,0 +1,45 @@
+name: Update AI signals
+
+on:
+  schedule:
+    - cron: '17 */2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-ai-signals
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    defaults:
+      run:
+        working-directory: ai-signal
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Collect feeds and translate
+        env:
+          TRANSLATION_PROVIDER: mymemory
+          TRANSLATION_MAX_ITEMS: 24
+        run: npm run collect
+      - name: Commit changes
+        working-directory: .
+        run: |
+          if git diff --quiet -- ai-signal/public/data/articles.json ai-signal/data/translations.json; then
+            echo "No content changes"
+            exit 0
+          fi
+          git config user.name "signal-bot"
+          git config user.email "signal-bot@users.noreply.github.com"
+          git add ai-signal/public/data/articles.json ai-signal/data/translations.json
+          git commit -m "chore: update AI signals"
+          git push

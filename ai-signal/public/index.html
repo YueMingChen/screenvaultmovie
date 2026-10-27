@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f1eee6" />
+    <meta
+      name="description"
+      content="SIGNAL · AI 信号：把 AI 的噪音，整理成可用的信号。每日聚合 AI 新闻、产品发布、研究与真正能上手的使用指南。"
+    />
+    <title>SIGNAL · AI 信号</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <svg class="svg-sprite" aria-hidden="true">
+      <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5"></circle><path d="m16 16 4.5 4.5"></path></symbol>
+      <symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6 3.5h12v17L12 16l-6 4.5v-17Z"></path></symbol>
+      <symbol id="i-arrow" viewBox="0 0 24 24"><path d="M4 12h15M13 5.5 19.5 12 13 18.5"></path></symbol>
+      <symbol id="i-close" viewBox="0 0 24 24"><path d="M5 5l14 14M19 5 5 19"></path></symbol>
+      <symbol id="i-translate" viewBox="0 0 24 24"><path d="M4 5h8M8 3v2M5.5 5c.4 3.2 2.1 5.7 5.2 7.5M3 13h9M11 5c-.4 4.2-2.8 7.4-7 9.5M14 20l3.5-8 3.5 8M15.2 17h4.6"></path></symbol>
+      <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4 11 13M19 14v5H5V5h5"></path></symbol>
+      <symbol id="i-spark" viewBox="0 0 24 24"><path d="M12 2.5 14 9l6.5 2-6.5 2-2 6.5-2-6.5L3.5 11 10 9l2-6.5Z"></path></symbol>
+    </svg>
+
+    <div class="page-noise" aria-hidden="true"></div>
+
+    <header class="site-header">
+      <a href="#top" class="brand" aria-label="SIGNAL 首页">
+        <span class="brand-block"><span class="brand-dot"></span></span>
+        <span class="brand-name">SIGNAL</span>
+        <span class="brand-cn">AI 信号</span>
+      </a>
+
+      <nav class="main-nav" aria-label="主导航">
+        <a href="#latest">最新</a>
+        <a href="#guides">使用指南</a>
+        <a href="#tools">工具</a>
+      </nav>
+
+      <form class="search" id="searchForm" role="search">
+        <svg class="icon"><use href="#i-search"></use></svg>
+        <input id="searchInput" type="search" placeholder="搜索模型、公司、话题" autocomplete="off" spellcheck="false" aria-label="搜索 AI 资讯" />
+        <kbd>/</kbd>
+      </form>
+
+      <div class="header-actions">
+        <button class="saved-button" id="savedButton" type="button" aria-pressed="false">
+          <svg class="icon"><use href="#i-bookmark"></use></svg>
+          <span>收藏</span>
+          <span class="saved-count" id="savedCount">0</span>
+        </button>
+      </div>
+    </header>
+
+    <div class="live-strip">
+      <span class="live-label"><span class="live-dot"></span>LIVE</span>
+      <span class="live-copy" id="liveCopy">正在读取信号…</span>
+      <div class="ticker" aria-hidden="true"><div class="ticker-track" id="tickerTrack"></div></div>
+      <span class="live-updated" id="liveUpdated">—</span>
+    </div>
+
+    <main id="top">
+      <section class="hero" aria-label="今日焦点">
+        <div class="hero-main">
+          <p class="eyebrow"><span class="eyebrow-square"></span><span id="heroCategory">今日焦点</span><span class="eyebrow-en">LEAD SIGNAL</span></p>
+          <h1 class="hero-title" id="heroTitle">正在接收 AI 信号…</h1>
+          <p class="hero-original" id="heroOriginal"></p>
+          <p class="hero-summary" id="heroSummary">从全球 AI 媒体、实验室和独立作者的最新内容中，筛出值得你花十分钟的那一条。</p>
+          <div class="hero-meta" id="heroMeta"></div>
+          <div class="hero-actions">
+            <button class="button button-dark" id="heroOpen" type="button">阅读这条 <svg class="icon"><use href="#i-arrow"></use></svg></button>
+            <button class="button button-line" id="heroSave" type="button"><svg class="icon"><use href="#i-bookmark"></use></svg><span>保存</span></button>
+            <a class="hero-source-link" id="heroSource" href="#" target="_blank" rel="noreferrer">原文 <svg class="icon"><use href="#i-external"></use></svg></a>
+          </div>
+        </div>
+
+        <aside class="hero-side" aria-label="今日速览">
+          <div class="hero-side-head">
+            <span class="side-label">TODAY'S SIGNAL</span>
+            <span class="side-count" id="heroSideCount">04</span>
+          </div>
+          <div class="hero-side-list" id="heroSideList"></div>
+          <div class="hero-side-foot">
+            <span>每 2 小时更新</span>
+            <span class="side-line"></span>
+            <span id="heroSideDate">—</span>
+          </div>
+        </aside>
+      </section>
+
+      <section class="signal-strip" aria-label="数据概览">
+        <div class="signal-stat"><strong id="statArticles">—</strong><span>条信号</span></div>
+        <div class="signal-stat"><strong id="statSources">—</strong><span>个来源</span></div>
+        <div class="signal-stat"><strong id="statGuides">—</strong><span>篇指南</span></div>
+        <div class="signal-note">
+          <span class="note-mark">S /</span>
+          <p>不是又一个信息流。这里只保留值得点开原文的 AI 动态，以及普通人真正用得上的方法。</p>
+        </div>
+      </section>
+
+      <section class="latest-section" id="latest">
+        <header class="section-head">
+          <div class="section-index"><span>01</span><span>LATEST SIGNALS</span></div>
+          <div class="section-title-row">
+            <h2>最新信号</h2>
+            <p id="resultSummary">正在读取…</p>
+          </div>
+        </header>
+
+        <div class="filters">
+          <div class="category-filter" id="categoryFilter" aria-label="按类型筛选"></div>
+          <div class="filter-tools">
+            <label class="select-wrap">
+              <span>来源</span>
+              <select id="sourceFilter" aria-label="按来源筛选">
+                <option value="all">全部来源</option>
+              </select>
+            </label>
+            <label class="select-wrap">
+              <span>时间</span>
+              <select id="timeFilter" aria-label="按时间筛选">
+                <option value="all">全部时间</option>
+                <option value="24">24 小时内</option>
+                <option value="168">7 天内</option>
+                <option value="720">30 天内</option>
+              </select>
+            </label>
+            <button class="clear-button" id="clearFilters" type="button" hidden>清除筛选</button>
+          </div>
+        </div>
+
+        <div class="latest-layout">
+          <div class="feed-wrap">
+            <div class="feed-head">
+              <span id="feedLabel">ALL SIGNALS</span>
+              <span id="feedCount">—</span>
+            </div>
+            <div class="story-list" id="storyList" aria-live="polite"></div>
+            <div class="empty-state" id="emptyState" hidden>
+              <span class="empty-mark">∅</span>
+              <h3>没有匹配的信号</h3>
+              <p>换一个关键词，或者放宽筛选条件。</p>
+              <button class="button button-line" id="emptyReset" type="button">重置筛选</button>
+            </div>
+            <div class="load-wrap">
+              <button class="load-button" id="loadMore" type="button" hidden>继续加载 <span id="loadCount"></span></button>
+            </div>
+          </div>
+
+          <aside class="side-column">
+            <section class="side-panel dark-panel" aria-labelledby="miniGuideTitle">
+              <div class="side-panel-head">
+                <span class="side-label">PLAYBOOK</span>
+                <span class="side-number">06</span>
+              </div>
+              <h2 id="miniGuideTitle">把 AI 用起来</h2>
+              <div class="mini-guides" id="miniGuides"></div>
+              <a class="side-link" href="#guides">查看全部指南 <svg class="icon"><use href="#i-arrow"></use></svg></a>
+            </section>
+
+            <section class="side-panel tool-panel" aria-labelledby="toolTitle">
+              <div class="side-panel-head">
+                <span class="side-label">TOOL RADAR</span>
+                <span class="side-number">06</span>
+              </div>
+              <h2 id="toolTitle">工具雷达</h2>
+              <div class="mini-tools" id="miniTools"></div>
+              <a class="side-link" href="#tools">完整工具清单 <svg class="icon"><use href="#i-arrow"></use></svg></a>
+            </section>
+
+            <p class="side-disclaimer">SIGNAL 只聚合标题、摘要与原文链接。文章版权归原作者所有。</p>
+          </aside>
+        </div>
+      </section>
+
+      <section class="guides-section" id="guides">
+        <header class="guides-head">
+          <div class="section-index light"><span>02</span><span>THE PLAYBOOK</span></div>
+          <div class="guides-title-row">
+            <div>
+              <h2>把 AI 用起来</h2>
+              <p>六篇原创指南。从第一次对话，到把 AI 接进你的工作流。</p>
+            </div>
+            <span class="guides-stamp">ORIGINAL<br />BY SIGNAL</span>
+          </div>
+        </header>
+        <div class="guide-grid" id="guideGrid"></div>
+      </section>
+
+      <section class="tools-section" id="tools">
+        <header class="section-head">
+          <div class="section-index"><span>03</span><span>TOOL RADAR</span></div>
+          <div class="section-title-row">
+            <div>
+              <h2>现在值得打开的 AI 工具</h2>
+              <p>不追新，只保留真正能改变工作方式的工具。</p>
+            </div>
+            <span class="tools-note">最后检查 / 2026.10</span>
+          </div>
+        </header>
+        <div class="tool-grid" id="toolGrid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-brand">
+        <span class="brand-block"><span class="brand-dot"></span></span>
+        <span class="brand-name">SIGNAL</span>
+        <span class="brand-cn">AI 信号</span>
+      </div>
+      <p class="footer-copy">把 AI 的噪音，整理成可用的信号。<br />一个个人 AI 资讯实验，不是投资建议，也不替代原始来源。</p>
+      <div class="footer-links">
+        <a href="#latest">最新</a>
+        <a href="#guides">指南</a>
+        <a href="https://github.com/YueMingChen" target="_blank" rel="noreferrer">GitHub <svg class="icon"><use href="#i-external"></use></svg></a>
+      </div>
+      <div class="footer-bottom">
+        <span>© <span id="yearNow">2026</span> SIGNAL</span>
+        <span>聚合内容版权归原作者 · 机器翻译可能有误</span>
+      </div>
+    </footer>
+
+    <div class="modal-backdrop" id="modalBackdrop" hidden></div>
+
+    <article class="article-modal" id="articleModal" role="dialog" aria-modal="true" aria-labelledby="articleTitle" aria-hidden="true">
+      <button class="modal-close" id="articleClose" type="button" aria-label="关闭文章"><svg class="icon"><use href="#i-close"></use></svg></button>
+      <div class="article-scroll" id="articleContent"></div>
+    </article>
+
+    <article class="guide-modal" id="guideModal" role="dialog" aria-modal="true" aria-labelledby="guideTitle" aria-hidden="true">
+      <button class="modal-close" id="guideClose" type="button" aria-label="关闭指南"><svg class="icon"><use href="#i-close"></use></svg></button>
+      <div class="guide-scroll" id="guideContent"></div>
+    </article>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <noscript><div class="noscript">SIGNAL 需要 JavaScript 才能加载资讯。</div></noscript>
+    <script type="module" src="/signal.js"></script>
+  </body>
+</html>

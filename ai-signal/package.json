@@ -1,0 +1,16 @@
+{
+  "name": "signal-ai",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "SIGNAL · 把 AI 的噪音，整理成可用的信号",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "collect": "node scripts/collect.mjs",
+    "build": "node scripts/check.mjs"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}
