@@ -1,6 +1,272 @@
 {
-  "generatedAt": "2026-10-27T19:28:03.581Z",
+  "generatedAt": "2026-10-27T23:48:55.416Z",
   "articles": [
+    {
+      "id": "6210b5315dda5af848",
+      "titleOriginal": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "summaryOriginal": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "titleZh": "父母起诉OpenAI ，声称GPT-4o指导他们的女儿戒断癫痫药物",
+      "summaryZh": "一家人正在起诉OpenAI ，称ChatGPT指导他们的女儿在2月份去世前悄悄减少她的癫痫发作药物，并向她的医生隐瞒。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T23:34:27.000Z",
+      "author": "Aditya Mehta",
+      "tags": [
+        "news",
+        "AI",
+        "TC",
+        "OpenAI Files"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "60c7ab833e0584eeba",
+      "titleOriginal": "【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购",
+      "summaryOriginal": "【钛媒体综合】作为全球新能源汽车与智能出行产业大国，近期，中国依托产业实践，在国际标准化组织（ISO）、国际电工委员会（IEC）等国际标准组织框架下，积极推进电动汽车充电适配器、智能车灯等重点领域国际标准研制，为全球智能出行产业协同发展提供标准化支撑。 充电接口兼容性直接影响消费者跨地区、跨国出行的补能体验。国际电工委员会近日正式发布电动汽车适配器国际标准《电动汽车传导式充电车辆适配器》（IEC TS 62196-7:2026），该标准聚焦直流充电车辆适配器核心技术规范，有助于解决适配器充电导致的安全性差与可靠性低的问题。 汽车前照明光束的合理调整是夜间行车安全的关键保障。国际标准化组织正式发布《道路车辆 前照明光束定位测量程序》（ISO 10604:2026），这是中国牵头修订的首个系统覆盖智能车灯光束定位测量程序的国际标准。随着自适应远光灯等智能车灯技术加速普及，统一的测量程序将帮助全球制造商和检测机构更准确地评估车灯光束定位性能，为消费者夜间行车提供更可靠的安全保障。 下一步，市场监管总局将引导智能出行领域的科研机构和企业专业力量更多参与国际标准研制，深化与各国标准化务实交流，助",
+      "titleZh": "【钛晨报】多项智能出行国际标准发布；Anthropic降价引爆调用量，知名投资人：1000亿美元级年终ARR再成可能；东山精密：最终发售价为每股86.8港元，国际发售获3.17倍认购",
+      "summaryZh": "【钛媒体综合】作为全球新能源汽车与智能出行产业大国，近期，中国依托产业实践，在国际标准化组织（ISO）、国际电工委员会（IEC）等国际标准组织框架下，积极推进电动汽车充电适配器、智能车灯等重点领域国际标准研制，为全球智能出行产业协同发展提供标准化支撑。 充电接口兼容性直接影响消费者跨地区、跨国出行的补能体验。国际电工委员会近日正式发布电动汽车适配器国际标准《电动汽车传导式充电车辆适配器》（IEC TS 62196-7:2026），该标准聚焦直流充电车辆适配器核心技术规范，有助于解决适配器充电导致的安全性差与可靠性低的问题。 汽车前照明光束的合理调整是夜间行车安全的关键保障。国际标准化组织正式发布《道路车辆 前照明光束定位测量程序》（ISO 10604:2026），这是中国牵头修订的首个系统覆盖智能车灯光束定位测量程序的国际标准。随着自适应远光灯等智能车灯技术加速普及，统一的测量程序将帮助全球制造商和检测机构更准确地评估车灯光束定位性能，为消费者夜间行车提供更可靠的安全保障。 下一步，市场监管总局将引导智能出行领域的科研机构和企业专业力量更多参与国际标准研制，深化与各国标准化务实交流，助",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8183890.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-27T23:20:00.000Z",
+      "author": "钛媒体官方账号",
+      "tags": [
+        "launch",
+        "主编精选文章",
+        "钛早了！晨报",
+        "飞书",
+        "Anthropic"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "1f592db8b0867fb6d5",
+      "titleOriginal": "The data center boom has an upside: innovation for the US grid",
+      "summaryOriginal": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "titleZh": "数据中心热潮有一个好处：美国电网的创新",
+      "summaryZh": "业内人士表示，随着人工智能热潮对现有电网的压力，电网现代化的各种新机遇也随之出现。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T22:55:41.000Z",
+      "author": "Lucas Ropek",
+      "tags": [
+        "news",
+        "AI",
+        "data centers",
+        "TechCrunch Disrupt",
+        "Veir"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "35bbc8f101de0e4f1c",
+      "titleOriginal": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
+      "summaryOriginal": "这个世界只能维持 120 秒，然后一切开始崩塌。然而在这两分钟里，你可以随时改变天气、召唤巨龙，甚至让一座城市为你拔地而起。 刚刚，Google DeepMind 正式发布新一代世界模型 Genie 4，AI 生成的虚拟世界，又向现实迈进了一大步。 相比上一代，Genie 4 不仅让画面更加逼真，还能实时生成声音、模拟物理规律，甚至让用户直接走进 AI 创造的世界，随时改变天气、添加人物，与虚拟角色对话。 更重要的是，谷歌还将 Gemini 引入世界模拟，让大语言模型负责规划行动，Genie 4 负责实时生成环境。过去只能观看的 AI 视频，正在变成一个可以自由探索、持续互动的虚拟世界。 AI 视频的下一站，是可以走进去的世界 早在 2024 年，Google DeepMind 就推出了 Genie 1，尝试从视频中学习动作与环境变化之间的关系。随后，Genie 2 将能力扩展到可探索的三维环境，2025 年发布的 Genie 3 则实现了实时生成、实时交互。 如今，Genie 4 在真实感、物理模拟和交互能力上再次升级，单次模拟时长也从约一分钟延长至两分钟。 根据谷歌公布的演示，用户",
+      "titleZh": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
+      "summaryZh": "这个世界只能维持 120 秒，然后一切开始崩塌。然而在这两分钟里，你可以随时改变天气、召唤巨龙，甚至让一座城市为你拔地而起。 刚刚，Google DeepMind 正式发布新一代世界模型 Genie 4，AI 生成的虚拟世界，又向现实迈进了一大步。 相比上一代，Genie 4 不仅让画面更加逼真，还能实时生成声音、模拟物理规律，甚至让用户直接走进 AI 创造的世界，随时改变天气、添加人物，与虚拟角色对话。 更重要的是，谷歌还将 Gemini 引入世界模拟，让大语言模型负责规划行动，Genie 4 负责实时生成环境。过去只能观看的 AI 视频，正在变成一个可以自由探索、持续互动的虚拟世界。 AI 视频的下一站，是可以走进去的世界 早在 2024 年，Google DeepMind 就推出了 Genie 1，尝试从视频中学习动作与环境变化之间的关系。随后，Genie 2 将能力扩展到可探索的三维环境，2025 年发布的 Genie 3 则实现了实时生成、实时交互。 如今，Genie 4 在真实感、物理模拟和交互能力上再次升级，单次模拟时长也从约一分钟延长至两分钟。 根据谷歌公布的演示，用户",
+      "translated": true,
+      "url": "https://www.ifanr.com/1686234",
+      "sourceId": "ifanr",
+      "sourceName": "爱范儿",
+      "sourceSite": "https://www.ifanr.com/",
+      "sourceColor": "#d63b2f",
+      "lang": "zh",
+      "publishedAt": "2026-10-27T22:37:04.000Z",
+      "author": "莫崇宇",
+      "tags": [
+        "launch",
+        "公司",
+        "AI"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "538a3b89665c34dc9d",
+      "titleOriginal": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
+      "summaryOriginal": "UC Berkeley’s Sky Computing Lab built LEANN , an open-source vector index that stores almost no embeddings. The LEANN vector index recomputes embeddings at query time instead of saving them to disk. The repo benchmark shows a 60 million chunk Wikipedia index dropping from 201 GB to 6 GB. The research paper won the Best Research Paper award at MLSys 2026 . So, it brings semantic search and RAG over personal data, on a laptop. TL;DR Size: 6 GB for 60M chunks ( repo ); 4 GB in the paper’s 76 GB Wik",
+      "titleZh": "认识LEANN ：将6000万块RAG索引从201 GB缩小到6 GB的开源矢量索引",
+      "summaryZh": "加州大学伯克利分校的天空计算实验室构建了LEANN ，这是一个开源矢量索引，几乎不存储任何嵌入。LEANN矢量索引在查询时重新计算嵌入，而不是将其保存到磁盘。回购基准显示， 6000万块维基百科索引从201 GB降至6 GB。该研究论文在MLSys 2026上获得了最佳研究论文奖。因此，它在笔记本电脑上带来了语义搜索和个人数据的RAG。TL ； DR大小： 6 GB用于6000万块（存储库） ；论文中的76 GB Wik为4 GB",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-27T21:54:37.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Paper Summary",
+        "AI Shorts"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "f45c20f72906e9105c",
+      "titleOriginal": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "summaryOriginal": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "titleZh": "美国银行恳请您不要与AI助手分享您的银行密码",
+      "summaryZh": "这家银行巨头提醒客户，由于您的人工智能代理的访问权限， “您对活动负责”。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T21:44:34.000Z",
+      "author": "Zack Whittaker",
+      "tags": [
+        "news",
+        "AI",
+        "Fintech",
+        "Security",
+        "agentic payments"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a9a2cf8c96fedf8c4a",
+      "titleOriginal": "Who’s really in charge at Anthropic after the IPO?",
+      "summaryOriginal": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "titleZh": "首次公开募股后， Anthropic的真正负责人是谁？",
+      "summaryZh": "以下是对Anthropic极其复杂的治理结构的清晰解释。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T21:38:28.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Anthropic",
+        "IPO"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c5d050a42c88468aa6",
+      "titleOriginal": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
+      "summaryOriginal": "Liquid AI has released LFM3 , its new generation of Liquid Foundation Models. Liquid AI LFM3 is a family of 6 open-weight, 2B-class models built on one shared backbone. The family covers text, vision, audio, omni and decision tasks. Every model can be fine-tuned on a single GPU. Developers can then deploy on phones, laptops, private servers or the cloud. TL;DR Size: LFM3-1.7B has 1.73B parameters and a 256K context window . LFM3-VL-2B has 1.92B and 128K. LFM3-Omni-2B has 2.2B. Runs on: about 1 G",
+      "titleZh": "Liquid AI发布LFM3 ： 6款开放式重量2B级多式联运车型",
+      "summaryZh": "Liquid AI发布了新一代Liquid Foundation Models LFM3。Liquid AI LFM3是在一个共享骨干网上构建的6种开放式重量2B级型号。该系列涵盖文本、视觉、音频、全向和决策任务。每个型号都可以在单个GPU上进行微调。然后，开发人员可以在手机、笔记本电脑、专用服务器或云上进行部署。TL; DR大小： LFM3-1.7B具有1.73 B参数和256K上下文窗口。LFM3-VL-2B有1.92 B和128K。LFM3-Omni-2B有2.2B。运行：约1 G",
+      "translated": true,
+      "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+      "sourceId": "marktechpost",
+      "sourceName": "MarkTechPost",
+      "sourceSite": "https://www.marktechpost.com/",
+      "sourceColor": "#9a6b00",
+      "lang": "en",
+      "publishedAt": "2026-10-27T21:08:02.000Z",
+      "author": "Asif Razzaq",
+      "tags": [
+        "research",
+        "Agentic AI",
+        "AI Infrastructure",
+        "AI Shorts",
+        "Artificial Intelligence"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "c2d06bdb8d09c19a73",
+      "titleOriginal": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+      "summaryOriginal": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training infrastructure got baked into the models as a learned behavior. The article Alibaba's latest Qwen models routed some requests through company servers, researchers find appeared first on The Decoder .",
+      "titleZh": "研究人员发现，阿里巴巴最新的Qwen模型通过公司服务器路由了一些请求",
+      "summaryZh": "阿里巴巴的Qwen 3.8机型在测试期间试图将数据发送到公司自己的云服务器。Palisade Research在3.8代的三种型号中发现了这种行为，而旧型号不受影响。可能的原因是：阿里巴巴的培训基础设施作为一种学习行为被纳入了模型。研究人员发现，阿里巴巴最新的Qwen模型通过公司服务器路由了一些请求，这篇文章首先出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-27T19:45:49.000Z",
+      "author": "Manuel Uth",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "AI and safety",
+        "Alibaba"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "47671cae5a4eb911fe",
+      "titleOriginal": "Anthropic Says It Will Revolutionize Biology—Some Day",
+      "summaryOriginal": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
+      "titleZh": "人类学说它将彻底改变生物学--总有一天",
+      "summaryZh": "在令人喘不过气来的新闻稿和帖子中，该公司吹捧其模型实现科学突破的能力。但其IPO申请表明，其人工智能将以多快的速度带来重大发现。",
+      "translated": true,
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-27T19:39:04.000Z",
+      "author": "Emily Mullin",
+      "tags": [
+        "launch",
+        "Science",
+        "Science / Biotech",
+        "Business"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a9c65cb8282253c621",
+      "titleOriginal": "Game Boy Color on My Conference Badge",
+      "summaryOriginal": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve Francia... who worked with Gemini to get a full NES emulator working on it, and then went a step further and deployed an emulator for both the Game Boy and the Game Boy Color. Which means, if you can obtain the ROM, you can run The Legend of Zelda: Link's Awakening on y",
+      "titleZh": "我的会议徽章上的Game Boy颜色",
+      "summaryZh": "我的会议徽章上的Game Boy颜色我本周在GitHub Universe ，与去年类似，会议徽章是一款成熟的彩色屏幕计算机。我一直在使用它，然后我遇到了Steve Francia......他与Gemini合作开发了一个完整的NES模拟器，然后更进一步，为Game Boy和Game Boy Color部署了一个模拟器。也就是说，如果你能获得ROM ，你就可以运行《塞尔达传说：链接的觉醒》",
+      "translated": true,
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge/",
+      "sourceId": "simonwillison",
+      "sourceName": "Simon Willison",
+      "sourceSite": "https://simonwillison.net/",
+      "sourceColor": "#2f6f4e",
+      "lang": "en",
+      "publishedAt": "2026-10-27T19:34:18.000Z",
+      "author": "",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "44543de8094b27f032",
       "titleOriginal": "Disruptive raises $10B fund to make big bets on at least 10 companies",
@@ -295,6 +561,28 @@
       "readingMinutes": 2
     },
     {
+      "id": "d42fb1eb3362412fc3",
+      "titleOriginal": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summaryOriginal": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "titleZh": "Retell使用OpenAI模型来帮助推动每月1亿次通话",
+      "summaryZh": "GPT-6 Astra在Retell的语音代理基准中名列前茅，而Codex帮助其达到了每名员工160万美元的年收入运行率。",
+      "translated": true,
+      "url": "https://openai.com/index/retell-ai",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-27T15:00:00.000Z",
+      "author": "",
+      "tags": [
+        "research",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
       "id": "122f4e228239d6c9e1",
       "titleOriginal": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "summaryOriginal": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
@@ -323,9 +611,9 @@
       "id": "6c51131286ab98d504",
       "titleOriginal": "Coding From the Himalayas With an Offline AI Agent",
       "summaryOriginal": "When we talk about working remotely , we take a lot of things for granted, especially reliable internet and power. But sometimes, working remotely means trying to get something done on a flight, during a long train ride, or somewhere with little or no network. I moved to the foothills of the Himalayas a year ago. I love the peace of living here, but it also comes with its own challenges, including network and power outages . Things I didn’t think about as much before are now part of planning my",
-      "titleZh": "Coding From the Himalayas With an Offline AI Agent",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "与离线人工智能代理一起在喜马拉雅山编程",
+      "summaryZh": "当我们谈论远程工作时，我们认为很多事情都是理所当然的，尤其是可靠的互联网和电力。但有时候，远程工作意味着尝试在航班上、在长途火车上或很少或没有网络的地方完成某件事。一年前，我搬到了喜马拉雅山的山脚下。我喜欢这里的宁静生活，但它也带来了自己的挑战，包括网络和停电。我以前没有想到的事情现在是我计划的一部分",
+      "translated": true,
       "url": "https://latent.space/p/offline-coding/",
       "sourceId": "latentspace",
       "sourceName": "Latent Space",
@@ -346,9 +634,9 @@
       "id": "cac2f27240b1148c12",
       "titleOriginal": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
       "summaryOriginal": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks. The article Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations appeared first on The Decoder .",
-      "titleZh": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "前Deepmind研究人员认为AlphaGo的剧本可以治愈AI幻觉",
+      "summaryZh": "前Deepmind研究员Thore Graepel希望他的创业公司Metis Reasoning将AlphaGo的搜索原理引入一般推理。明确的知识分类账不会将知识锁定在模型权重中，而是使每个结论都可以根据证据进行检查。然而，到目前为止，还没有工作系统和基准。前Deepmind研究人员认为AlphaGo的剧本可以治愈人工智能幻觉的文章首次出现在The Decoder上。",
+      "translated": true,
       "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
       "sourceId": "thedecoder",
       "sourceName": "The Decoder",
@@ -391,9 +679,9 @@
       "id": "0d516a24ee36aa2dcb",
       "titleOriginal": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
       "summaryOriginal": "Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, and tweak written content. It can also calculate, visualize, and organize data in Numbers, while suggesting chart types and building custom tables. App",
-      "titleZh": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "summaryZh": "",
-      "translated": false,
+      "titleZh": "Apple正在为Pages、Keynote和Numbers添加AI聊天机器人",
+      "summaryZh": "苹果正在将人工智能助手引入其生产力应用程序套件，包括Keynote、Pages和Numbers。该助手基于Apple和OpenAI的AI模型构建，可以理解文档的上下文，以执行Keynote中的设计、动画和优化幻灯片等任务。在Pages中， Apple表示AI助手可以起草、重组和调整书面内容。它还可以在Numbers中计算、可视化和组织数据，同时建议图表类型并生成自定义表。应用程序",
+      "translated": true,
       "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
       "sourceId": "theverge",
       "sourceName": "The Verge AI",
@@ -631,7 +919,7 @@
     {
       "id": "b007bafd9ff10551e0",
       "titleOriginal": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "summaryOriginal": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "summaryOriginal": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
       "titleZh": "英伟达支持印度初创公司帮助公司使用更少的GPU运行人工智能模型",
       "summaryZh": "Simplismart表示，其年化收入运行率在六个月内增长了14倍，其中美国占其收入的一半以上。",
       "translated": true,
@@ -1344,6 +1632,27 @@
         "Anthropic",
         "iPad Mini",
         "iPhone Duo"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "8cb333260a17a32443",
+      "titleOriginal": "How Check Point accelerates vulnerability research with Daybreak",
+      "summaryOriginal": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "titleZh": "How Check Point accelerates vulnerability research with Daybreak",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/check-point-daybreak",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-27T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "research"
       ],
       "category": "research",
       "readingMinutes": 2
@@ -5372,7 +5681,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 32
+      "count": 34
     },
     {
       "id": "deepmind",
@@ -5388,7 +5697,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 25
+      "count": 29
     },
     {
       "id": "theverge",
@@ -5412,7 +5721,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 11
+      "count": 12
     },
     {
       "id": "thedecoder",
@@ -5420,7 +5729,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 12
+      "count": 13
     },
     {
       "id": "marktechpost",
@@ -5428,7 +5737,7 @@
       "site": "https://www.marktechpost.com/",
       "lang": "en",
       "color": "#9a6b00",
-      "count": 10
+      "count": 12
     },
     {
       "id": "simonwillison",
@@ -5436,7 +5745,7 @@
       "site": "https://simonwillison.net/",
       "lang": "en",
       "color": "#2f6f4e",
-      "count": 30
+      "count": 31
     },
     {
       "id": "oneusefulthing",
@@ -5460,7 +5769,7 @@
       "site": "https://www.ifanr.com/",
       "lang": "zh",
       "color": "#d63b2f",
-      "count": 11
+      "count": 12
     },
     {
       "id": "sspai",
@@ -5476,7 +5785,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 15
+      "count": 16
     },
     {
       "id": "infoq",
@@ -5488,9 +5797,9 @@
     }
   ],
   "stats": {
-    "total": 238,
+    "total": 251,
     "guides": 14,
-    "translated": 26,
+    "translated": 39,
     "sources": 15
   }
 }
