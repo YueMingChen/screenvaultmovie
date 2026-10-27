@@ -107,7 +107,11 @@ npm run sync:full
 ├── scripts/
 │   └── sync-tmdb.mjs          # TMDB 批量抓取与去重合并
 ├── api/
-│   └── [...route].mjs          # Vercel 统一 API 入口
+│   ├── health.mjs              # /api/health
+│   ├── home.mjs                # /api/home
+│   ├── movies/                 # /api/movies、/api/movies/:id
+│   ├── random.mjs              # /api/random
+│   └── ping.mjs                # 运行时诊断
 ├── public/
 │   ├── index.html
 │   ├── styles.css

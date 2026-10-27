@@ -6,7 +6,13 @@ Vercel 版本使用「静态页面 + 一个 Serverless Function」，不需要�
 
 ```text
 public/                 静态页面、CSS、JS、TMDB logo
-api/[...route].mjs      /api/* 的统一入口
+api/
+  health.mjs            /api/health
+  home.mjs              /api/home
+  movies/index.mjs      /api/movies
+  movies/[id].mjs       /api/movies/:id
+  random.mjs            /api/random
+  ping.mjs              最小运行时诊断入口
 lib/vercel-api.mjs      API 路由、缓存头、错误处理
 lib/catalog.mjs         搜索、筛选、排序、推荐
 data/movies.json        已同步的 6,781 部电影
@@ -33,7 +39,7 @@ vercel.json             build、Function、CSP 配置
 
 `vercel.json` 里已经配置了：
 
-- Function 入口：`api/**/*.mjs`
+- Function 入口：`api/**/*.mjs`（按路由拆分）
 - 把 `data/movies.json` 打包进 Function
 - 新加坡 Function 区域 `sin1`
 - CSP、安全响应头
