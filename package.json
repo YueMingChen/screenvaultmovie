@@ -10,7 +10,7 @@
     "sync": "node scripts/sync-tmdb.mjs",
     "sync:full": "node scripts/sync-tmdb.mjs --full",
     "test": "node --test",
-    "build": "node scripts/check-vercel-data.mjs"
+    "build": "node scripts/build-vercel.mjs"
   },
   "engines": {
     "node": ">=18.17"

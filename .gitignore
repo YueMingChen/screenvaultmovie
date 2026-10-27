@@ -6,3 +6,4 @@ data/movies.json.tmp
 coverage/
 .venv/
 .render/
+dist/

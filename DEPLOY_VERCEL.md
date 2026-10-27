@@ -25,7 +25,7 @@ vercel.json             build、Function、CSP 配置
 | Framework Preset | `Other` |
 | Root Directory | `./` |
 | Build Command | `npm run build` |
-| Output Directory | `public` |
+| Output Directory | `dist` |
 | Install Command | 默认 |
 | Environment Variables | 不需要 |
 
@@ -37,7 +37,7 @@ vercel.json             build、Function、CSP 配置
 - 把 `data/movies.json` 打包进 Function
 - 新加坡 Function 区域 `sin1`
 - CSP、安全响应头
-- 静态文件输出目录 `public`
+- 静态文件输出目录 `dist`（构建时从 `public/` 复制）
 
 ## 验证
 
@@ -78,7 +78,7 @@ https://你的地址/api/health
 
 **部署时报 Output Directory 不存在**
 
-确认 Vercel 的 Output Directory 设置为 `public`，并确认仓库根目录有 `public/index.html`。
+确认 Vercel 的 Output Directory 设置为 `dist`，并且构建命令成功生成了 `dist/index.html`。
 
 **打开很慢**
 

@@ -1,70 +1,66 @@
 import assert from 'node:assert/strict';
-import { once } from 'node:events';
 import { readFile } from 'node:fs/promises';
-import http from 'node:http';
 import path from 'node:path';
 import test from 'node:test';
 
-import handler from '../api/[...route].mjs';
+import { GET, HEAD } from '../api/[...route].mjs';
+import { handleApiRequest } from '../lib/vercel-api.mjs';
 
-async function start() {
-  const server = http.createServer(handler);
-  server.listen(0, '127.0.0.1');
-  await once(server, 'listening');
-  const { port } = server.address();
-  return { server, base: `http://127.0.0.1:${port}` };
-}
-
-test('Vercel catch-all function serves all API routes', async (t) => {
-  const { server, base } = await start();
-  t.after(() => server.close());
-
-  const health = await fetch(`${base}/api/health`).then((response) => response.json());
+test('Vercel Web Handler serves health, home, search and detail', async () => {
+  const healthResponse = await GET(new Request('https://example.com/api/health'));
+  assert.equal(healthResponse.status, 200);
+  assert.match(healthResponse.headers.get('cache-control'), /s-maxage=60/);
+  const health = await healthResponse.json();
   assert.equal(health.ok, true);
   assert.equal(health.runtime, 'vercel');
   assert.ok(health.movies >= 90);
 
-  const home = await fetch(`${base}/api/home`).then((response) => response.json());
+  const homeResponse = await GET(new Request('https://example.com/api/home'));
+  assert.equal(homeResponse.status, 200);
+  const home = await homeResponse.json();
   assert.ok(home.hero.length > 0);
   assert.equal(home.meta.stats.total, health.movies);
 
-  const list = await fetch(`${base}/api/movies?pageSize=3&q=${encodeURIComponent('蜘蛛')}`).then(
-    (response) => response.json(),
+  const searchResponse = await GET(
+    new Request(`https://example.com/api/movies?pageSize=3&q=${encodeURIComponent('蜘蛛')}`),
   );
-  assert.ok(list.total >= 1);
-  assert.equal(list.items.length, 3);
+  const search = await searchResponse.json();
+  assert.ok(search.total >= 1);
+  assert.equal(search.items.length, 3);
 
   const id = home.hero[0].id;
-  const detail = await fetch(`${base}/api/movies/${id}`).then((response) => response.json());
+  const detailResponse = await GET(new Request(`https://example.com/api/movies/${id}`));
+  const detail = await detailResponse.json();
   assert.equal(detail.item.id, id);
+  assert.ok(Array.isArray(detail.related));
 
-  const random = await fetch(`${base}/api/random`).then((response) => response.json());
+  const randomResponse = await GET(new Request('https://example.com/api/random'));
+  const random = await randomResponse.json();
   assert.ok(random.item.id);
-
-  const missing = await fetch(`${base}/api/does-not-exist`);
-  assert.equal(missing.status, 404);
-
-  const post = await fetch(`${base}/api/health`, { method: 'POST' });
-  assert.equal(post.status, 405);
-  assert.equal(post.headers.get('allow'), 'GET, HEAD');
 });
 
-test('Vercel handler supports HEAD and cache headers', async (t) => {
-  const { server, base } = await start();
-  t.after(() => server.close());
+test('Vercel Web Handler returns proper errors and HEAD responses', async () => {
+  const missing = await GET(new Request('https://example.com/api/does-not-exist'));
+  assert.equal(missing.status, 404);
 
-  const health = await fetch(`${base}/api/health`, { method: 'HEAD' });
-  assert.equal(health.status, 200);
-  assert.match(health.headers.get('cache-control'), /s-maxage=60/);
-  assert.match(health.headers.get('content-type'), /application\/json/);
-  assert.equal(await health.text(), '');
+  const head = await HEAD(new Request('https://example.com/api/health'));
+  assert.equal(head.status, 200);
+  assert.match(head.headers.get('content-type'), /application\/json/);
+  assert.equal(await head.text(), '');
+
+  const post = await handleApiRequest(
+    new Request('https://example.com/api/health', { method: 'POST' }),
+  );
+  assert.equal(post.status, 405);
+  assert.equal(post.headers.Allow, 'GET, HEAD');
 });
 
 test('vercel.json keeps the catalog in the function bundle', async () => {
   const config = JSON.parse(
     await readFile(path.join(process.cwd(), 'vercel.json'), 'utf8'),
   );
-  assert.equal(config.outputDirectory, 'public');
+  assert.equal(config.buildCommand, 'npm run build');
+  assert.equal(config.outputDirectory, 'dist');
   assert.equal(config.functions['api/**/*.mjs'].includeFiles, 'data/movies.json');
   assert.match(config.headers[0].headers[0].value, /default-src 'self'/);
 });
