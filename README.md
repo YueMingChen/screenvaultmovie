@@ -6,7 +6,12 @@
 
 ## 发布到公网
 
-项目内置了 Render 部署配置（`render.yaml`），可以按 [DEPLOY.md](DEPLOY.md) 发布成一个公开的 HTTPS 网站。Render 上不需要配置 TMDB Key，运行时只读取已同步好的 `data/movies.json`。
+项目支持两种发布方式：
+
+- **Vercel（推荐，无需绑定银行卡）**：按 [DEPLOY_VERCEL.md](DEPLOY_VERCEL.md) 部署静态页面 + Serverless API。
+- **Render**：按 [DEPLOY.md](DEPLOY.md) 使用常驻 Node Web Service（Blueprint 流程可能要求绑定银行卡）。
+
+两种方式都不需要在托管平台配置 TMDB Key，运行时只读取已同步好的 `data/movies.json`。
 
 ## 立即运行
 
@@ -97,13 +102,17 @@ npm run sync:full
 ├── server.mjs                 # 零依赖 Node HTTP 服务和 API
 ├── lib/
 │   ├── catalog.mjs            # 数据标准化、搜索、筛选、排序、推荐
+│   ├── vercel-api.mjs         # Vercel API 路由
 │   └── env.mjs                # 极简 .env 读取
 ├── scripts/
 │   └── sync-tmdb.mjs          # TMDB 批量抓取与去重合并
+├── api/
+│   └── [...route].mjs          # Vercel 统一 API 入口
 ├── public/
 │   ├── index.html
 │   ├── styles.css
 │   └── app.js
+├── vercel.json                # Vercel 构建与 Function 配置
 ├── data/
 │   └── movies.json            # 当前片库（TMDB 同步结果）
 ├── test/
@@ -144,8 +153,9 @@ curl 'http://127.0.0.1:4173/api/movies?q=蜘蛛'
 ## 开发与测试
 
 ```bash
-npm run dev     # 文件变化时自动重启服务
-npm test        # 数据层 + HTTP 接口测试
+npm run dev     # 文件变化时自动重启本地服务
+npm run build   # 校验 Vercel 部署所需的数据文件
+npm test        # 数据层 + 本地 HTTP + Vercel Function 测试
 ```
 
 项目没有前端构建步骤，也没有第三方运行时依赖。修改 `public/` 下的文件后刷新页面即可。
