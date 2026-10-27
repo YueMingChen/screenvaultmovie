@@ -1,0 +1,8 @@
+.env
+node_modules/
+.DS_Store
+*.log
+data/movies.json.tmp
+coverage/
+.venv/
+.render/

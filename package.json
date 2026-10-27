@@ -1,0 +1,17 @@
+{
+  "name": "screenvault",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "银幕 · 一个由 TMDB 驱动的电影发现站",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "sync": "node scripts/sync-tmdb.mjs",
+    "sync:full": "node scripts/sync-tmdb.mjs --full",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}

@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#0a0b0d" />
+    <meta
+      name="description"
+      content="银幕 SCREENVAULT：从成千上万部电影中，发现此刻最值得看的那一部。由 TMDB 提供数据支持。"
+    />
+    <title>银幕 SCREENVAULT · 发现下一部好电影</title>
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <svg class="svg-sprite" aria-hidden="true">
+      <symbol id="icon-search" viewBox="0 0 24 24">
+        <circle cx="11" cy="11" r="6.5"></circle>
+        <path d="m16 16 4.5 4.5"></path>
+      </symbol>
+      <symbol id="icon-heart" viewBox="0 0 24 24">
+        <path d="M20.8 4.7a5.5 5.5 0 0 0-7.8 0L12 5.8l-1.1-1.1a5.5 5.5 0 0 0-7.8 7.8l1.1 1.1L12 21.4l7.8-7.8 1.1-1.1a5.5 5.5 0 0 0-.1-7.8Z"></path>
+      </symbol>
+      <symbol id="icon-check" viewBox="0 0 24 24">
+        <path d="m4 12.5 5 5L20 6.5"></path>
+      </symbol>
+      <symbol id="icon-close" viewBox="0 0 24 24">
+        <path d="M5 5l14 14M19 5 5 19"></path>
+      </symbol>
+      <symbol id="icon-arrow-right" viewBox="0 0 24 24">
+        <path d="M4 12h15M13 5.5 19.5 12 13 18.5"></path>
+      </symbol>
+      <symbol id="icon-arrow-left" viewBox="0 0 24 24">
+        <path d="M20 12H5M11 5.5 4.5 12 11 18.5"></path>
+      </symbol>
+      <symbol id="icon-shuffle" viewBox="0 0 24 24">
+        <path d="M3 7h3.2c4.8 0 6.8 10 11.6 10H21M17 13l4 4-4 4M3 17h3.2c1.3 0 2.4-.7 3.4-1.8M14.4 7.7c.6-.4 1.3-.7 2.1-.7H21M17 3l4 4-4 4"></path>
+      </symbol>
+      <symbol id="icon-bookmark" viewBox="0 0 24 24">
+        <path d="M6 3.5h12v17L12 16l-6 4.5v-17Z"></path>
+      </symbol>
+      <symbol id="icon-grid" viewBox="0 0 24 24">
+        <rect x="3.5" y="3.5" width="6.5" height="6.5" rx="1"></rect>
+        <rect x="14" y="3.5" width="6.5" height="6.5" rx="1"></rect>
+        <rect x="3.5" y="14" width="6.5" height="6.5" rx="1"></rect>
+        <rect x="14" y="14" width="6.5" height="6.5" rx="1"></rect>
+      </symbol>
+      <symbol id="icon-list" viewBox="0 0 24 24">
+        <path d="M9 6h12M9 12h12M9 18h12M4 6h.01M4 12h.01M4 18h.01"></path>
+      </symbol>
+      <symbol id="icon-star" viewBox="0 0 24 24">
+        <path d="m12 3 2.7 5.6 6.1.8-4.5 4.2 1.1 6.1-5.4-3-5.4 3 1.1-6.1-4.5-4.2 6.1-.8L12 3Z"></path>
+      </symbol>
+      <symbol id="icon-film" viewBox="0 0 24 24">
+        <rect x="3" y="4" width="18" height="16" rx="2"></rect>
+        <path d="M7 4v16M17 4v16M3 9h4M3 15h4M17 9h4M17 15h4"></path>
+      </symbol>
+      <symbol id="icon-spark" viewBox="0 0 24 24">
+        <path d="M12 2.5 14 9l6.5 2-6.5 2-2 6.5-2-6.5L3.5 11 10 9l2-6.5Z"></path>
+      </symbol>
+    </svg>
+
+    <div class="page-grain" aria-hidden="true"></div>
+
+    <header class="site-header" id="siteHeader">
+      <div class="brand-cluster">
+        <a href="#home" class="brand" aria-label="银幕首页">
+          <svg class="brand-mark" viewBox="0 0 42 42" aria-hidden="true">
+            <circle cx="21" cy="21" r="18.5"></circle>
+            <path d="M21 2.5v37M2.5 21h37M8 8l26 26M34 8 8 34" class="brand-mark-lines"></path>
+            <circle cx="21" cy="21" r="4.2" class="brand-mark-core"></circle>
+          </svg>
+          <span class="brand-words">
+            <strong>银幕</strong>
+            <span>SCREENVAULT</span>
+          </span>
+        </a>
+        <span class="catalog-badge" id="catalogBadge" hidden>演示片库</span>
+      </div>
+
+      <form class="search" id="searchForm" role="search">
+        <svg class="icon"><use href="#icon-search"></use></svg>
+        <input
+          id="searchInput"
+          type="search"
+          name="q"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder="搜索片名、类型、关键词"
+          aria-label="搜索电影"
+        />
+        <button class="search-clear" id="searchClear" type="button" aria-label="清空搜索" hidden>
+          <svg class="icon"><use href="#icon-close"></use></svg>
+        </button>
+        <kbd class="search-kbd">/</kbd>
+      </form>
+
+      <nav class="main-nav" aria-label="主导航">
+        <a href="#trending">热榜</a>
+        <a href="#discover">片库</a>
+        <a href="#about">关于</a>
+      </nav>
+
+      <div class="header-actions">
+        <button class="icon-button random-button" id="randomButton" type="button" title="随机看一部">
+          <svg class="icon"><use href="#icon-shuffle"></use></svg>
+          <span>随机</span>
+        </button>
+        <button class="library-button" id="libraryButton" type="button">
+          <svg class="icon"><use href="#icon-bookmark"></use></svg>
+          <span>片单</span>
+          <span class="library-count" id="libraryCount">0</span>
+        </button>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero" id="home" aria-label="本周焦点">
+        <div class="hero-media" aria-hidden="true">
+          <div class="hero-frame is-active" id="heroFrameA"></div>
+          <div class="hero-frame" id="heroFrameB"></div>
+        </div>
+        <div class="hero-wash" aria-hidden="true"></div>
+        <div class="hero-lines" aria-hidden="true"></div>
+
+        <div class="hero-inner">
+          <div class="hero-copy">
+            <p class="eyebrow hero-eyebrow">
+              <span class="eyebrow-mark"></span>
+              本周焦点
+              <span class="eyebrow-en">FEATURED</span>
+            </p>
+            <h1 class="hero-title" id="heroTitle">正在装载银幕…</h1>
+            <p class="hero-original" id="heroOriginal"></p>
+            <div class="hero-meta" id="heroMeta"></div>
+            <p class="hero-overview" id="heroOverview">
+              正在从片库中挑选今天值得被看见的电影。
+            </p>
+            <div class="hero-actions">
+              <button class="button button-primary" id="heroDetail" type="button">
+                查看详情
+                <svg class="icon"><use href="#icon-arrow-right"></use></svg>
+              </button>
+              <button class="button button-ghost" id="heroFavorite" type="button">
+                <svg class="icon"><use href="#icon-heart"></use></svg>
+                <span>加入片单</span>
+              </button>
+            </div>
+          </div>
+
+          <div class="hero-side">
+            <div class="hero-counter" aria-hidden="true">
+              <span id="heroIndex">01</span>
+              <span class="hero-counter-total">/ 05</span>
+            </div>
+            <div class="hero-dots" id="heroDots" role="tablist" aria-label="切换焦点电影"></div>
+            <p class="hero-side-note">CURATED WEEKLY<br />TMDB · <span id="heroYear">2026</span></p>
+          </div>
+        </div>
+
+        <div class="hero-footer">
+          <a class="scroll-cue" href="#trending">
+            <span>SCROLL TO EXPLORE</span>
+            <span class="scroll-line"></span>
+          </a>
+          <div class="hero-rating" id="heroRating">
+            <span class="hero-rating-star">★</span>
+            <strong id="heroScore">—</strong>
+            <span>TMDB</span>
+          </div>
+        </div>
+      </section>
+
+      <section class="stats-strip" aria-label="片库数据">
+        <div class="stat">
+          <strong id="statTotal">—</strong>
+          <span>部影片</span>
+        </div>
+        <div class="stat">
+          <strong id="statGenres">—</strong>
+          <span>种类型</span>
+        </div>
+        <div class="stat">
+          <strong id="statRating">—</strong>
+          <span>平均评分</span>
+        </div>
+        <div class="stat">
+          <strong id="statYears">—</strong>
+          <span>年份跨度</span>
+        </div>
+        <p class="strip-note">
+          <span class="live-dot"></span>
+          <span id="updateInfo">片库初始化中</span>
+        </p>
+      </section>
+
+      <section class="section rail-section" id="trending">
+        <header class="section-head">
+          <div class="section-kicker">
+            <span>01</span>
+            <span>THE WATCHLIST</span>
+          </div>
+          <div class="section-title-row">
+            <div>
+              <h2>正在被看见</h2>
+              <p id="railDescription">此刻热度最高的电影，按 TMDB 流行度排序。</p>
+            </div>
+            <div class="section-controls">
+              <div class="rail-tabs" role="tablist" aria-label="榜单切换">
+                <button class="is-active" data-rail="trending" role="tab" aria-selected="true">
+                  热度
+                </button>
+                <button data-rail="topRated" role="tab" aria-selected="false">高分</button>
+                <button data-rail="fresh" role="tab" aria-selected="false">新片</button>
+              </div>
+              <div class="rail-arrows">
+                <button class="circle-button" id="railPrev" type="button" aria-label="向左滚动">
+                  <svg class="icon"><use href="#icon-arrow-left"></use></svg>
+                </button>
+                <button class="circle-button" id="railNext" type="button" aria-label="向右滚动">
+                  <svg class="icon"><use href="#icon-arrow-right"></use></svg>
+                </button>
+              </div>
+            </div>
+          </div>
+        </header>
+        <div class="rank-rail" id="rankRail" aria-live="polite"></div>
+      </section>
+
+      <section class="section discover-section" id="discover">
+        <header class="section-head">
+          <div class="section-kicker">
+            <span>02</span>
+            <span>EXPLORE THE ARCHIVE</span>
+          </div>
+          <div class="section-title-row">
+            <div>
+              <h2>找到下一部好电影</h2>
+              <p>从热门到冷门，从今年到上世纪。按你的心情，重新排列整个片库。</p>
+            </div>
+            <button class="text-button surprise-button" id="surpriseButton" type="button">
+              手气不错
+              <svg class="icon"><use href="#icon-spark"></use></svg>
+            </button>
+          </div>
+        </header>
+
+        <div class="filters">
+          <div class="genre-filter" id="genreFilters" aria-label="按类型筛选"></div>
+
+          <div class="filter-bar">
+            <label class="select-field">
+              <span>年代</span>
+              <select id="decadeFilter" aria-label="按年代筛选">
+                <option value="all">全部年代</option>
+              </select>
+            </label>
+            <label class="select-field">
+              <span>评分</span>
+              <select id="ratingFilter" aria-label="按最低评分筛选">
+                <option value="0">全部评分</option>
+                <option value="6">6 分以上</option>
+                <option value="7">7 分以上</option>
+                <option value="8">8 分以上</option>
+                <option value="9">9 分以上</option>
+              </select>
+            </label>
+            <label class="select-field">
+              <span>排序</span>
+              <select id="sortFilter" aria-label="排序方式">
+                <option value="popular">热度优先</option>
+                <option value="rating">评分优先</option>
+                <option value="newest">最新上映</option>
+                <option value="votes">评价最多</option>
+              </select>
+            </label>
+
+            <div class="view-switch" role="group" aria-label="切换浏览方式">
+              <button class="is-active" id="gridView" type="button" aria-label="网格视图">
+                <svg class="icon"><use href="#icon-grid"></use></svg>
+              </button>
+              <button id="listView" type="button" aria-label="列表视图">
+                <svg class="icon"><use href="#icon-list"></use></svg>
+              </button>
+            </div>
+          </div>
+
+          <div class="active-filters" id="activeFilters" hidden></div>
+        </div>
+
+        <div class="results-bar">
+          <p id="resultSummary" aria-live="polite">正在检索片库…</p>
+          <button class="reset-button" id="resetFilters" type="button" hidden>重置筛选</button>
+        </div>
+
+        <div class="movie-grid" id="movieGrid" aria-live="polite" aria-busy="true"></div>
+
+        <div class="empty-state" id="emptyState" hidden>
+          <span class="empty-index">404</span>
+          <h3>没有找到匹配的电影</h3>
+          <p>换一个关键词，或者把筛选条件放宽一点。</p>
+          <button class="button button-primary" id="emptyReset" type="button">清空筛选</button>
+        </div>
+
+        <div class="load-more-wrap">
+          <button class="button button-outline" id="loadMore" type="button" hidden>加载更多</button>
+          <p class="end-note" id="endNote" hidden>已经看到片库的尽头了</p>
+        </div>
+      </section>
+
+      <section class="quote-band" aria-label="数据说明">
+        <p class="quote-mark">“</p>
+        <blockquote>
+          好电影不是被算法推到你面前的，<br />
+          而是在你愿意多看一眼的时候出现的。
+        </blockquote>
+        <p class="quote-credit">SCREENVAULT / 银幕</p>
+      </section>
+    </main>
+
+    <footer class="site-footer" id="about">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <svg class="brand-mark large" viewBox="0 0 42 42" aria-hidden="true">
+            <circle cx="21" cy="21" r="18.5"></circle>
+            <path d="M21 2.5v37M2.5 21h37M8 8l26 26M34 8 8 34" class="brand-mark-lines"></path>
+            <circle cx="21" cy="21" r="4.2" class="brand-mark-core"></circle>
+          </svg>
+          <div>
+            <strong>银幕</strong>
+            <span>SCREENVAULT</span>
+          </div>
+        </div>
+        <p class="footer-intro">
+          为选择困难的人准备的一座小型电影档案馆。没有自动播放，没有无限流短视频，
+          只有一张张海报，和下一个值得你花两小时的故事。
+        </p>
+      </div>
+
+      <div class="footer-grid">
+        <div class="footer-column">
+          <h3>浏览</h3>
+          <a href="#trending">热度榜</a>
+          <a href="#discover">全部片库</a>
+          <button id="footerRandom" type="button">随机一部</button>
+        </div>
+        <div class="footer-column">
+          <h3>片单</h3>
+          <button id="footerLibrary" type="button">我的收藏</button>
+          <button id="footerWatched" type="button">看过的电影</button>
+        </div>
+        <div class="footer-column">
+          <h3>数据</h3>
+          <a href="https://www.themoviedb.org" target="_blank" rel="noreferrer">TMDB 官网 ↗</a>
+          <a href="https://www.themoviedb.org/settings/api" target="_blank" rel="noreferrer">申请 API Key ↗</a>
+          <span id="dataSource">本地片库</span>
+        </div>
+        <div class="footer-column footer-status">
+          <h3>状态</h3>
+          <p><span class="live-dot"></span><span id="footerCount">—</span> 部影片已入库</p>
+          <p id="footerUpdated">最后更新 —</p>
+          <p class="footer-disclaimer">本站不提供影片播放。</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>© <span id="yearNow">2026</span> SCREENVAULT · 一个个人电影发现项目</p>
+        <p>
+          This product uses the TMDB API but is not endorsed or certified by TMDB.
+        </p>
+      </div>
+    </footer>
+
+    <nav class="mobile-nav" aria-label="移动端导航">
+      <a href="#home">
+        <svg class="icon"><use href="#icon-film"></use></svg>
+        <span>发现</span>
+      </a>
+      <a href="#trending">
+        <svg class="icon"><use href="#icon-star"></use></svg>
+        <span>热榜</span>
+      </a>
+      <a href="#discover">
+        <svg class="icon"><use href="#icon-search"></use></svg>
+        <span>片库</span>
+      </a>
+      <button id="mobileLibrary" type="button">
+        <svg class="icon"><use href="#icon-bookmark"></use></svg>
+        <span>片单</span>
+        <span class="mobile-count" id="mobileCount">0</span>
+      </button>
+    </nav>
+
+    <div class="scrim" id="scrim" hidden></div>
+
+    <aside
+      class="library-drawer"
+      id="libraryDrawer"
+      aria-labelledby="libraryTitle"
+      aria-hidden="true"
+      inert
+    >
+      <header class="drawer-header">
+        <div>
+          <p class="drawer-kicker">YOUR PRIVATE SCREENING ROOM</p>
+          <h2 id="libraryTitle">我的片单</h2>
+        </div>
+        <button class="circle-button" id="closeLibrary" type="button" aria-label="关闭片单">
+          <svg class="icon"><use href="#icon-close"></use></svg>
+        </button>
+      </header>
+
+      <div class="drawer-tabs" role="tablist" aria-label="片单分类">
+        <button class="is-active" data-library-tab="favorites" role="tab" aria-selected="true">
+          收藏 <span id="favoritesTabCount">0</span>
+        </button>
+        <button data-library-tab="watched" role="tab" aria-selected="false">
+          看过 <span id="watchedTabCount">0</span>
+        </button>
+      </div>
+
+      <div class="drawer-list" id="libraryList"></div>
+
+      <footer class="drawer-footer">
+        片单保存在当前浏览器，不会上传。换设备时不会同步。
+      </footer>
+    </aside>
+
+    <div
+      class="detail-modal"
+      id="detailModal"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="detailTitle"
+      aria-hidden="true"
+    >
+      <button class="detail-close" id="closeDetail" type="button" aria-label="关闭详情">
+        <svg class="icon"><use href="#icon-close"></use></svg>
+      </button>
+      <div class="detail-scroll" id="detailContent"></div>
+    </div>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <noscript>
+      <div class="noscript">银幕需要启用 JavaScript 才能检索片库和展示电影详情。</div>
+    </noscript>
+
+    <script type="module" src="/app.js"></script>
+  </body>
+</html>
