@@ -141,7 +141,7 @@ Render 控制台 → 你的服务 → **Settings** → **Custom Domains**：
 
 - 你申请 TMDB Key 时填写的是个人/本地用途；公开上线后，建议把 TMDB 应用描述更新为 **public non-commercial project**，不要继续声称只在本地个人使用。
 - 保持页脚署名：`This product uses the TMDB API but is not endorsed or certified by TMDB.`
-- 公开站点建议补上 TMDB 官方 logo；当前页脚已有文字署名，但还没有 logo。
+- 页脚已经放置 TMDB 官方 logo 和文字署名，发布时不要移除或遮挡。
 - 不要接广告、订阅或收费；这些属于商业用途，需要单独授权。
 - 本站只展示元数据和海报，不提供影片播放或下载。
 - 如果使用中国大陆服务器和域名，需要 ICP 备案；Render 的新加坡节点不需要 ICP，但国内访问速度取决于网络。

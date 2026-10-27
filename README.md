@@ -154,7 +154,7 @@ npm test        # 数据层 + HTTP 接口测试
 
 - 电影元数据和海报来自 [The Movie Database (TMDB)](https://www.themoviedb.org)。
 - 本项目不存储、不转码、不提供任何影片播放源。
-- 使用 TMDB API 时请遵守其[服务条款](https://www.themoviedb.org/documentation/api/terms-of-use)和署名要求。
+- 使用 TMDB API 时请遵守其[服务条款](https://www.themoviedb.org/documentation/api/terms-of-use)和署名要求；页脚已包含官方 logo 与署名文案。
 - 本站文案中的英文署名：*This product uses the TMDB API but is not endorsed or certified by TMDB.*
 
 ## 常见问题

@@ -2022,6 +2022,23 @@ dd {
   background: transparent;
 }
 
+.tmdb-logo-link {
+  display: inline-block;
+  margin: 3px 0 5px;
+  opacity: 0.82;
+  transition: opacity 0.2s;
+}
+
+.tmdb-logo-link:hover {
+  opacity: 1;
+}
+
+.tmdb-logo-link img {
+  display: block;
+  width: 106px;
+  height: auto;
+}
+
 .footer-status p {
   display: flex;
   align-items: center;
