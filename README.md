@@ -115,7 +115,7 @@ npm run sync:full
 ├── public/
 │   ├── index.html
 │   ├── styles.css
-│   └── app.js
+│   └── screenvault.js
 ├── vercel.json                # Vercel 构建与 Function 配置
 ├── data/
 │   └── movies.json            # 当前片库（TMDB 同步结果）
