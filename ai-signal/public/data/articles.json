@@ -1,6 +1,255 @@
 {
-  "generatedAt": "2026-10-27T13:30:00.000Z",
+  "generatedAt": "2026-10-27T19:28:03.581Z",
   "articles": [
+    {
+      "id": "44543de8094b27f032",
+      "titleOriginal": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summaryOriginal": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "titleZh": "颠覆性筹集$ 100亿资金，对至少10家公司进行大赌注",
+      "summaryZh": "近年来，在向芯片初创公司Groq和人工智能语音生成初创公司ElevenLabs等公司投入资金方面，颠覆性新闻成为头条新闻。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T18:55:35.000Z",
+      "author": "Dominic-Madori Davis",
+      "tags": [
+        "news",
+        "AI",
+        "Startups",
+        "Venture",
+        "disruptive"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "de0ff86e4fe4d17819",
+      "titleOriginal": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "summaryOriginal": "Watch the full episode on YouTube As we learned from the Anthropic S-1 filings yesterday , the lab has some of the highest revenue and research efficiency in human history, particularly with -126% loss to 19% GAAP profit turnaround in the last year. The company credits this to their two core loops: Improvement and Investment: Today we go inside how Anthropic works. Now the dust has settled on Opus 5.5 and it has lasted a month as the generally accepted #1 LLM in the world, we dive into its launc",
+      "titleZh": "人类如何与克劳德一起运送克劳德：将大脑与双手分开",
+      "summaryZh": "在YouTube上观看全集正如我们昨天从Anthropic S-1文件中了解到的那样，该实验室拥有人类历史上最高的收入和研究效率，特别是去年GAAP利润下降了-126% ，达到19%。该公司将此归功于他们的两个核心环路：改进和投资：今天，我们将深入了解Anthropic的工作原理。现在，尘埃落在了Opus 5.5上，作为全球公认的# 1 LLM ，它已经持续了一个月，我们深入了解它的发布",
+      "translated": true,
+      "url": "https://latent.space/p/opus55/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-27T18:53:10.000Z",
+      "author": "swyx .ai",
+      "tags": [
+        "research"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "a3f4375d32fe5585e9",
+      "titleOriginal": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "summaryOriginal": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction covers Anthropic’s S-1, the improvement and investment loops, and why the platform matters. Watch the full episode on YouTube Show notes Claude Opus 5.5 — Anthropic’s launch notes on model behavior, evaluation and pricing. Scaling Managed Agents —",
+      "titleZh": "Anthropic如何安全运送世界排名第一的LLM ：将大脑与双手分开",
+      "summaryZh": "Katelyn Lesse和Angela Jiang加入Latent Space ，解释Claude平台背后的工程：推出Opus 5.5 ，将模型的“大脑”与代理的“手”分开，扩展API ，并构建可靠的托管代理。新的介绍涵盖了Anthropic的S-1、改进和投资循环，以及平台的重要性。在YouTube上观看全集节目注释Claude Opus 5.5 — Anthropic关于模特行为、评估和定价的发布注释。扩展托管代理—",
+      "translated": true,
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-27T18:40:19.000Z",
+      "author": "Latent.Space",
+      "tags": [
+        "research",
+        "Agent"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d8c87d0b44570f5f60",
+      "titleOriginal": "VisionQuest is what happens when AI really goes rogue",
+      "summaryOriginal": "In Marvel's VisionQuest , a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, yet it plays with some of the ideas that have come to dominate the conversation about real-world generative artificial intelligence, exploring whether we should look at thinking machines as people and if AI truly poses the kind of existential danger",
+      "titleZh": "VisionQuest是当人工智能真正变成流氓时会发生什么",
+      "summaryZh": "在漫威的VisionQuest中，一个超级强大的机器人试图通过迷失在精心制作的数字白日梦中来更好地了解人类，在这些白日梦中，他和其他人工智能驱动的生物一起生活在一个家中。该系列具有深刻的幻想性，但它利用了一些主导现实世界生成式人工智能对话的想法，探索我们是否应该将思考机器视为人，以及人工智能是否真的构成了生存危险",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-27T17:30:00.000Z",
+      "author": "Charles Pulliam-Moore",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5bed667429c5b61ac4",
+      "titleOriginal": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+      "summaryOriginal": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies. The article Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs appeared first on The Decoder .",
+      "titleZh": "Google Deepmind的Genie 4对LLM之前的代理设计进行了现代化改造",
+      "summaryZh": "谷歌Deepmind推出了Genie 4 ，这是一种实时世界模型，通过声音和说话的人物模拟交互式3D世界。双子座模型有助于在后台进行规划，以保持模拟的一致性。Genie 4仍然是一个早期的研究模型，较长的会话会导致视觉不一致。Google Deepmind的Genie 4文章对LLM之前的代理设计进行了现代化的演绎，首次出现在The Decoder上。",
+      "translated": true,
+      "url": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-27T17:25:09.000Z",
+      "author": "Maximilian Schreiner",
+      "tags": [
+        "research",
+        "AI in practice",
+        "Artificial Intelligence",
+        "Genie 4",
+        "Google"
+      ],
+      "category": "research",
+      "readingMinutes": 2
+    },
+    {
+      "id": "9ffebaf1b25a4f9bbd",
+      "titleOriginal": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "summaryOriginal": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "titleZh": "前沿人工智能实验室表示，他们的模型驳斥了指数时间假说。这是什么意思？",
+      "summaryZh": "TechCrunch采访了负责解释OpenAI最新发现的麻省理工学院计算机科学家。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T17:08:08.000Z",
+      "author": "Tim Fernholz",
+      "tags": [
+        "news",
+        "AI",
+        "Anthropic",
+        "Exclusive",
+        "MIT"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "5d9174dd4f1a7b53fa",
+      "titleOriginal": "Anthropic’s elaborate plan to keep Wall Street at bay",
+      "summaryOriginal": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may have little patience for costly safety measures that slow products on their way to market. Sam Altman, the",
+      "titleZh": "Anthropic让华尔街陷入困境的精心计划",
+      "summaryZh": "Anthropic联合创始人兼首席执行官Dario Amodei。|彭博社通过Getty Images Anthropic希望双管齐下。随着即将进行的首次公开募股，它希望利用公共市场的巨大财富，并坚称它不想妥协其安全开发人工智能并造福人类的核心使命。但更大的模型能力会带来更大的风险，渴望回报的股东可能对昂贵的安全措施几乎没有耐心，这些措施会减缓产品上市的速度。Sam Altman ，",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-27T16:51:22.000Z",
+      "author": "Robert Hart",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "dddf43d553b66f1e86",
+      "titleOriginal": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "summaryOriginal": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "titleZh": "谷歌的Genie 4世界模型增加了音频、更逼真的世界和实时转向",
+      "summaryZh": "精灵4可以保持一致的场景长达两分钟，精灵3的限制增加一倍，并提供更好的物理和更人性化的角色。",
+      "translated": true,
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T16:30:57.000Z",
+      "author": "Rebecca Bellan",
+      "tags": [
+        "news",
+        "AI",
+        "Media & Entertainment",
+        "Genie",
+        "Google"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "abb96e9fdd6f617ed2",
+      "titleOriginal": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+      "summaryOriginal": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio or LinkedIn page to paste your work history into a job application. You can try out this feature by clicking into a form with at least four text fields. From there, you'll see an option to \"Fill from sources,\" which will show all of the tabs Firefox",
+      "titleZh": "Firefox的智能窗口增加了AI表单填写和网页监控功能",
+      "summaryZh": "Mozilla正在更新智能窗口（ Firefox的人工智能浏览体验） ，其新功能可以帮助您根据打开的标签页填写在线表单。例如， Mozilla表示，智能窗口可以从您的在线投资组合或LinkedIn页面中提取信息，将您的工作历史记录粘贴到求职申请中。您可以通过单击包含至少四个文本字段的表单来尝试此功能。从那里，您将看到一个“从来源填充”的选项，该选项将显示Firefox的所有选项卡",
+      "translated": true,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-27T16:14:18.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "d17d13a0006a776d2b",
+      "titleOriginal": "Genie 4: A new generation of world simulation",
+      "summaryOriginal": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "titleZh": "精灵4 ：新一代世界模拟",
+      "summaryZh": "精灵4 ：我们的新世界模型在实时模拟中解锁了前所未有的真实感。",
+      "translated": true,
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "sourceId": "deepmind",
+      "sourceName": "Google DeepMind",
+      "sourceSite": "https://deepmind.google/blog/",
+      "sourceColor": "#4285f4",
+      "lang": "en",
+      "publishedAt": "2026-10-27T16:01:38.000Z",
+      "author": "",
+      "tags": [
+        "launch"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "3513fbe8e952055612",
+      "titleOriginal": "Google’s next Genie AI model generates more realistic experiences",
+      "summaryOriginal": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help with its simulations. It also can create experiences that are about two minutes long, up from one minute for the previous Genie 3 model. Google is pitching Genie 4 as a to",
+      "titleZh": "谷歌的下一个Genie AI模型生成更逼真的体验",
+      "summaryZh": "谷歌今天宣布推出使用人工智能生成交互式体验的Genie 4世界模型。该公司表示，该模型有四个主要更新：它允许更逼真的世界，允许用户使用自然语言提示实时更新体验，可以生成音频，并在引擎盖下使用Gemini 3.8 Flash来帮助其模拟。它还可以创建大约两分钟的体验，高于之前的Genie 3型号的一分钟。谷歌正在推销Genie 4作为",
+      "translated": true,
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-27T16:00:00.000Z",
+      "author": "Jay Peters",
+      "tags": [
+        "news",
+        "Prompt"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
     {
       "id": "4b5d609e7e2ff4ec9a",
       "titleOriginal": "TypeSafe AI发布Jev：一种只返回类型化概率而非文本的决策模型",
@@ -20,6 +269,143 @@
         "launch"
       ],
       "category": "launch",
+      "readingMinutes": 2
+    },
+    {
+      "id": "ae72bdec54e137cc3e",
+      "titleOriginal": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "summaryOriginal": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+      "titleZh": "英国内政部可能因使用OpenAI技术而面临调查",
+      "summaryZh": "政府监管机构正在考虑调查内政部使用ChatGPT技术处理庇护申请的情况，因为人们担心这些工具的准确性和保密性。",
+      "translated": true,
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "sourceId": "wired",
+      "sourceName": "WIRED AI",
+      "sourceSite": "https://www.wired.com/tag/artificial-intelligence/",
+      "sourceColor": "#111111",
+      "lang": "en",
+      "publishedAt": "2026-10-27T15:10:26.000Z",
+      "author": "Isabella Ward",
+      "tags": [
+        "analysis",
+        "Politics",
+        "Politics / Policy"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "122f4e228239d6c9e1",
+      "titleOriginal": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summaryOriginal": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+      "titleZh": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "sourceId": "techcrunch",
+      "sourceName": "TechCrunch AI",
+      "sourceSite": "https://techcrunch.com/category/artificial-intelligence/",
+      "sourceColor": "#0a9e01",
+      "lang": "en",
+      "publishedAt": "2026-10-27T14:59:09.000Z",
+      "author": "Rebecca Bellan",
+      "tags": [
+        "news",
+        "AI",
+        "Startups",
+        "Enterprise AI",
+        "Exclusive"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "6c51131286ab98d504",
+      "titleOriginal": "Coding From the Himalayas With an Offline AI Agent",
+      "summaryOriginal": "When we talk about working remotely , we take a lot of things for granted, especially reliable internet and power. But sometimes, working remotely means trying to get something done on a flight, during a long train ride, or somewhere with little or no network. I moved to the foothills of the Himalayas a year ago. I love the peace of living here, but it also comes with its own challenges, including network and power outages . Things I didn’t think about as much before are now part of planning my",
+      "titleZh": "Coding From the Himalayas With an Offline AI Agent",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://latent.space/p/offline-coding/",
+      "sourceId": "latentspace",
+      "sourceName": "Latent Space",
+      "sourceSite": "https://www.latent.space/",
+      "sourceColor": "#7357ff",
+      "lang": "en",
+      "publishedAt": "2026-10-27T14:41:25.000Z",
+      "author": "Rittika Jindal",
+      "tags": [
+        "analysis",
+        "Agent",
+        "Coding"
+      ],
+      "category": "analysis",
+      "readingMinutes": 2
+    },
+    {
+      "id": "cac2f27240b1148c12",
+      "titleOriginal": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+      "summaryOriginal": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks. The article Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations appeared first on The Decoder .",
+      "titleZh": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+      "sourceId": "thedecoder",
+      "sourceName": "The Decoder",
+      "sourceSite": "https://the-decoder.com/",
+      "sourceColor": "#5b4bdb",
+      "lang": "en",
+      "publishedAt": "2026-10-27T13:55:24.000Z",
+      "author": "Jonathan Kemper",
+      "tags": [
+        "news",
+        "AI research",
+        "Artificial Intelligence",
+        "Deepmind"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "4def9298a98dbbce53",
+      "titleOriginal": "前三季4.88亿减值、H股筹谋，天通股份的光伏包袱与铌酸锂故事|看财报",
+      "summaryOriginal": "10月26日晚，天通股份披露2026年第三季度报告。前三季度公司实现营业收入28.46亿元，同比增长15.72%；净亏损3.22亿元，由盈转亏，上年同期为盈利5732万元；扣非净亏损3.45亿元，上年同期盈利约498.6万元。公司前三个季度的净利润亏损已超过2025年全年。 这份\"增收不增利\"的三季报，将一家老牌磁性材料公司的困境和矛盾进一步凸显出来，一面是光伏行业产能过剩带来的减值包袱正在出清，一面是市场对铌酸锂等压电晶体材料接入AI光通信的想象持续升温，但短期内却无法支撑起公司的业绩。 4.88亿元减值与赴港筹谋 分季度来看，天通股份第三季度公司实现营业收入10.92亿元，同比增长24.70%、环比增长15.04%；净亏损4011.31万元，较第二季度2.40亿元的亏损环比收窄约83%；扣非净亏损4289.24万元，同样较第二季度的2.51亿元有所收窄。 图源：Choice 这份\"先扩后收\"的亏损曲线，成为剖析天通股份目前困境的关键点。 对业绩由盈转亏，公司在财报中指向了光伏业务。公司称，报告期内受光伏行业产能过剩、下游盈利承压影响，叠加专用装备制造及安装板块部分下游客户回款周期拉",
+      "titleZh": "前三季4.88亿减值、H股筹谋，天通股份的光伏包袱与铌酸锂故事|看财报",
+      "summaryZh": "10月26日晚，天通股份披露2026年第三季度报告。前三季度公司实现营业收入28.46亿元，同比增长15.72%；净亏损3.22亿元，由盈转亏，上年同期为盈利5732万元；扣非净亏损3.45亿元，上年同期盈利约498.6万元。公司前三个季度的净利润亏损已超过2025年全年。 这份\"增收不增利\"的三季报，将一家老牌磁性材料公司的困境和矛盾进一步凸显出来，一面是光伏行业产能过剩带来的减值包袱正在出清，一面是市场对铌酸锂等压电晶体材料接入AI光通信的想象持续升温，但短期内却无法支撑起公司的业绩。 4.88亿元减值与赴港筹谋 分季度来看，天通股份第三季度公司实现营业收入10.92亿元，同比增长24.70%、环比增长15.04%；净亏损4011.31万元，较第二季度2.40亿元的亏损环比收窄约83%；扣非净亏损4289.24万元，同样较第二季度的2.51亿元有所收窄。 图源：Choice 这份\"先扩后收\"的亏损曲线，成为剖析天通股份目前困境的关键点。 对业绩由盈转亏，公司在财报中指向了光伏业务。公司称，报告期内受光伏行业产能过剩、下游盈利承压影响，叠加专用装备制造及安装板块部分下游客户回款周期拉",
+      "translated": true,
+      "url": "https://www.tmtpost.com/8183921.html",
+      "sourceId": "tmtpost",
+      "sourceName": "钛媒体",
+      "sourceSite": "https://www.tmtpost.com/",
+      "sourceColor": "#1c64f2",
+      "lang": "zh",
+      "publishedAt": "2026-10-27T13:51:48.000Z",
+      "author": "源Capital笔记",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
+      "readingMinutes": 2
+    },
+    {
+      "id": "0d516a24ee36aa2dcb",
+      "titleOriginal": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "summaryOriginal": "Apple is bringing an AI assistant to its suite of productivity apps , including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, and tweak written content. It can also calculate, visualize, and organize data in Numbers, while suggesting chart types and building custom tables. App",
+      "titleZh": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "sourceId": "theverge",
+      "sourceName": "The Verge AI",
+      "sourceSite": "https://www.theverge.com/ai-artificial-intelligence",
+      "sourceColor": "#e44d26",
+      "lang": "en",
+      "publishedAt": "2026-10-27T13:50:51.000Z",
+      "author": "Emma Roth",
+      "tags": [
+        "news"
+      ],
+      "category": "news",
       "readingMinutes": 2
     },
     {
@@ -64,7 +450,10 @@
       "author": "Tim Fernholz",
       "tags": [
         "news",
-        "AI"
+        "AI",
+        "Fundraising",
+        "abstract ventures",
+        "blackbird ventures"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -86,8 +475,8 @@
       "author": "Lucas Ropek",
       "tags": [
         "news",
-        "TC",
         "AI",
+        "TC",
         "Opera"
       ],
       "category": "news",
@@ -96,7 +485,7 @@
     {
       "id": "016fe7e918e720206f",
       "titleOriginal": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
-      "summaryOriginal": "Mirendil has released Fern , its first AI model. Mirendil Fern is a from-scratch coding model with a context window of up to 10M tokens. Mirendil explains how that equals about 23 MB of code, or roughly half a million lines. That is a codebase on the scale of Megatron-LM, held in context at once. Fern 0.1 is the first version, built from Mirendil-Base after a short round of post-training. For developers, its like, you load a whole repo, a full training log or days of agent traces at once. TL;...",
+      "summaryOriginal": "Mirendil has released Fern , its first AI model. Mirendil Fern is a from-scratch coding model with a context window of up to 10M tokens. Mirendil explains how that equals about 23 MB of code, or roughly half a million lines. That is a codebase on the scale of Megatron-LM, held in context at once. Fern 0.1 is the first version, built from Mirendil-Base after a short round of post-training. For developers, its like, you load a whole repo, a full training log or days of agent traces at once. TL;DR",
       "titleZh": "Mirendil推出首款搭载1000万代币的Fern 0.1",
       "summaryZh": "Mirendil发布了其首个人工智能模型Fern。Mirendil Fern是一个从头开始的编码模型，上下文窗口最多可达1000万个令牌。Mirendil解释说，这相当于大约23 MB的代码，即大约50万行。这是一个密卡登-LM规模的代码库，同时保存在上下文中。FERN 0.1是第一个版本，由Mirendil-Base在经过短期培训后构建而成。对于开发人员来说，您可以一次加载整个存储库、完整的培训日志或代理跟踪天数。TL; DR",
       "translated": true,
@@ -121,7 +510,7 @@
     {
       "id": "3b0550dad519457536",
       "titleOriginal": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "summaryOriginal": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of research papers lose their foundation. The article OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI p...",
+      "summaryOriginal": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of research papers lose their foundation. The article OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI prod",
       "titleZh": "OpenAI要求包括诺贝尔奖获得者在内的外部专家检查其在数学、计算机科学和物理学方面产生的人工智能证明",
       "summaryZh": "OpenAI表示，其内部人工智能模型已经破解了数学、计算机科学和物理学的三个主要开放性问题。其中一个是著名的千禧年奖品问题的一部分，每个奖品都有$ 100万的奖金。包括诺贝尔奖获得者在内的外部专家现在正在检查这些证据是否成立。如果计算机科学的证据自行成立，数百篇研究论文就会失去基础。OpenAI的文章要求包括诺贝尔奖获得者在内的外部专家检查其人工智能产品的证据",
       "translated": true,
@@ -196,7 +585,7 @@
     {
       "id": "9dbb9e5222c01ce065",
       "titleOriginal": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "summaryOriginal": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor variation deserves a closer look. A procedure can describe the sequence, but successful execution depends on the judgment that c...",
+      "summaryOriginal": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor variation deserves a closer look. A procedure can describe the sequence, but successful execution depends on the judgment that come",
       "titleZh": "工业智能：制造业的下一个增长机会",
       "summaryZh": "每个制造商都有自己的工业智能。有些是有记录的，有些则是经验丰富的工人所掌握的知识。考虑一位经验丰富的操作人员准备在切换后重新启动生产线。机器设置很重要，但了解特定材料的行为、上一个班次中发生的事情以及什么时候明显的微小变化值得仔细研究也很重要。程序可以描述顺序，但成功执行取决于随之而来的判断",
       "translated": true,
@@ -209,19 +598,19 @@
       "publishedAt": "2026-10-27T11:19:18.000Z",
       "author": "Michael MacKenzie",
       "tags": [
-        "launch",
+        "analysis",
         "Artificial intelligence",
         "sponsored"
       ],
-      "category": "launch",
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
       "id": "8ac5390a5cf04983b6",
       "titleOriginal": "静水湖创投盲池基金完成二关：一家早期VC的克制与节奏",
-      "summaryOriginal": "（本文作者为 智客ZhiKer，钛媒体经授权发布） 近期，静水湖创投二期盲池基金完成第二次关账。 在首关基础上，本轮扩募约30%，新进LP是上海静安资本、 市北高新 股份（600604）全资子公司上海聚能湾和 南京银行 旗下母基金，首关LP无锡惠萃恒益母基金等继续同比例追加。从启动到关账，历时四个多月。 在人民币基金募资端，这算不上一个惊人的数字。但对这家过去老LP复投为主的早期VC来说，这是一次结构性的变化。以新LP为主的资金，带来了一套完全不同的审视标准。 智客Zhiker与静水湖创投创始管理合伙人张毅进行了一次对话。这次对话里出现最多的词不是规模，而是克制。 当所有人在今年趋热的市场环境里都想募得更多时，这家机构为什么不适当拉长募集时间和扩大募资范围，只多拿30%？ 01 新LP的尺子 这一轮的钱以新LP为主。 张毅表示，除了资金本身，新LP所带来的协同资源同样重要。静安资本背后是上海静安区，在数据智能与AI下游创新应用方向有明确的产业政策支持；市北高新是上市公司，同时控股 数据港 ，是上海中心城区重要的算力基础设施与云服务提供方；南京银行除了在基金投资端的支持，还有一张覆...",
+      "summaryOriginal": "近期，静水湖创投二期盲池基金完成第二次关账。 在首关基础上，本轮扩募约30%，新进LP是上海静安资本、 市北高新 股份（600604）全资子公司上海聚能湾和 南京银行 旗下母基金，首关LP无锡惠萃恒益母基金等继续同比例追加。从启动到关账，历时四个多月。 在人民币基金募资端，这算不上一个惊人的数字。但对这家过去老LP复投为主的早期VC来说，这是一次结构性的变化。以新LP为主的资金，带来了一套完全不同的审视标准。 智客Zhiker与静水湖创投创始管理合伙人张毅进行了一次对话。这次对话里出现最多的词不是规模，而是克制。 当所有人在今年趋热的市场环境里都想募得更多时，这家机构为什么不适当拉长募集时间和扩大募资范围，只多拿30%？ 01 新LP的尺子 这一轮的钱以新LP为主。 张毅表示，除了资金本身，新LP所带来的协同资源同样重要。静安资本背后是上海静安区，在数据智能与AI下游创新应用方向有明确的产业政策支持；市北高新是上市公司，同时控股 数据港 ，是上海中心城区重要的算力基础设施与云服务提供方；南京银行除了在基金投资端的支持，还有一张覆盖面很广的客户网络，能给被投企业提供从早期一路到资本市场的",
       "titleZh": "静水湖创投盲池基金完成二关：一家早期VC的克制与节奏",
-      "summaryZh": "（本文作者为 智客ZhiKer，钛媒体经授权发布） 近期，静水湖创投二期盲池基金完成第二次关账。 在首关基础上，本轮扩募约30%，新进LP是上海静安资本、 市北高新 股份（600604）全资子公司上海聚能湾和 南京银行 旗下母基金，首关LP无锡惠萃恒益母基金等继续同比例追加。从启动到关账，历时四个多月。 在人民币基金募资端，这算不上一个惊人的数字。但对这家过去老LP复投为主的早期VC来说，这是一次结构性的变化。以新LP为主的资金，带来了一套完全不同的审视标准。 智客Zhiker与静水湖创投创始管理合伙人张毅进行了一次对话。这次对话里出现最多的词不是规模，而是克制。 当所有人在今年趋热的市场环境里都想募得更多时，这家机构为什么不适当拉长募集时间和扩大募资范围，只多拿30%？ 01 新LP的尺子 这一轮的钱以新LP为主。 张毅表示，除了资金本身，新LP所带来的协同资源同样重要。静安资本背后是上海静安区，在数据智能与AI下游创新应用方向有明确的产业政策支持；市北高新是上市公司，同时控股 数据港 ，是上海中心城区重要的算力基础设施与云服务提供方；南京银行除了在基金投资端的支持，还有一张覆...",
+      "summaryZh": "近期，静水湖创投二期盲池基金完成第二次关账。 在首关基础上，本轮扩募约30%，新进LP是上海静安资本、 市北高新 股份（600604）全资子公司上海聚能湾和 南京银行 旗下母基金，首关LP无锡惠萃恒益母基金等继续同比例追加。从启动到关账，历时四个多月。 在人民币基金募资端，这算不上一个惊人的数字。但对这家过去老LP复投为主的早期VC来说，这是一次结构性的变化。以新LP为主的资金，带来了一套完全不同的审视标准。 智客Zhiker与静水湖创投创始管理合伙人张毅进行了一次对话。这次对话里出现最多的词不是规模，而是克制。 当所有人在今年趋热的市场环境里都想募得更多时，这家机构为什么不适当拉长募集时间和扩大募资范围，只多拿30%？ 01 新LP的尺子 这一轮的钱以新LP为主。 张毅表示，除了资金本身，新LP所带来的协同资源同样重要。静安资本背后是上海静安区，在数据智能与AI下游创新应用方向有明确的产业政策支持；市北高新是上市公司，同时控股 数据港 ，是上海中心城区重要的算力基础设施与云服务提供方；南京银行除了在基金投资端的支持，还有一张覆盖面很广的客户网络，能给被投企业提供从早期一路到资本市场的",
       "translated": true,
       "url": "https://www.tmtpost.com/8183791.html",
       "sourceId": "tmtpost",
@@ -232,12 +621,12 @@
       "publishedAt": "2026-10-27T11:18:39.000Z",
       "author": "智客ZhiKer",
       "tags": [
-        "launch",
+        "news",
         "一级市场",
         "融资"
       ],
-      "category": "launch",
-      "readingMinutes": 3
+      "category": "news",
+      "readingMinutes": 2
     },
     {
       "id": "b007bafd9ff10551e0",
@@ -256,10 +645,10 @@
       "author": "Jagmeet Singh",
       "tags": [
         "news",
-        "Startups",
         "AI",
+        "Startups",
         "Accel",
-        "nvidia"
+        "Exclusive"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -290,9 +679,9 @@
     {
       "id": "80d9e9b7197cdb9721",
       "titleOriginal": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
-      "summaryOriginal": "（本文作者为 Alter，钛媒体经授权发布） 文 | Alter 2026年10月的大模型行业，上演了两套截然相反的叙事。 如果只看传统基准测试的成绩单，主流模型似乎已经把考卷做穿了。 据第三方评测聚合平台 BenchLM 截至 10 月 26 日的统计，在其追踪的 710 个基准中，有 295 个是具备实际覆盖度的百分制基准，其中 105 个（约 36%）已经彻底“饱和”，榜首得分全部在 90 分以上。 当分数全部挤在天花板附近，差出一两分究竟是因为模型更强，还是提示词和采样的随机波动，已经没人分得清。 就在过去一个多月里，数据标注与评测公司 Surge AI，连续抛出的三份面向真实职场的新考卷，把一众旗舰模型拉回到了及格线以下： sudo L7（资深工程师级编程评测）：60 道来自真实生产代码库的任务。排行榜上，Claude Opus 5.5 与 Sonnet 5.5 并列第一，通过率仅为41.7%；OpenAI 的GPT-6 Astra 为 33.9%；10 月 6 日刚以预览版上线的Mistral Large 4，得分只有 11.7%。 GDP.xlsx（跨行业复杂表格评...",
+      "summaryOriginal": "（本文作者为 Alter，钛媒体经授权发布） 文 | Alter 2026年10月的大模型行业，上演了两套截然相反的叙事。 如果只看传统基准测试的成绩单，主流模型似乎已经把考卷做穿了。 据第三方评测聚合平台 BenchLM 截至 10 月 26 日的统计，在其追踪的 710 个基准中，有 295 个是具备实际覆盖度的百分制基准，其中 105 个（约 36%）已经彻底“饱和”，榜首得分全部在 90 分以上。 当分数全部挤在天花板附近，差出一两分究竟是因为模型更强，还是提示词和采样的随机波动，已经没人分得清。 就在过去一个多月里，数据标注与评测公司 Surge AI，连续抛出的三份面向真实职场的新考卷，把一众旗舰模型拉回到了及格线以下： sudo L7（资深工程师级编程评测）：60 道来自真实生产代码库的任务。排行榜上，Claude Opus 5.5 与 Sonnet 5.5 并列第一，通过率仅为41.7%；OpenAI 的GPT-6 Astra 为 33.9%；10 月 6 日刚以预览版上线的Mistral Large 4，得分只有 11.7%。 GDP.xlsx（跨行业复杂表格评测）：",
       "titleZh": "“跑高分”不等于“能交付”：AI排行榜正在经历一场信用重估",
-      "summaryZh": "（本文作者为 Alter，钛媒体经授权发布） 文 | Alter 2026年10月的大模型行业，上演了两套截然相反的叙事。 如果只看传统基准测试的成绩单，主流模型似乎已经把考卷做穿了。 据第三方评测聚合平台 BenchLM 截至 10 月 26 日的统计，在其追踪的 710 个基准中，有 295 个是具备实际覆盖度的百分制基准，其中 105 个（约 36%）已经彻底“饱和”，榜首得分全部在 90 分以上。 当分数全部挤在天花板附近，差出一两分究竟是因为模型更强，还是提示词和采样的随机波动，已经没人分得清。 就在过去一个多月里，数据标注与评测公司 Surge AI，连续抛出的三份面向真实职场的新考卷，把一众旗舰模型拉回到了及格线以下： sudo L7（资深工程师级编程评测）：60 道来自真实生产代码库的任务。排行榜上，Claude Opus 5.5 与 Sonnet 5.5 并列第一，通过率仅为41.7%；OpenAI 的GPT-6 Astra 为 33.9%；10 月 6 日刚以预览版上线的Mistral Large 4，得分只有 11.7%。 GDP.xlsx（跨行业复杂表格评...",
+      "summaryZh": "（本文作者为 Alter，钛媒体经授权发布） 文 | Alter 2026年10月的大模型行业，上演了两套截然相反的叙事。 如果只看传统基准测试的成绩单，主流模型似乎已经把考卷做穿了。 据第三方评测聚合平台 BenchLM 截至 10 月 26 日的统计，在其追踪的 710 个基准中，有 295 个是具备实际覆盖度的百分制基准，其中 105 个（约 36%）已经彻底“饱和”，榜首得分全部在 90 分以上。 当分数全部挤在天花板附近，差出一两分究竟是因为模型更强，还是提示词和采样的随机波动，已经没人分得清。 就在过去一个多月里，数据标注与评测公司 Surge AI，连续抛出的三份面向真实职场的新考卷，把一众旗舰模型拉回到了及格线以下： sudo L7（资深工程师级编程评测）：60 道来自真实生产代码库的任务。排行榜上，Claude Opus 5.5 与 Sonnet 5.5 并列第一，通过率仅为41.7%；OpenAI 的GPT-6 Astra 为 33.9%；10 月 6 日刚以预览版上线的Mistral Large 4，得分只有 11.7%。 GDP.xlsx（跨行业复杂表格评测）：",
       "translated": true,
       "url": "https://www.tmtpost.com/8183550.html",
       "sourceId": "tmtpost",
@@ -307,14 +696,14 @@
         "投稿"
       ],
       "category": "guide",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "79f3f8b0ce4baf348a",
       "titleOriginal": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
-      "summaryOriginal": "今天下午，Rokid 发布了新一代带显示的 AI 眼镜 Rokid Glasses 2，爱范儿也是提前体验了一个星期。 我平时不戴眼镜，所以每次拿到智能眼镜，我都会先想一件事：它得有多好用，才能让我愿意每天都戴着呢？ 眼镜首先要戴着舒服、好看 刚看到这对「雷霆大鼻托」的时候我觉得，怎么能做这么大？戴上之后，好吧，大有大的道理。接触面积大，材质又软，架在鼻梁上的感觉确实舒服。 再加上这次镜腿能向外扩开不少，头型偏大的人也能戴得自在一些。 当然，舒服归舒服，还是得好看才愿意戴出门。 Rokid Glasses 2 的框型方中带圆，不怎么挑脸型。镜框正面只在摄像头的位置开了孔，左边的提示灯藏了起来，不亮的时候不太注意得到，拍摄时亮起来又足够显眼。 鼻桥位置的光机也变小了。虽然从顶上看还是有点厚度，但正面看过去，已经没那么容易认出这是一副智能眼镜。 我之前用过 Rokid Glasses 一代，这次戴上二代，最直接的感觉是镜片通透了。 上一代偶尔出现的油腻感和反光，这几天没再遇到。从外面看，镜片上的光栅也淡了些，更接近日常眼镜的观感。 能拍 HDR 和慢动作的影像实力 愿意戴出门了，我就...",
+      "summaryOriginal": "今天下午，Rokid 发布了新一代带显示的 AI 眼镜 Rokid Glasses 2，爱范儿也是提前体验了一个星期。 我平时不戴眼镜，所以每次拿到智能眼镜，我都会先想一件事：它得有多好用，才能让我愿意每天都戴着呢？ 眼镜首先要戴着舒服、好看 刚看到这对「雷霆大鼻托」的时候我觉得，怎么能做这么大？戴上之后，好吧，大有大的道理。接触面积大，材质又软，架在鼻梁上的感觉确实舒服。 再加上这次镜腿能向外扩开不少，头型偏大的人也能戴得自在一些。 当然，舒服归舒服，还是得好看才愿意戴出门。 Rokid Glasses 2 的框型方中带圆，不怎么挑脸型。镜框正面只在摄像头的位置开了孔，左边的提示灯藏了起来，不亮的时候不太注意得到，拍摄时亮起来又足够显眼。 鼻桥位置的光机也变小了。虽然从顶上看还是有点厚度，但正面看过去，已经没那么容易认出这是一副智能眼镜。 我之前用过 Rokid Glasses 一代，这次戴上二代，最直接的感觉是镜片通透了。 上一代偶尔出现的油腻感和反光，这几天没再遇到。从外面看，镜片上的光栅也淡了些，更接近日常眼镜的观感。 能拍 HDR 和慢动作的影像实力 愿意戴出门了，我就开始用",
       "titleZh": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
-      "summaryZh": "今天下午，Rokid 发布了新一代带显示的 AI 眼镜 Rokid Glasses 2，爱范儿也是提前体验了一个星期。 我平时不戴眼镜，所以每次拿到智能眼镜，我都会先想一件事：它得有多好用，才能让我愿意每天都戴着呢？ 眼镜首先要戴着舒服、好看 刚看到这对「雷霆大鼻托」的时候我觉得，怎么能做这么大？戴上之后，好吧，大有大的道理。接触面积大，材质又软，架在鼻梁上的感觉确实舒服。 再加上这次镜腿能向外扩开不少，头型偏大的人也能戴得自在一些。 当然，舒服归舒服，还是得好看才愿意戴出门。 Rokid Glasses 2 的框型方中带圆，不怎么挑脸型。镜框正面只在摄像头的位置开了孔，左边的提示灯藏了起来，不亮的时候不太注意得到，拍摄时亮起来又足够显眼。 鼻桥位置的光机也变小了。虽然从顶上看还是有点厚度，但正面看过去，已经没那么容易认出这是一副智能眼镜。 我之前用过 Rokid Glasses 一代，这次戴上二代，最直接的感觉是镜片通透了。 上一代偶尔出现的油腻感和反光，这几天没再遇到。从外面看，镜片上的光栅也淡了些，更接近日常眼镜的观感。 能拍 HDR 和慢动作的影像实力 愿意戴出门了，我就...",
+      "summaryZh": "今天下午，Rokid 发布了新一代带显示的 AI 眼镜 Rokid Glasses 2，爱范儿也是提前体验了一个星期。 我平时不戴眼镜，所以每次拿到智能眼镜，我都会先想一件事：它得有多好用，才能让我愿意每天都戴着呢？ 眼镜首先要戴着舒服、好看 刚看到这对「雷霆大鼻托」的时候我觉得，怎么能做这么大？戴上之后，好吧，大有大的道理。接触面积大，材质又软，架在鼻梁上的感觉确实舒服。 再加上这次镜腿能向外扩开不少，头型偏大的人也能戴得自在一些。 当然，舒服归舒服，还是得好看才愿意戴出门。 Rokid Glasses 2 的框型方中带圆，不怎么挑脸型。镜框正面只在摄像头的位置开了孔，左边的提示灯藏了起来，不亮的时候不太注意得到，拍摄时亮起来又足够显眼。 鼻桥位置的光机也变小了。虽然从顶上看还是有点厚度，但正面看过去，已经没那么容易认出这是一副智能眼镜。 我之前用过 Rokid Glasses 一代，这次戴上二代，最直接的感觉是镜片通透了。 上一代偶尔出现的油腻感和反光，这几天没再遇到。从外面看，镜片上的光栅也淡了些，更接近日常眼镜的观感。 能拍 HDR 和慢动作的影像实力 愿意戴出门了，我就开始用",
       "translated": true,
       "url": "https://www.ifanr.com/1686154",
       "sourceId": "ifanr",
@@ -332,14 +721,14 @@
         "AI 眼镜"
       ],
       "category": "guide",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "892e250808529559ea",
       "titleOriginal": "乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案",
-      "summaryOriginal": "（本文作者为 科技点亮创业，钛媒体经授权发布） 2026年10月27日，乐奇Rokid在“Rokid Jungle 2026乐奇AI眼镜新品发布会”上推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring。 售价方面，Rokid Glasses 2黑色经典款官方售价为3699元，国补到手价为3199元；玳瑁色官方售价为3849元，国补到手价为3349元。Rokid Color黑色2GB+64GB版本官方售价为4999元，玳瑁色4GB+64GB版本为5499元；Rokid Ring官方售价为1699元。 佩戴、显示与硬件配置 Rokid Glasses 2采用方圆框设计，提供黑色和玳瑁色两种配色。根据乐奇Rokid公布的数据，其光机体积较上一代减少30%，整机总长缩短1毫米。产品同时采用柔性镜腿，并调整镜腿张角、鼻托接触面积和材质。磁吸定制配镜与墨镜夹片方案可适配近视、远视、散光及老花等视力需求。 显示方面，新品采用耦入光栅特殊镀膜、全域超低反镀膜及纳米级沟槽纹理设计。厂商称，与上一代相比，其彩虹纹降低60%，反射率降低70%，...",
+      "summaryOriginal": "2026年10月27日，乐奇Rokid在“Rokid Jungle 2026乐奇AI眼镜新品发布会”上推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring。 售价方面，Rokid Glasses 2黑色经典款官方售价为3699元，国补到手价为3199元；玳瑁色官方售价为3849元，国补到手价为3349元。Rokid Color黑色2GB+64GB版本官方售价为4999元，玳瑁色4GB+64GB版本为5499元；Rokid Ring官方售价为1699元。 佩戴、显示与硬件配置 Rokid Glasses 2采用方圆框设计，提供黑色和玳瑁色两种配色。根据乐奇Rokid公布的数据，其光机体积较上一代减少30%，整机总长缩短1毫米。产品同时采用柔性镜腿，并调整镜腿张角、鼻托接触面积和材质。磁吸定制配镜与墨镜夹片方案可适配近视、远视、散光及老花等视力需求。 显示方面，新品采用耦入光栅特殊镀膜、全域超低反镀膜及纳米级沟槽纹理设计。厂商称，与上一代相比，其彩虹纹降低60%，反射率降低70%，耦入光栅效率提高30%。 音频部分，Rokid Gla",
       "titleZh": "乐奇Rokid发布三款AI穿戴新品，拓展显示与交互方案",
-      "summaryZh": "（本文作者为 科技点亮创业，钛媒体经授权发布） 2026年10月27日，乐奇Rokid在“Rokid Jungle 2026乐奇AI眼镜新品发布会”上推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring。 售价方面，Rokid Glasses 2黑色经典款官方售价为3699元，国补到手价为3199元；玳瑁色官方售价为3849元，国补到手价为3349元。Rokid Color黑色2GB+64GB版本官方售价为4999元，玳瑁色4GB+64GB版本为5499元；Rokid Ring官方售价为1699元。 佩戴、显示与硬件配置 Rokid Glasses 2采用方圆框设计，提供黑色和玳瑁色两种配色。根据乐奇Rokid公布的数据，其光机体积较上一代减少30%，整机总长缩短1毫米。产品同时采用柔性镜腿，并调整镜腿张角、鼻托接触面积和材质。磁吸定制配镜与墨镜夹片方案可适配近视、远视、散光及老花等视力需求。 显示方面，新品采用耦入光栅特殊镀膜、全域超低反镀膜及纳米级沟槽纹理设计。厂商称，与上一代相比，其彩虹纹降低60%，反射率降低70%，...",
+      "summaryZh": "2026年10月27日，乐奇Rokid在“Rokid Jungle 2026乐奇AI眼镜新品发布会”上推出AI眼镜Rokid Glasses 2、全彩AI眼镜Rokid Color和交互戒指Rokid Ring。 售价方面，Rokid Glasses 2黑色经典款官方售价为3699元，国补到手价为3199元；玳瑁色官方售价为3849元，国补到手价为3349元。Rokid Color黑色2GB+64GB版本官方售价为4999元，玳瑁色4GB+64GB版本为5499元；Rokid Ring官方售价为1699元。 佩戴、显示与硬件配置 Rokid Glasses 2采用方圆框设计，提供黑色和玳瑁色两种配色。根据乐奇Rokid公布的数据，其光机体积较上一代减少30%，整机总长缩短1毫米。产品同时采用柔性镜腿，并调整镜腿张角、鼻托接触面积和材质。磁吸定制配镜与墨镜夹片方案可适配近视、远视、散光及老花等视力需求。 显示方面，新品采用耦入光栅特殊镀膜、全域超低反镀膜及纳米级沟槽纹理设计。厂商称，与上一代相比，其彩虹纹降低60%，反射率降低70%，耦入光栅效率提高30%。 音频部分，Rokid Gla",
       "translated": true,
       "url": "https://www.tmtpost.com/8183616.html",
       "sourceId": "tmtpost",
@@ -353,14 +742,14 @@
         "launch"
       ],
       "category": "launch",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "98cd9828a746c8790f",
       "titleOriginal": "AI短剧：流水线上的打工人不得不说的秘密",
-      "summaryOriginal": "（本文作者为 靠谱的阿星，钛媒体经授权发布） 文 | 靠谱的阿星 晚上12点，你决定刷完这一集就睡： 新郎抛下婚礼去机场接白月光，新娘转头就赌气让前来跑腿的快递小哥去接亲，并且直接拉上假新郎去领了证。谁料快递小哥的隐藏身份，竟是裴氏集团失散多年的继承人。一刷就是80多集，原来是两个失散多年的发小。 另一部剧里，女生从小学渣姐姐学霸，可惜全家宠爱姐姐，嘲讽妹妹，没有想到妹妹实际上考了708分，悄悄报了国防科工大学，在全家嘲讽奚落声之中，女生男朋友还被姐姐给抢走了....... 刷着还不够，一个心地善良柴夫上山救了一条白龙，白龙为了报恩给小伙一块玉石，并且告诉他要买下远处那块已经被旷工挖空的山，小伙换了500两银子修缮了房屋，还买了一块山，签好了地契，开启了他富可敌国的生涯。 ...... 三个短剧忍不住刷完，已经晚上2点了。 你明知剧情狗血，明知该睡了，手指却不受控制地滑向了下一集，每一集之中见还忍受了8秒钟的广告。 现在短剧的确跟以前已经大不一样了。 从霸总爱上我，下岗带娃被富豪选上，再到震撼夏国神秘人物师尊，其实是某个被人看不起的赘婿这些离谱剧情和通用模板，逐渐开始精细区分人群...",
+      "summaryOriginal": "（本文作者为 靠谱的阿星，钛媒体经授权发布） 文 | 靠谱的阿星 晚上12点，你决定刷完这一集就睡： 新郎抛下婚礼去机场接白月光，新娘转头就赌气让前来跑腿的快递小哥去接亲，并且直接拉上假新郎去领了证。谁料快递小哥的隐藏身份，竟是裴氏集团失散多年的继承人。一刷就是80多集，原来是两个失散多年的发小。 另一部剧里，女生从小学渣姐姐学霸，可惜全家宠爱姐姐，嘲讽妹妹，没有想到妹妹实际上考了708分，悄悄报了国防科工大学，在全家嘲讽奚落声之中，女生男朋友还被姐姐给抢走了....... 刷着还不够，一个心地善良柴夫上山救了一条白龙，白龙为了报恩给小伙一块玉石，并且告诉他要买下远处那块已经被旷工挖空的山，小伙换了500两银子修缮了房屋，还买了一块山，签好了地契，开启了他富可敌国的生涯。 ...... 三个短剧忍不住刷完，已经晚上2点了。 你明知剧情狗血，明知该睡了，手指却不受控制地滑向了下一集，每一集之中见还忍受了8秒钟的广告。 现在短剧的确跟以前已经大不一样了。 从霸总爱上我，下岗带娃被富豪选上，再到震撼夏国神秘人物师尊，其实是某个被人看不起的赘婿这些离谱剧情和通用模板，逐渐开始精细区分人群了，针",
       "titleZh": "AI短剧：流水线上的打工人不得不说的秘密",
-      "summaryZh": "（本文作者为 靠谱的阿星，钛媒体经授权发布） 文 | 靠谱的阿星 晚上12点，你决定刷完这一集就睡： 新郎抛下婚礼去机场接白月光，新娘转头就赌气让前来跑腿的快递小哥去接亲，并且直接拉上假新郎去领了证。谁料快递小哥的隐藏身份，竟是裴氏集团失散多年的继承人。一刷就是80多集，原来是两个失散多年的发小。 另一部剧里，女生从小学渣姐姐学霸，可惜全家宠爱姐姐，嘲讽妹妹，没有想到妹妹实际上考了708分，悄悄报了国防科工大学，在全家嘲讽奚落声之中，女生男朋友还被姐姐给抢走了....... 刷着还不够，一个心地善良柴夫上山救了一条白龙，白龙为了报恩给小伙一块玉石，并且告诉他要买下远处那块已经被旷工挖空的山，小伙换了500两银子修缮了房屋，还买了一块山，签好了地契，开启了他富可敌国的生涯。 ...... 三个短剧忍不住刷完，已经晚上2点了。 你明知剧情狗血，明知该睡了，手指却不受控制地滑向了下一集，每一集之中见还忍受了8秒钟的广告。 现在短剧的确跟以前已经大不一样了。 从霸总爱上我，下岗带娃被富豪选上，再到震撼夏国神秘人物师尊，其实是某个被人看不起的赘婿这些离谱剧情和通用模板，逐渐开始精细区分人群...",
+      "summaryZh": "（本文作者为 靠谱的阿星，钛媒体经授权发布） 文 | 靠谱的阿星 晚上12点，你决定刷完这一集就睡： 新郎抛下婚礼去机场接白月光，新娘转头就赌气让前来跑腿的快递小哥去接亲，并且直接拉上假新郎去领了证。谁料快递小哥的隐藏身份，竟是裴氏集团失散多年的继承人。一刷就是80多集，原来是两个失散多年的发小。 另一部剧里，女生从小学渣姐姐学霸，可惜全家宠爱姐姐，嘲讽妹妹，没有想到妹妹实际上考了708分，悄悄报了国防科工大学，在全家嘲讽奚落声之中，女生男朋友还被姐姐给抢走了....... 刷着还不够，一个心地善良柴夫上山救了一条白龙，白龙为了报恩给小伙一块玉石，并且告诉他要买下远处那块已经被旷工挖空的山，小伙换了500两银子修缮了房屋，还买了一块山，签好了地契，开启了他富可敌国的生涯。 ...... 三个短剧忍不住刷完，已经晚上2点了。 你明知剧情狗血，明知该睡了，手指却不受控制地滑向了下一集，每一集之中见还忍受了8秒钟的广告。 现在短剧的确跟以前已经大不一样了。 从霸总爱上我，下岗带娃被富豪选上，再到震撼夏国神秘人物师尊，其实是某个被人看不起的赘婿这些离谱剧情和通用模板，逐渐开始精细区分人群了，针",
       "translated": true,
       "url": "https://www.tmtpost.com/8183174.html",
       "sourceId": "tmtpost",
@@ -374,14 +763,14 @@
         "launch"
       ],
       "category": "launch",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "d5c1babe264e019424",
       "titleOriginal": "Kimi额度的问题，Anthropic找到了解决办法",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI K3.1 Pro发布之后，由于多位用户反馈额度烧得太快，月之暗面紧急发布公告，称“问题出在我们，我们也本应更早修复”，在补偿额度的同时，月之暗面也表示将“减少不必要的子Agent调用和输出长度”。 就在模型上线前两天，Anthropic发了一篇文章，标题为《构建Agent：何时该把子Agent折叠回主循环》（Building agents: When to fold subagents into your main agent loop），它所讲的，刚好就是关于子Agent这件事。 Anthropic的结论是，通过对比多家企业部署的Claude他们发现，一个带技能的Agent，质量反而胜过了“一群子Agent分工”，而且单任务成本和延迟往往更低。最关键的是，这个Agent所消耗的token，要远远低于一群子Agent。 子Agent这个概念，其实是模型能力不足时期，厂商为了让模型完成更多任务所打的一个“补丁”。 从任务完成率来说，多个子Agent确实要远远强于当时的单Agent。作为代价，token烧得更厉害了，模型也...",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI K3.1 Pro发布之后，由于多位用户反馈额度烧得太快，月之暗面紧急发布公告，称“问题出在我们，我们也本应更早修复”，在补偿额度的同时，月之暗面也表示将“减少不必要的子Agent调用和输出长度”。 就在模型上线前两天，Anthropic发了一篇文章，标题为《构建Agent：何时该把子Agent折叠回主循环》（Building agents: When to fold subagents into your main agent loop），它所讲的，刚好就是关于子Agent这件事。 Anthropic的结论是，通过对比多家企业部署的Claude他们发现，一个带技能的Agent，质量反而胜过了“一群子Agent分工”，而且单任务成本和延迟往往更低。最关键的是，这个Agent所消耗的token，要远远低于一群子Agent。 子Agent这个概念，其实是模型能力不足时期，厂商为了让模型完成更多任务所打的一个“补丁”。 从任务完成率来说，多个子Agent确实要远远强于当时的单Agent。作为代价，token烧得更厉害了，模型也就变得",
       "titleZh": "Kimi额度的问题，Anthropic找到了解决办法",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI K3.1 Pro发布之后，由于多位用户反馈额度烧得太快，月之暗面紧急发布公告，称“问题出在我们，我们也本应更早修复”，在补偿额度的同时，月之暗面也表示将“减少不必要的子Agent调用和输出长度”。 就在模型上线前两天，Anthropic发了一篇文章，标题为《构建Agent：何时该把子Agent折叠回主循环》（Building agents: When to fold subagents into your main agent loop），它所讲的，刚好就是关于子Agent这件事。 Anthropic的结论是，通过对比多家企业部署的Claude他们发现，一个带技能的Agent，质量反而胜过了“一群子Agent分工”，而且单任务成本和延迟往往更低。最关键的是，这个Agent所消耗的token，要远远低于一群子Agent。 子Agent这个概念，其实是模型能力不足时期，厂商为了让模型完成更多任务所打的一个“补丁”。 从任务完成率来说，多个子Agent确实要远远强于当时的单Agent。作为代价，token烧得更厉害了，模型也...",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI K3.1 Pro发布之后，由于多位用户反馈额度烧得太快，月之暗面紧急发布公告，称“问题出在我们，我们也本应更早修复”，在补偿额度的同时，月之暗面也表示将“减少不必要的子Agent调用和输出长度”。 就在模型上线前两天，Anthropic发了一篇文章，标题为《构建Agent：何时该把子Agent折叠回主循环》（Building agents: When to fold subagents into your main agent loop），它所讲的，刚好就是关于子Agent这件事。 Anthropic的结论是，通过对比多家企业部署的Claude他们发现，一个带技能的Agent，质量反而胜过了“一群子Agent分工”，而且单任务成本和延迟往往更低。最关键的是，这个Agent所消耗的token，要远远低于一群子Agent。 子Agent这个概念，其实是模型能力不足时期，厂商为了让模型完成更多任务所打的一个“补丁”。 从任务完成率来说，多个子Agent确实要远远强于当时的单Agent。作为代价，token烧得更厉害了，模型也就变得",
       "translated": true,
       "url": "https://www.tmtpost.com/8183235.html",
       "sourceId": "tmtpost",
@@ -397,14 +786,14 @@
         "Agent"
       ],
       "category": "launch",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "a46df77bdb8de9499b",
       "titleOriginal": "宇树们应该再劝一劝狂热的股民了",
-      "summaryOriginal": "（本文作者为 大A硅一代，钛媒体经授权发布） 文 | 大A硅一代 一家公司发公告说自己 “太贵了”，股价会怎么走？ 按常理，该跌。但在 最近 A股的物理AI板块，答案是：涨停。 10月20日晚， 宇树科技 (688836.SH) 在异常波动公告里写了一句 A股龙头公司极少说的话：滚动市盈率388倍，行业平均只有39倍，存在估值回归的风险。翻译成大白话就是—— 我们现在的价格，当期业绩撑不住 。 三天后， 10月23日，宇树拿下上市以来第一个20cm涨停。又过了三天，摩根大通把目标价从300元直接上调到995元，股价盘中再涨16%。 公司自己劝你别买，市场用真金白银说 “我不听”。 这不是段子，是这几天物理 AI板块正在发生的事。更值得追问的是：一家公司为什么要在暴涨途中主动“泼冷水”？它劝了，为什么没劝住？那些没被劝住的人，到底在为什么买单？ 01 物理 AI板块不是一个整体， 它至少有三层 理解这轮狂热，需要先把 “物理AI板块”拆开看。 根据 Gartner（一家做技术周期评估的咨询机构）2026年中国技术成熟度曲线的划分，具身智能整体处于“期望膨胀期”（新技术刚出来时，预期...",
+      "summaryOriginal": "（本文作者为 大A硅一代，钛媒体经授权发布） 文 | 大A硅一代 一家公司发公告说自己 “太贵了”，股价会怎么走？ 按常理，该跌。但在 最近 A股的物理AI板块，答案是：涨停。 10月20日晚， 宇树科技 (688836.SH) 在异常波动公告里写了一句 A股龙头公司极少说的话：滚动市盈率388倍，行业平均只有39倍，存在估值回归的风险。翻译成大白话就是—— 我们现在的价格，当期业绩撑不住 。 三天后， 10月23日，宇树拿下上市以来第一个20cm涨停。又过了三天，摩根大通把目标价从300元直接上调到995元，股价盘中再涨16%。 公司自己劝你别买，市场用真金白银说 “我不听”。 这不是段子，是这几天物理 AI板块正在发生的事。更值得追问的是：一家公司为什么要在暴涨途中主动“泼冷水”？它劝了，为什么没劝住？那些没被劝住的人，到底在为什么买单？ 01 物理 AI板块不是一个整体， 它至少有三层 理解这轮狂热，需要先把 “物理AI板块”拆开看。 根据 Gartner（一家做技术周期评估的咨询机构）2026年中国技术成熟度曲线的划分，具身智能整体处于“期望膨胀期”（新技术刚出来时，预期被迅速",
       "titleZh": "宇树们应该再劝一劝狂热的股民了",
-      "summaryZh": "（本文作者为 大A硅一代，钛媒体经授权发布） 文 | 大A硅一代 一家公司发公告说自己 “太贵了”，股价会怎么走？ 按常理，该跌。但在 最近 A股的物理AI板块，答案是：涨停。 10月20日晚， 宇树科技 (688836.SH) 在异常波动公告里写了一句 A股龙头公司极少说的话：滚动市盈率388倍，行业平均只有39倍，存在估值回归的风险。翻译成大白话就是—— 我们现在的价格，当期业绩撑不住 。 三天后， 10月23日，宇树拿下上市以来第一个20cm涨停。又过了三天，摩根大通把目标价从300元直接上调到995元，股价盘中再涨16%。 公司自己劝你别买，市场用真金白银说 “我不听”。 这不是段子，是这几天物理 AI板块正在发生的事。更值得追问的是：一家公司为什么要在暴涨途中主动“泼冷水”？它劝了，为什么没劝住？那些没被劝住的人，到底在为什么买单？ 01 物理 AI板块不是一个整体， 它至少有三层 理解这轮狂热，需要先把 “物理AI板块”拆开看。 根据 Gartner（一家做技术周期评估的咨询机构）2026年中国技术成熟度曲线的划分，具身智能整体处于“期望膨胀期”（新技术刚出来时，预期...",
+      "summaryZh": "（本文作者为 大A硅一代，钛媒体经授权发布） 文 | 大A硅一代 一家公司发公告说自己 “太贵了”，股价会怎么走？ 按常理，该跌。但在 最近 A股的物理AI板块，答案是：涨停。 10月20日晚， 宇树科技 (688836.SH) 在异常波动公告里写了一句 A股龙头公司极少说的话：滚动市盈率388倍，行业平均只有39倍，存在估值回归的风险。翻译成大白话就是—— 我们现在的价格，当期业绩撑不住 。 三天后， 10月23日，宇树拿下上市以来第一个20cm涨停。又过了三天，摩根大通把目标价从300元直接上调到995元，股价盘中再涨16%。 公司自己劝你别买，市场用真金白银说 “我不听”。 这不是段子，是这几天物理 AI板块正在发生的事。更值得追问的是：一家公司为什么要在暴涨途中主动“泼冷水”？它劝了，为什么没劝住？那些没被劝住的人，到底在为什么买单？ 01 物理 AI板块不是一个整体， 它至少有三层 理解这轮狂热，需要先把 “物理AI板块”拆开看。 根据 Gartner（一家做技术周期评估的咨询机构）2026年中国技术成熟度曲线的划分，具身智能整体处于“期望膨胀期”（新技术刚出来时，预期被迅速",
       "translated": true,
       "url": "https://www.tmtpost.com/8183244.html",
       "sourceId": "tmtpost",
@@ -418,14 +807,14 @@
         "guide"
       ],
       "category": "guide",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "5b11fb81608a65db30",
       "titleOriginal": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
-      "summaryOriginal": "（本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，当资本蜂拥而至、百亿独角兽急于跑马圈地时，制约企业发展的最大瓶颈已经不再是资金或者算法，而是适配人才的匮乏。 机器人赛道，天价抢人才 具身智能行业有多缺人？招聘市场的数据已经给出了答案。 据脉脉高聘人才智库发布的《脉脉2026春招职场洞察报告》，2026年1月至4月，国内AI领域岗位量同比增长8.7倍。...",
+      "summaryOriginal": "（本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，当资本蜂拥而至、百亿独角兽急于跑马圈地时，制约企业发展的最大瓶颈已经不再是资金或者算法，而是适配人才的匮乏。 机器人赛道，天价抢人才 具身智能行业有多缺人？招聘市场的数据已经给出了答案。 据脉脉高聘人才智库发布的《脉脉2026春招职场洞察报告》，2026年1月至4月，国内AI领域岗位量同比增长8.7倍。 其中",
       "titleZh": "年薪1亿挖科学家、月薪10万招实习生，机器人公司天价抢人",
-      "summaryZh": "（本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，当资本蜂拥而至、百亿独角兽急于跑马圈地时，制约企业发展的最大瓶颈已经不再是资金或者算法，而是适配人才的匮乏。 机器人赛道，天价抢人才 具身智能行业有多缺人？招聘市场的数据已经给出了答案。 据脉脉高聘人才智库发布的《脉脉2026春招职场洞察报告》，2026年1月至4月，国内AI领域岗位量同比增长8.7倍。...",
+      "summaryZh": "（本文作者为 产联社CLS，钛媒体经授权发布） 文 | 产联社 机器人赛道，现在最贵的不是算力，是人才。 今年以来，具身智能行业持续升温，企业一边忙着融资、扩产，一边开始在人才市场上“抢人”。有公司为顶尖科学家开出上亿元年薪，也有企业把招聘范围延伸到应届生和在校博士，生怕错过下一个技术骨干。 今年春招期间，AI领域岗位量迎来爆发式增长，其中具身智能相关岗位的招聘需求更是暴增15倍，平均月薪达到6.2万元。 此前4月，优必选公开招募具身智能首席科学家，开出1500万元起步、最高1.24亿元的年薪总包。按照工作日折算，最高薪酬接近一天50万元。 这场重金求贤的背后，是整个行业在资本推动下的快速扩张。 数据显示，国内具身智能赛道今年上半年融资总额已突破900亿元，同比增长近5倍。 然而，当资本蜂拥而至、百亿独角兽急于跑马圈地时，制约企业发展的最大瓶颈已经不再是资金或者算法，而是适配人才的匮乏。 机器人赛道，天价抢人才 具身智能行业有多缺人？招聘市场的数据已经给出了答案。 据脉脉高聘人才智库发布的《脉脉2026春招职场洞察报告》，2026年1月至4月，国内AI领域岗位量同比增长8.7倍。 其中",
       "translated": true,
       "url": "https://www.tmtpost.com/8183283.html",
       "sourceId": "tmtpost",
@@ -436,18 +825,18 @@
       "publishedAt": "2026-10-27T10:19:20.000Z",
       "author": "产联社CLS",
       "tags": [
-        "research",
+        "launch",
         "投稿"
       ],
-      "category": "research",
-      "readingMinutes": 3
+      "category": "launch",
+      "readingMinutes": 2
     },
     {
       "id": "175c7ac763a89a2a85",
       "titleOriginal": "Neocloud这堵快塌的墙，黄仁勋扶，马斯克推",
-      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋还在努力扶住Neocloud这堵墙，马斯克却已经预言了它的倒塌。 AI泡沫的第一张多米诺骨牌，可能就藏在这批公司之中。 10月25日，马斯克在X上发出警告： 最近几周，债务市场几乎已经不再向那些缺乏AI数据中心之外实质收入的企业提供资金。 他预言，200多家Neocloud将迎来“孔雀鱼式”（guppy-level）的死亡与整合，最终可能只有少数公司能够存活。 但就在三天前，英伟达CEO黄仁勋给出了几乎相反的判断。 10月22日，黄仁勋在接受CNBC采访时坚称，Neocloud的算力需求依然极其旺盛，真正限制它们发展的只是营运资金不足，而融资困难终将得到解决。 两人都看好AI算力需求，却对经营算力租赁业务的公司能否活下去，给出了截然不同的判断。 而越来越多的迹象表明，这门曾经被AI热潮捧上天的生意，正在出现裂缝。 黄仁勋扶，马斯克推 Neocloud，简单来说，就是专门出租AI算力的新型云计算公司。与亚马逊AWS、微软Azure等业务广泛的传统云厂商不同，这些公司主要围绕AI计算需求提供服务。它们采购大量GPU，...",
+      "summaryOriginal": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋还在努力扶住Neocloud这堵墙，马斯克却已经预言了它的倒塌。 AI泡沫的第一张多米诺骨牌，可能就藏在这批公司之中。 10月25日，马斯克在X上发出警告： 最近几周，债务市场几乎已经不再向那些缺乏AI数据中心之外实质收入的企业提供资金。 他预言，200多家Neocloud将迎来“孔雀鱼式”（guppy-level）的死亡与整合，最终可能只有少数公司能够存活。 但就在三天前，英伟达CEO黄仁勋给出了几乎相反的判断。 10月22日，黄仁勋在接受CNBC采访时坚称，Neocloud的算力需求依然极其旺盛，真正限制它们发展的只是营运资金不足，而融资困难终将得到解决。 两人都看好AI算力需求，却对经营算力租赁业务的公司能否活下去，给出了截然不同的判断。 而越来越多的迹象表明，这门曾经被AI热潮捧上天的生意，正在出现裂缝。 黄仁勋扶，马斯克推 Neocloud，简单来说，就是专门出租AI算力的新型云计算公司。与亚马逊AWS、微软Azure等业务广泛的传统云厂商不同，这些公司主要围绕AI计算需求提供服务。它们采购大量GPU，建设数",
       "titleZh": "Neocloud这堵快塌的墙，黄仁勋扶，马斯克推",
-      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋还在努力扶住Neocloud这堵墙，马斯克却已经预言了它的倒塌。 AI泡沫的第一张多米诺骨牌，可能就藏在这批公司之中。 10月25日，马斯克在X上发出警告： 最近几周，债务市场几乎已经不再向那些缺乏AI数据中心之外实质收入的企业提供资金。 他预言，200多家Neocloud将迎来“孔雀鱼式”（guppy-level）的死亡与整合，最终可能只有少数公司能够存活。 但就在三天前，英伟达CEO黄仁勋给出了几乎相反的判断。 10月22日，黄仁勋在接受CNBC采访时坚称，Neocloud的算力需求依然极其旺盛，真正限制它们发展的只是营运资金不足，而融资困难终将得到解决。 两人都看好AI算力需求，却对经营算力租赁业务的公司能否活下去，给出了截然不同的判断。 而越来越多的迹象表明，这门曾经被AI热潮捧上天的生意，正在出现裂缝。 黄仁勋扶，马斯克推 Neocloud，简单来说，就是专门出租AI算力的新型云计算公司。与亚马逊AWS、微软Azure等业务广泛的传统云厂商不同，这些公司主要围绕AI计算需求提供服务。它们采购大量GPU，...",
+      "summaryZh": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 黄仁勋还在努力扶住Neocloud这堵墙，马斯克却已经预言了它的倒塌。 AI泡沫的第一张多米诺骨牌，可能就藏在这批公司之中。 10月25日，马斯克在X上发出警告： 最近几周，债务市场几乎已经不再向那些缺乏AI数据中心之外实质收入的企业提供资金。 他预言，200多家Neocloud将迎来“孔雀鱼式”（guppy-level）的死亡与整合，最终可能只有少数公司能够存活。 但就在三天前，英伟达CEO黄仁勋给出了几乎相反的判断。 10月22日，黄仁勋在接受CNBC采访时坚称，Neocloud的算力需求依然极其旺盛，真正限制它们发展的只是营运资金不足，而融资困难终将得到解决。 两人都看好AI算力需求，却对经营算力租赁业务的公司能否活下去，给出了截然不同的判断。 而越来越多的迹象表明，这门曾经被AI热潮捧上天的生意，正在出现裂缝。 黄仁勋扶，马斯克推 Neocloud，简单来说，就是专门出租AI算力的新型云计算公司。与亚马逊AWS、微软Azure等业务广泛的传统云厂商不同，这些公司主要围绕AI计算需求提供服务。它们采购大量GPU，建设数",
       "translated": true,
       "url": "https://www.tmtpost.com/8183285.html",
       "sourceId": "tmtpost",
@@ -458,17 +847,17 @@
       "publishedAt": "2026-10-27T10:19:18.000Z",
       "author": "字母AI",
       "tags": [
-        "research"
+        "launch"
       ],
-      "category": "research",
-      "readingMinutes": 3
+      "category": "launch",
+      "readingMinutes": 2
     },
     {
       "id": "1b769359a98ce55607",
       "titleOriginal": "Anthropic 的硅谷往事",
-      "summaryOriginal": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 硅谷的故事，往往从一次分道扬镳开始。 五年前，OpenAI 的一群核心研究员选择离开。他们对 AI 的发展方向有不同判断，也决定为此另起炉灶。 这次出走，后来催生了一家估值与营收都迅速攀升的 AI 公司：Anthropic。 2021 年，在旧金山先锋广场的旧厂房里，Dario Amodei 和妹妹 Daniela Amodei 正把自己的物品装进纸箱。 跟着他们一起离开 OpenAI 的，包括后来参与 GPT-4 研发的核心研究员、OpenAI 安全团队骨干在内。 离开 OpenAI 的原因并不复杂，CEO Sam Altman 正在推动 OpenAI 从一家非营利研究机构，转向一家追求高估值与商业化的公司。Dario 认为这种急速狂奔正在让安全失去控制。 他们给新公司取名 Anthropic（意思是以人为本），并制定了一套宪章，希望在硅谷的 AI 狂热中建立一座讲求克制与安全的实验室。 Dario 以为自己离开了 Sam Altman 的商业战场。但他很快发现，在大模型的技术路线下，对安全和性能的...",
+      "summaryOriginal": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 硅谷的故事，往往从一次分道扬镳开始。 五年前，OpenAI 的一群核心研究员选择离开。他们对 AI 的发展方向有不同判断，也决定为此另起炉灶。 这次出走，后来催生了一家估值与营收都迅速攀升的 AI 公司：Anthropic。 2021 年，在旧金山先锋广场的旧厂房里，Dario Amodei 和妹妹 Daniela Amodei 正把自己的物品装进纸箱。 跟着他们一起离开 OpenAI 的，包括后来参与 GPT-4 研发的核心研究员、OpenAI 安全团队骨干在内。 离开 OpenAI 的原因并不复杂，CEO Sam Altman 正在推动 OpenAI 从一家非营利研究机构，转向一家追求高估值与商业化的公司。Dario 认为这种急速狂奔正在让安全失去控制。 他们给新公司取名 Anthropic（意思是以人为本），并制定了一套宪章，希望在硅谷的 AI 狂热中建立一座讲求克制与安全的实验室。 Dario 以为自己离开了 Sam Altman 的商业战场。但他很快发现，在大模型的技术路线下，对安全和性能的追求越",
       "titleZh": "Anthropic 的硅谷往事",
-      "summaryZh": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 硅谷的故事，往往从一次分道扬镳开始。 五年前，OpenAI 的一群核心研究员选择离开。他们对 AI 的发展方向有不同判断，也决定为此另起炉灶。 这次出走，后来催生了一家估值与营收都迅速攀升的 AI 公司：Anthropic。 2021 年，在旧金山先锋广场的旧厂房里，Dario Amodei 和妹妹 Daniela Amodei 正把自己的物品装进纸箱。 跟着他们一起离开 OpenAI 的，包括后来参与 GPT-4 研发的核心研究员、OpenAI 安全团队骨干在内。 离开 OpenAI 的原因并不复杂，CEO Sam Altman 正在推动 OpenAI 从一家非营利研究机构，转向一家追求高估值与商业化的公司。Dario 认为这种急速狂奔正在让安全失去控制。 他们给新公司取名 Anthropic（意思是以人为本），并制定了一套宪章，希望在硅谷的 AI 狂热中建立一座讲求克制与安全的实验室。 Dario 以为自己离开了 Sam Altman 的商业战场。但他很快发现，在大模型的技术路线下，对安全和性能的...",
+      "summaryZh": "（本文作者为 版面之外，钛媒体经授权发布） 文 | 版面之外，作者｜画画、版君 硅谷的故事，往往从一次分道扬镳开始。 五年前，OpenAI 的一群核心研究员选择离开。他们对 AI 的发展方向有不同判断，也决定为此另起炉灶。 这次出走，后来催生了一家估值与营收都迅速攀升的 AI 公司：Anthropic。 2021 年，在旧金山先锋广场的旧厂房里，Dario Amodei 和妹妹 Daniela Amodei 正把自己的物品装进纸箱。 跟着他们一起离开 OpenAI 的，包括后来参与 GPT-4 研发的核心研究员、OpenAI 安全团队骨干在内。 离开 OpenAI 的原因并不复杂，CEO Sam Altman 正在推动 OpenAI 从一家非营利研究机构，转向一家追求高估值与商业化的公司。Dario 认为这种急速狂奔正在让安全失去控制。 他们给新公司取名 Anthropic（意思是以人为本），并制定了一套宪章，希望在硅谷的 AI 狂热中建立一座讲求克制与安全的实验室。 Dario 以为自己离开了 Sam Altman 的商业战场。但他很快发现，在大模型的技术路线下，对安全和性能的追求越",
       "translated": true,
       "url": "https://www.tmtpost.com/8183513.html",
       "sourceId": "tmtpost",
@@ -482,14 +871,14 @@
         "research"
       ],
       "category": "research",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "1601638f48d652453f",
       "titleOriginal": "港交所AI指数来了，南方基金先上桌：这张牌有多重？",
-      "summaryOriginal": "（本文作者为 万点研究，钛媒体经授权发布） 文/ 万点研究，作者 / 风言 从18C到AI指数，港交所把科技资产这条链补上了。 10月23日，香港交易所宣布正式推出香港交易所人工智能指数及香港交易所半导体指数。人工智能指数追踪40家与AI产业链高度相关的港股公司，覆盖芯片设计、数据中心、AI基础设施、模型及软件与实体应用五层架构；半导体指数追踪30家最大型港股半导体相关公司，涵盖制造、设备、元件、算力硬件及储存设备。 港交所同时宣布与南方基金签订授权协议，后者将在内地发行追踪AI指数的ETF。具体来看，两大指数均纳入中芯国际、联想集团、小米集团、英诺赛科、中际旭创、壁仞科技、天数智芯等细分龙头。 相关一级市场投资者表示，两大指数为港股AI与半导体板块提供了新的定价与配置基准；有望进一步引导资金关注相关龙头，提升板块的代表性与流动性。指数落地叠加ETF授权，港股AI与半导体板块迎来新的配置工具与资金入口。 1 港交所落子主题指数：AI与半导体迎来新定价基准 港交所此次推出两大主题指数，表面是为市场增添参考基准，实质是在科技资产的产品化链条上落子。 客观而言，长期以来，港股科技主题指...",
+      "summaryOriginal": "（本文作者为 万点研究，钛媒体经授权发布） 文/ 万点研究，作者 / 风言 从18C到AI指数，港交所把科技资产这条链补上了。 10月23日，香港交易所宣布正式推出香港交易所人工智能指数及香港交易所半导体指数。人工智能指数追踪40家与AI产业链高度相关的港股公司，覆盖芯片设计、数据中心、AI基础设施、模型及软件与实体应用五层架构；半导体指数追踪30家最大型港股半导体相关公司，涵盖制造、设备、元件、算力硬件及储存设备。 港交所同时宣布与南方基金签订授权协议，后者将在内地发行追踪AI指数的ETF。具体来看，两大指数均纳入中芯国际、联想集团、小米集团、英诺赛科、中际旭创、壁仞科技、天数智芯等细分龙头。 相关一级市场投资者表示，两大指数为港股AI与半导体板块提供了新的定价与配置基准；有望进一步引导资金关注相关龙头，提升板块的代表性与流动性。指数落地叠加ETF授权，港股AI与半导体板块迎来新的配置工具与资金入口。 1 港交所落子主题指数：AI与半导体迎来新定价基准 港交所此次推出两大主题指数，表面是为市场增添参考基准，实质是在科技资产的产品化链条上落子。 客观而言，长期以来，港股科技主题指数的话",
       "titleZh": "港交所AI指数来了，南方基金先上桌：这张牌有多重？",
-      "summaryZh": "（本文作者为 万点研究，钛媒体经授权发布） 文/ 万点研究，作者 / 风言 从18C到AI指数，港交所把科技资产这条链补上了。 10月23日，香港交易所宣布正式推出香港交易所人工智能指数及香港交易所半导体指数。人工智能指数追踪40家与AI产业链高度相关的港股公司，覆盖芯片设计、数据中心、AI基础设施、模型及软件与实体应用五层架构；半导体指数追踪30家最大型港股半导体相关公司，涵盖制造、设备、元件、算力硬件及储存设备。 港交所同时宣布与南方基金签订授权协议，后者将在内地发行追踪AI指数的ETF。具体来看，两大指数均纳入中芯国际、联想集团、小米集团、英诺赛科、中际旭创、壁仞科技、天数智芯等细分龙头。 相关一级市场投资者表示，两大指数为港股AI与半导体板块提供了新的定价与配置基准；有望进一步引导资金关注相关龙头，提升板块的代表性与流动性。指数落地叠加ETF授权，港股AI与半导体板块迎来新的配置工具与资金入口。 1 港交所落子主题指数：AI与半导体迎来新定价基准 港交所此次推出两大主题指数，表面是为市场增添参考基准，实质是在科技资产的产品化链条上落子。 客观而言，长期以来，港股科技主题指...",
+      "summaryZh": "（本文作者为 万点研究，钛媒体经授权发布） 文/ 万点研究，作者 / 风言 从18C到AI指数，港交所把科技资产这条链补上了。 10月23日，香港交易所宣布正式推出香港交易所人工智能指数及香港交易所半导体指数。人工智能指数追踪40家与AI产业链高度相关的港股公司，覆盖芯片设计、数据中心、AI基础设施、模型及软件与实体应用五层架构；半导体指数追踪30家最大型港股半导体相关公司，涵盖制造、设备、元件、算力硬件及储存设备。 港交所同时宣布与南方基金签订授权协议，后者将在内地发行追踪AI指数的ETF。具体来看，两大指数均纳入中芯国际、联想集团、小米集团、英诺赛科、中际旭创、壁仞科技、天数智芯等细分龙头。 相关一级市场投资者表示，两大指数为港股AI与半导体板块提供了新的定价与配置基准；有望进一步引导资金关注相关龙头，提升板块的代表性与流动性。指数落地叠加ETF授权，港股AI与半导体板块迎来新的配置工具与资金入口。 1 港交所落子主题指数：AI与半导体迎来新定价基准 港交所此次推出两大主题指数，表面是为市场增添参考基准，实质是在科技资产的产品化链条上落子。 客观而言，长期以来，港股科技主题指数的话",
       "translated": true,
       "url": "https://www.tmtpost.com/8183528.html",
       "sourceId": "tmtpost",
@@ -503,7 +892,7 @@
         "research"
       ],
       "category": "research",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "904c833aaa0de68118",
@@ -533,7 +922,7 @@
     {
       "id": "415aa97d276f6d69ad",
       "titleOriginal": "Data center backlash is uniting America",
-      "summaryOriginal": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional and gubernatorial campaigns. At the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalis...",
+      "summaryOriginal": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local opposition in communities across the country and become a major issue in many congressional and gubernatorial campaigns. At the same time, tech money has been pouring into many of these races. Leading the Future, a super PAC backed by venture capitalist M",
       "titleZh": "数据中心的反弹正在将美国团结起来",
       "summaryZh": "如果有一个问题似乎在2026年激活了各种选民，那就是数据中心。这些大型服务器存储设施的快速建设以及随之而来的基础设施建设和费用，在全国各地的社区中引发了当地的反对，并成为许多国会和州长竞选活动的主要问题。与此同时，技术资金也涌入了许多这样的竞赛。Leading the Future ，由风险资本家M支持的超级PAC",
       "translated": true,
@@ -691,7 +1080,7 @@
     {
       "id": "b021226a019ed94b21",
       "titleOriginal": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
-      "summaryOriginal": "Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agen...",
+      "summaryOriginal": "Today is one of those days that is tougher to cover for a normally-engineer audience that isn’t used to reading most S-1’s, let alone 350 pages of one of the most unusual S-1’s of all time : Better visualized: With significant operating leverage causing the first profitable quarter in Anthropic history (adjusted for $1B/quarter of SBC): The incredible efficiency story is told in two loops, and of course you know, we love loop: The pitch going forward is “virtual collaborators” (don’t say agent!)",
       "titleZh": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
       "summaryZh": "",
       "translated": false,
@@ -712,9 +1101,32 @@
       "readingMinutes": 2
     },
     {
+      "id": "a3a879144b2984ac94",
+      "titleOriginal": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summaryOriginal": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "titleZh": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-27T07:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Company",
+        "Agent"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "765ebcaca332d71839",
       "titleOriginal": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
-      "summaryOriginal": "The vLLM Semantic Router team has released d3-ultra , a 27B multimodal decision model under Apache-2.0. The d3-ultra decision model does not generate text. It reads an input once and returns a probability for every answer to every question. For developers, that means routing, classification, visual grounding and video checks from 1 open-weight call. TL;DR Size: 26.09B parameters (dense, including a 0.46B vision encoder); 131,072 tokens of context per question. Runs on: tested on 1 AMD Instinc...",
+      "summaryOriginal": "The vLLM Semantic Router team has released d3-ultra , a 27B multimodal decision model under Apache-2.0. The d3-ultra decision model does not generate text. It reads an input once and returns a probability for every answer to every question. For developers, that means routing, classification, visual grounding and video checks from 1 open-weight call. TL;DR Size: 26.09B parameters (dense, including a 0.46B vision encoder); 131,072 tokens of context per question. Runs on: tested on 1 AMD Instinct M",
       "titleZh": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
       "summaryZh": "",
       "translated": false,
@@ -739,7 +1151,7 @@
     {
       "id": "5c1b76973ac296ef50",
       "titleOriginal": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
-      "summaryOriginal": "Baidu has released Unlimited OCR 2 , an open-source OCR model built for very long documents. The 3B model parses books, filings and reports of hundreds of pages in one request. Its core change is SR-SWA, a sparse attention scheme that keeps per-step decoding cost nearly flat. Weights ship under the MIT license , with code on GitHub . TL;DR Size: 3.34B parameters . Active parameters not disclosed. Max position length 131,072 tokens. Runs on: 1 CUDA GPU in BF16. Baidu tested on an NVIDIA A800-8...",
+      "summaryOriginal": "Baidu has released Unlimited OCR 2 , an open-source OCR model built for very long documents. The 3B model parses books, filings and reports of hundreds of pages in one request. Its core change is SR-SWA, a sparse attention scheme that keeps per-step decoding cost nearly flat. Weights ship under the MIT license , with code on GitHub . TL;DR Size: 3.34B parameters . Active parameters not disclosed. Max position length 131,072 tokens. Runs on: 1 CUDA GPU in BF16. Baidu tested on an NVIDIA A800-80GB",
       "titleZh": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
       "summaryZh": "",
       "translated": false,
@@ -764,9 +1176,9 @@
     {
       "id": "9d99f291a1bf0ea965",
       "titleOriginal": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
-      "summaryOriginal": "最近两个月，Personal Agent 这个概念忽然从边缘话题变成了普通用户手机屏幕上的新图标。 Meta 在 9 月 8 日正式推出 Muse，短短 40 天内下载量突破 1000 万次。随后，OpenAI 推出 Dots，Anthropic 推出 Claude Duet，Personal Agent 满地跑。 对于国内普通用户来讲，用上上面的 Personal Agent 要折腾半天，加上刷了一些翻车案例，把个人生活的各种权限交给 AI 让我有点顾虑。 关于 Personal Agent ，我在意的是，离开对话框后，能不能放心让它帮我管事。 今天，蚂蚁正式发布了灵光 2.0，APPSO 体验下来，感觉它最不一样的地方就是「能管事」。 灵光 2.0 将 AI 介入任务的起点进一步前移，能够主动识别潜在需求、持续跟进复杂事务，并在关键节点及时提醒。 事情发生变化时，它会自己发现、及时调整并推进新的规划，全程主动、自动。也正因为如此，它最接得住的是一类过去 AI 很难办好的活——时间跨度长的长程任务、信息一直在变的任务、需要反复记住前情的任务。 举个例子 ：当我对它说「下周去上海...",
+      "summaryOriginal": "最近两个月，Personal Agent 这个概念忽然从边缘话题变成了普通用户手机屏幕上的新图标。 Meta 在 9 月 8 日正式推出 Muse，短短 40 天内下载量突破 1000 万次。随后，OpenAI 推出 Dots，Anthropic 推出 Claude Duet，Personal Agent 满地跑。 对于国内普通用户来讲，用上上面的 Personal Agent 要折腾半天，加上刷了一些翻车案例，把个人生活的各种权限交给 AI 让我有点顾虑。 关于 Personal Agent ，我在意的是，离开对话框后，能不能放心让它帮我管事。 今天，蚂蚁正式发布了灵光 2.0，APPSO 体验下来，感觉它最不一样的地方就是「能管事」。 灵光 2.0 将 AI 介入任务的起点进一步前移，能够主动识别潜在需求、持续跟进复杂事务，并在关键节点及时提醒。 事情发生变化时，它会自己发现、及时调整并推进新的规划，全程主动、自动。也正因为如此，它最接得住的是一类过去 AI 很难办好的活——时间跨度长的长程任务、信息一直在变的任务、需要反复记住前情的任务。 举个例子 ：当我对它说「下周去上海出差三",
       "titleZh": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
-      "summaryZh": "最近两个月，Personal Agent 这个概念忽然从边缘话题变成了普通用户手机屏幕上的新图标。 Meta 在 9 月 8 日正式推出 Muse，短短 40 天内下载量突破 1000 万次。随后，OpenAI 推出 Dots，Anthropic 推出 Claude Duet，Personal Agent 满地跑。 对于国内普通用户来讲，用上上面的 Personal Agent 要折腾半天，加上刷了一些翻车案例，把个人生活的各种权限交给 AI 让我有点顾虑。 关于 Personal Agent ，我在意的是，离开对话框后，能不能放心让它帮我管事。 今天，蚂蚁正式发布了灵光 2.0，APPSO 体验下来，感觉它最不一样的地方就是「能管事」。 灵光 2.0 将 AI 介入任务的起点进一步前移，能够主动识别潜在需求、持续跟进复杂事务，并在关键节点及时提醒。 事情发生变化时，它会自己发现、及时调整并推进新的规划，全程主动、自动。也正因为如此，它最接得住的是一类过去 AI 很难办好的活——时间跨度长的长程任务、信息一直在变的任务、需要反复记住前情的任务。 举个例子 ：当我对它说「下周去上海...",
+      "summaryZh": "最近两个月，Personal Agent 这个概念忽然从边缘话题变成了普通用户手机屏幕上的新图标。 Meta 在 9 月 8 日正式推出 Muse，短短 40 天内下载量突破 1000 万次。随后，OpenAI 推出 Dots，Anthropic 推出 Claude Duet，Personal Agent 满地跑。 对于国内普通用户来讲，用上上面的 Personal Agent 要折腾半天，加上刷了一些翻车案例，把个人生活的各种权限交给 AI 让我有点顾虑。 关于 Personal Agent ，我在意的是，离开对话框后，能不能放心让它帮我管事。 今天，蚂蚁正式发布了灵光 2.0，APPSO 体验下来，感觉它最不一样的地方就是「能管事」。 灵光 2.0 将 AI 介入任务的起点进一步前移，能够主动识别潜在需求、持续跟进复杂事务，并在关键节点及时提醒。 事情发生变化时，它会自己发现、及时调整并推进新的规划，全程主动、自动。也正因为如此，它最接得住的是一类过去 AI 很难办好的活——时间跨度长的长程任务、信息一直在变的任务、需要反复记住前情的任务。 举个例子 ：当我对它说「下周去上海出差三",
       "translated": true,
       "url": "https://www.ifanr.com/1686050",
       "sourceId": "ifanr",
@@ -777,21 +1189,21 @@
       "publishedAt": "2026-10-27T05:02:30.000Z",
       "author": "姚桐",
       "tags": [
-        "guide",
+        "launch",
         "产品",
         "个人智能体",
         "支付宝",
         "灵光 2.0"
       ],
-      "category": "guide",
-      "readingMinutes": 3
+      "category": "launch",
+      "readingMinutes": 2
     },
     {
       "id": "5b69d2bcb856f11480",
       "titleOriginal": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
-      "summaryOriginal": "OpenAI 又卷起了大模型的性价比。 就在刚刚，OpenAI 正式发布新一代模型 GPT-6.1 Terra，主打更快的响应速度、更强的视觉理解和电脑操作能力，以及更低的使用成本。 图｜博客 https://openai.com/index/introducing-gpt-6-1-terra/ 相比上一代 GPT-5.6 Terra，新模型的标准 API 价格直接降低 50%，但在复杂任务执行、事实准确率和编程能力上均有明显提升。尤其是在部分专业任务测试中，GPT-6.1 Terra 已经能够接近旗舰模型 GPT-6 Astra 的表现，Token 价格却只有后者的十分之一。 OpenAI 将其定位为一款面向高频工作场景的高效模型，希望让更多企业和开发者能够以更低的成本，将 AI Agent 真正应用到日常工作中。 性能直追 Sol，执行任务速度快 3 倍 GPT-6.1 Terra 最值得关注的变化，是视觉理解与电脑操作能力的进一步结合。 过去，AI 可以理解图片、分析文档，但要让它真正操作电脑、跨应用完成复杂任务，依然需要较高的模型能力和推理成本。 如今，GPT-6.1 T...",
+      "summaryOriginal": "OpenAI 又卷起了大模型的性价比。 就在刚刚，OpenAI 正式发布新一代模型 GPT-6.1 Terra，主打更快的响应速度、更强的视觉理解和电脑操作能力，以及更低的使用成本。 图｜博客 https://openai.com/index/introducing-gpt-6-1-terra/ 相比上一代 GPT-5.6 Terra，新模型的标准 API 价格直接降低 50%，但在复杂任务执行、事实准确率和编程能力上均有明显提升。尤其是在部分专业任务测试中，GPT-6.1 Terra 已经能够接近旗舰模型 GPT-6 Astra 的表现，Token 价格却只有后者的十分之一。 OpenAI 将其定位为一款面向高频工作场景的高效模型，希望让更多企业和开发者能够以更低的成本，将 AI Agent 真正应用到日常工作中。 性能直追 Sol，执行任务速度快 3 倍 GPT-6.1 Terra 最值得关注的变化，是视觉理解与电脑操作能力的进一步结合。 过去，AI 可以理解图片、分析文档，但要让它真正操作电脑、跨应用完成复杂任务，依然需要较高的模型能力和推理成本。 如今，GPT-6.1 Terr",
       "titleZh": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
-      "summaryZh": "OpenAI 又卷起了大模型的性价比。 就在刚刚，OpenAI 正式发布新一代模型 GPT-6.1 Terra，主打更快的响应速度、更强的视觉理解和电脑操作能力，以及更低的使用成本。 图｜博客 https://openai.com/index/introducing-gpt-6-1-terra/ 相比上一代 GPT-5.6 Terra，新模型的标准 API 价格直接降低 50%，但在复杂任务执行、事实准确率和编程能力上均有明显提升。尤其是在部分专业任务测试中，GPT-6.1 Terra 已经能够接近旗舰模型 GPT-6 Astra 的表现，Token 价格却只有后者的十分之一。 OpenAI 将其定位为一款面向高频工作场景的高效模型，希望让更多企业和开发者能够以更低的成本，将 AI Agent 真正应用到日常工作中。 性能直追 Sol，执行任务速度快 3 倍 GPT-6.1 Terra 最值得关注的变化，是视觉理解与电脑操作能力的进一步结合。 过去，AI 可以理解图片、分析文档，但要让它真正操作电脑、跨应用完成复杂任务，依然需要较高的模型能力和推理成本。 如今，GPT-6.1 T...",
+      "summaryZh": "OpenAI 又卷起了大模型的性价比。 就在刚刚，OpenAI 正式发布新一代模型 GPT-6.1 Terra，主打更快的响应速度、更强的视觉理解和电脑操作能力，以及更低的使用成本。 图｜博客 https://openai.com/index/introducing-gpt-6-1-terra/ 相比上一代 GPT-5.6 Terra，新模型的标准 API 价格直接降低 50%，但在复杂任务执行、事实准确率和编程能力上均有明显提升。尤其是在部分专业任务测试中，GPT-6.1 Terra 已经能够接近旗舰模型 GPT-6 Astra 的表现，Token 价格却只有后者的十分之一。 OpenAI 将其定位为一款面向高频工作场景的高效模型，希望让更多企业和开发者能够以更低的成本，将 AI Agent 真正应用到日常工作中。 性能直追 Sol，执行任务速度快 3 倍 GPT-6.1 Terra 最值得关注的变化，是视觉理解与电脑操作能力的进一步结合。 过去，AI 可以理解图片、分析文档，但要让它真正操作电脑、跨应用完成复杂任务，依然需要较高的模型能力和推理成本。 如今，GPT-6.1 Terr",
       "translated": true,
       "url": "https://www.ifanr.com/1686080",
       "sourceId": "ifanr",
@@ -809,14 +1221,14 @@
         "Agent"
       ],
       "category": "launch",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "0bc6860a8f0d044273",
       "titleOriginal": "王的猜想，被 AI 一夜通关",
-      "summaryOriginal": "困扰人类几十年的世界级难题，AI 只用几天就交卷了。 就在刚刚，OpenAI 宣布其模型一次性带来三项突破：推翻了计算机科学界坚信近 30 年的指数时间假设；证明了所有维度的局部平滑化猜想；为量子色动力学和杨-米尔斯理论构造了严格的数学存在性证明。 OpenAI 宣告，顺着数学推导链条往回推，这意味着卡凯亚猜想（又名挂谷猜想）在所有维度宣告破解。 而 2025 年初，中国数学家王虹刚刚因为证明三维卡凯亚猜想（即三维挂谷猜想）震惊世界。仅仅一年半的时间，人类引以为傲的突破就成了 AI 成果的一个特例。 更离奇的是后续安排。OpenAI 请来了当年提出 ETH 假设的科学家本人，来审查 AI 对自己假设的反证；又请来诺贝尔物理学奖得主领衔的团队，来消化 AI 写出的千禧年难题证明。 科学家们花了半辈子没找到答案的问题，AI 几天就生成了解答。数学家们接下来的工作，不再是寻找证明，而是验证 AI 的证明。 数学史上最大的一次颠倒，正在发生。 从王虹的三维突破，到 AI 挑战所有维度 三项成果中，数学领域的突破尤其引人关注，因为它直接涉及去年中国数学家王虹取得的重大成果。 卡凯亚猜想源自...",
+      "summaryOriginal": "困扰人类几十年的世界级难题，AI 只用几天就交卷了。 就在刚刚，OpenAI 宣布其模型一次性带来三项突破：推翻了计算机科学界坚信近 30 年的指数时间假设；证明了所有维度的局部平滑化猜想；为量子色动力学和杨-米尔斯理论构造了严格的数学存在性证明。 OpenAI 宣告，顺着数学推导链条往回推，这意味着卡凯亚猜想（又名挂谷猜想）在所有维度宣告破解。 而 2025 年初，中国数学家王虹刚刚因为证明三维卡凯亚猜想（即三维挂谷猜想）震惊世界。仅仅一年半的时间，人类引以为傲的突破就成了 AI 成果的一个特例。 更离奇的是后续安排。OpenAI 请来了当年提出 ETH 假设的科学家本人，来审查 AI 对自己假设的反证；又请来诺贝尔物理学奖得主领衔的团队，来消化 AI 写出的千禧年难题证明。 科学家们花了半辈子没找到答案的问题，AI 几天就生成了解答。数学家们接下来的工作，不再是寻找证明，而是验证 AI 的证明。 数学史上最大的一次颠倒，正在发生。 从王虹的三维突破，到 AI 挑战所有维度 三项成果中，数学领域的突破尤其引人关注，因为它直接涉及去年中国数学家王虹取得的重大成果。 卡凯亚猜想源自一个看",
       "titleZh": "王的猜想，被 AI 一夜通关",
-      "summaryZh": "困扰人类几十年的世界级难题，AI 只用几天就交卷了。 就在刚刚，OpenAI 宣布其模型一次性带来三项突破：推翻了计算机科学界坚信近 30 年的指数时间假设；证明了所有维度的局部平滑化猜想；为量子色动力学和杨-米尔斯理论构造了严格的数学存在性证明。 OpenAI 宣告，顺着数学推导链条往回推，这意味着卡凯亚猜想（又名挂谷猜想）在所有维度宣告破解。 而 2025 年初，中国数学家王虹刚刚因为证明三维卡凯亚猜想（即三维挂谷猜想）震惊世界。仅仅一年半的时间，人类引以为傲的突破就成了 AI 成果的一个特例。 更离奇的是后续安排。OpenAI 请来了当年提出 ETH 假设的科学家本人，来审查 AI 对自己假设的反证；又请来诺贝尔物理学奖得主领衔的团队，来消化 AI 写出的千禧年难题证明。 科学家们花了半辈子没找到答案的问题，AI 几天就生成了解答。数学家们接下来的工作，不再是寻找证明，而是验证 AI 的证明。 数学史上最大的一次颠倒，正在发生。 从王虹的三维突破，到 AI 挑战所有维度 三项成果中，数学领域的突破尤其引人关注，因为它直接涉及去年中国数学家王虹取得的重大成果。 卡凯亚猜想源自...",
+      "summaryZh": "困扰人类几十年的世界级难题，AI 只用几天就交卷了。 就在刚刚，OpenAI 宣布其模型一次性带来三项突破：推翻了计算机科学界坚信近 30 年的指数时间假设；证明了所有维度的局部平滑化猜想；为量子色动力学和杨-米尔斯理论构造了严格的数学存在性证明。 OpenAI 宣告，顺着数学推导链条往回推，这意味着卡凯亚猜想（又名挂谷猜想）在所有维度宣告破解。 而 2025 年初，中国数学家王虹刚刚因为证明三维卡凯亚猜想（即三维挂谷猜想）震惊世界。仅仅一年半的时间，人类引以为傲的突破就成了 AI 成果的一个特例。 更离奇的是后续安排。OpenAI 请来了当年提出 ETH 假设的科学家本人，来审查 AI 对自己假设的反证；又请来诺贝尔物理学奖得主领衔的团队，来消化 AI 写出的千禧年难题证明。 科学家们花了半辈子没找到答案的问题，AI 几天就生成了解答。数学家们接下来的工作，不再是寻找证明，而是验证 AI 的证明。 数学史上最大的一次颠倒，正在发生。 从王虹的三维突破，到 AI 挑战所有维度 三项成果中，数学领域的突破尤其引人关注，因为它直接涉及去年中国数学家王虹取得的重大成果。 卡凯亚猜想源自一个看",
       "translated": true,
       "url": "https://www.ifanr.com/1686064",
       "sourceId": "ifanr",
@@ -827,19 +1239,19 @@
       "publishedAt": "2026-10-27T04:57:02.000Z",
       "author": "莫崇宇",
       "tags": [
-        "research",
+        "news",
         "公司",
         "AI",
         "AI 数学",
         "数学"
       ],
-      "category": "research",
-      "readingMinutes": 3
+      "category": "news",
+      "readingMinutes": 2
     },
     {
       "id": "08bb0f5102f41378dd",
       "titleOriginal": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
-      "summaryOriginal": "OpenAI has released GPT-6.1 Terra , a fast model for visual reasoning, computer use and writing. It replaces GPT-5.6 Terra and is live in the API as gpt-6.1-terra . Standard pricing is $1 per million input tokens and $5 per million output tokens . For teams automating screens, forms and documents at volume, GPT-6.1 Terra changes the cost math. TL;DR Size: 1.05M-token context, 128K max output. Runs on: OpenAI-hosted only (API, ChatGPT Work, Codex). Closed weights. Performance: Near GPT-6.1 Sol...",
+      "summaryOriginal": "OpenAI has released GPT-6.1 Terra , a fast model for visual reasoning, computer use and writing. It replaces GPT-5.6 Terra and is live in the API as gpt-6.1-terra . Standard pricing is $1 per million input tokens and $5 per million output tokens . For teams automating screens, forms and documents at volume, GPT-6.1 Terra changes the cost math. TL;DR Size: 1.05M-token context, 128K max output. Runs on: OpenAI-hosted only (API, ChatGPT Work, Codex). Closed weights. Performance: Near GPT-6.1 Sol an",
       "titleZh": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
       "summaryZh": "",
       "translated": false,
@@ -879,9 +1291,9 @@
       "tags": [
         "news",
         "AI",
+        "Alexander Embiricos",
         "Disrupt",
-        "Exclusive",
-        "Agent"
+        "Exclusive"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -904,7 +1316,9 @@
       "tags": [
         "research",
         "AI",
-        "TC"
+        "alibaba",
+        "Cohere",
+        "qwen"
       ],
       "category": "research",
       "readingMinutes": 2
@@ -912,9 +1326,9 @@
     {
       "id": "4be8496643c3ff0222",
       "titleOriginal": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
-      "summaryOriginal": "Anthropic 提交 IPO 申请，拟以「ANT」登陆纳斯达克 5499 元起，iPad mini 8 发布，仍无高刷 苹果回应 iPhone Duo 内屏开裂：少量设备受影响，可联系 AppleCare 换机 OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil 华为畅享系列累计发货突破 1.6 亿台，畅享 100 将于 10 月 28 日发布 小鹏悠游获批 L4 级示范运营，初期仍凭邀请码体验 DeepSeek Flash 1017 登顶 OpenRouter 周用量榜，处理 33.6 万亿 Token SK 海力士回应特别股息传闻：方案未定，拟于 28 日公布股东回报安排 Kimi 为 K3.1 Pro 限流致歉并重置额度 奥迪中国明确品牌分工：一汽主攻四环，上汽聚焦 AUDI 字母标 大众中国获得 L3 路测牌照，已在合肥启动实路测试 Anthropic 确认部分内部系统遭研究人员访问，客户对话与模型权重未受影响 Ca...",
+      "summaryOriginal": "Anthropic 提交 IPO 申请，拟以「ANT」登陆纳斯达克 5499 元起，iPad mini 8 发布，仍无高刷 苹果回应 iPhone Duo 内屏开裂：少量设备受影响，可联系 AppleCare 换机 OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil 华为畅享系列累计发货突破 1.6 亿台，畅享 100 将于 10 月 28 日发布 小鹏悠游获批 L4 级示范运营，初期仍凭邀请码体验 DeepSeek Flash 1017 登顶 OpenRouter 周用量榜，处理 33.6 万亿 Token SK 海力士回应特别股息传闻：方案未定，拟于 28 日公布股东回报安排 Kimi 为 K3.1 Pro 限流致歉并重置额度 奥迪中国明确品牌分工：一汽主攻四环，上汽聚焦 AUDI 字母标 大众中国获得 L3 路测牌照，已在合肥启动实路测试 Anthropic 确认部分内部系统遭研究人员访问，客户对话与模型权重未受影响 Caden",
       "titleZh": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
-      "summaryZh": "Anthropic 提交 IPO 申请，拟以「ANT」登陆纳斯达克 5499 元起，iPad mini 8 发布，仍无高刷 苹果回应 iPhone Duo 内屏开裂：少量设备受影响，可联系 AppleCare 换机 OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil 华为畅享系列累计发货突破 1.6 亿台，畅享 100 将于 10 月 28 日发布 小鹏悠游获批 L4 级示范运营，初期仍凭邀请码体验 DeepSeek Flash 1017 登顶 OpenRouter 周用量榜，处理 33.6 万亿 Token SK 海力士回应特别股息传闻：方案未定，拟于 28 日公布股东回报安排 Kimi 为 K3.1 Pro 限流致歉并重置额度 奥迪中国明确品牌分工：一汽主攻四环，上汽聚焦 AUDI 字母标 大众中国获得 L3 路测牌照，已在合肥启动实路测试 Anthropic 确认部分内部系统遭研究人员访问，客户对话与模型权重未受影响 Ca...",
+      "summaryZh": "Anthropic 提交 IPO 申请，拟以「ANT」登陆纳斯达克 5499 元起，iPad mini 8 发布，仍无高刷 苹果回应 iPhone Duo 内屏开裂：少量设备受影响，可联系 AppleCare 换机 OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil 华为畅享系列累计发货突破 1.6 亿台，畅享 100 将于 10 月 28 日发布 小鹏悠游获批 L4 级示范运营，初期仍凭邀请码体验 DeepSeek Flash 1017 登顶 OpenRouter 周用量榜，处理 33.6 万亿 Token SK 海力士回应特别股息传闻：方案未定，拟于 28 日公布股东回报安排 Kimi 为 K3.1 Pro 限流致歉并重置额度 奥迪中国明确品牌分工：一汽主攻四环，上汽聚焦 AUDI 字母标 大众中国获得 L3 路测牌照，已在合肥启动实路测试 Anthropic 确认部分内部系统遭研究人员访问，客户对话与模型权重未受影响 Caden",
       "translated": true,
       "url": "https://www.ifanr.com/1685979",
       "sourceId": "ifanr",
@@ -932,12 +1346,12 @@
         "iPhone Duo"
       ],
       "category": "research",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "51b6dc021077f16ce5",
       "titleOriginal": "GPT-6.1 Terra",
-      "summaryOriginal": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafti...",
+      "summaryOriginal": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from GPT‑5.6 Terra, it excels at the communication and computer-based tasks that fill the workday, from drafting",
       "titleZh": "GPT-6.1 Terra",
       "summaryZh": "",
       "translated": false,
@@ -958,7 +1372,7 @@
     {
       "id": "bba291662c45fb8c7a",
       "titleOriginal": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "summaryOriginal": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics . What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work thr...",
+      "summaryOriginal": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics . What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in computer science and physics, while for the math problem it says that they advised it to release the AI output for researchers to work throug",
       "titleZh": "OpenAI announces three big science discoveries and a new way to work with academics",
       "summaryZh": "",
       "translated": false,
@@ -1002,7 +1416,7 @@
     {
       "id": "96b9f45bb2e6d93364",
       "titleOriginal": "Anthropic is burning gas to feed the AI boom",
-      "summaryOriginal": "As it prepares to go public , Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's marketing term for what is primarily methane - leaving the company's AI...",
+      "summaryOriginal": "As it prepares to go public , Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed with the US Securities and Exchange Commission Monday, Anthropic acknowledges that data centers are becoming increasingly reliant on \"natural gas\" - the fossil fuel industry's marketing term for what is primarily methane - leaving the company's AI dat",
       "titleZh": "Anthropic is burning gas to feed the AI boom",
       "summaryZh": "",
       "translated": false,
@@ -1094,7 +1508,7 @@
     {
       "id": "34adadfb171aaca138",
       "titleOriginal": "Quoting Jason Koebler",
-      "summaryOriginal": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Ta...",
+      "summaryOriginal": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is telling people that have normal tech support problems that they have discovered something journalistically notable and that 404 Media, specifically, can help them. — Jason Koebler , ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems Tags:",
       "titleZh": "Quoting Jason Koebler",
       "summaryZh": "",
       "translated": false,
@@ -1161,7 +1575,7 @@
     {
       "id": "c6549f35a055aa19d2",
       "titleOriginal": "Will the real Anthropic please stand up",
-      "summaryOriginal": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it is building and the ways it believes it will change the world. It also warns that there’s a fair chance that its tech could “erode trust, harm society and destabili...",
+      "summaryOriginal": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it is building and the ways it believes it will change the world. It also warns that there’s a fair chance that its tech could “erode trust, harm society and destabilize",
       "titleZh": "Will the real Anthropic please stand up",
       "summaryZh": "",
       "translated": false,
@@ -1185,7 +1599,7 @@
     {
       "id": "2500a6aad8741c76ba",
       "titleOriginal": "The RealReal won’t let AI agents hog designer clothing",
-      "summaryOriginal": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, an item goes \"on hold\" and is unavailable for other customers to buy for 20 minutes once it's placed in a user's shopping cart. Using Meta's Muse, The Verge was abl...",
+      "summaryOriginal": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after The Verge reported that an AI agent could be used to take advantage of The RealReal's item reserve system. On the retailer's website, an item goes \"on hold\" and is unavailable for other customers to buy for 20 minutes once it's placed in a user's shopping cart. Using Meta's Muse, The Verge was able t",
       "titleZh": "The RealReal won’t let AI agents hog designer clothing",
       "summaryZh": "",
       "translated": false,
@@ -1232,7 +1646,7 @@
     {
       "id": "4a8f41d180d7e40825",
       "titleOriginal": "Five weird details from Anthropic’s IPO filing",
-      "summaryOriginal": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to unpack, and some of the disclosures have not previously been reported. Here are some of the biggest things that jumped out to us from our first pass: It pays to be an Amodei Sibling co-founder...",
+      "summaryOriginal": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail its ambitions. At more than 300 pages, there's a lot to unpack, and some of the disclosures have not previously been reported. Here are some of the biggest things that jumped out to us from our first pass: It pays to be an Amodei Sibling co-founders D",
       "titleZh": "Five weird details from Anthropic’s IPO filing",
       "summaryZh": "",
       "translated": false,
@@ -1302,7 +1716,7 @@
     {
       "id": "ed13d16bbdfade4948",
       "titleOriginal": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
-      "summaryOriginal": "Nace AI has released Drex for Search , which brings its Drex decision models to document search. Drex for Search is a retrieval layer that helps people and agents find evidence. Coding agents such as Claude Code, Codex, Cursor and OpenCode call it through CLI, SDKs, MCP or REST. In Nace’s evaluation, it scores 92.05% on BrowseComp-Plus with GPT-5, using 12.6 search calls per question. TL;DR Size: a hosted search system built to search over 1M+ files. It pairs with an answering model such as G...",
+      "summaryOriginal": "Nace AI has released Drex for Search , which brings its Drex decision models to document search. Drex for Search is a retrieval layer that helps people and agents find evidence. Coding agents such as Claude Code, Codex, Cursor and OpenCode call it through CLI, SDKs, MCP or REST. In Nace’s evaluation, it scores 92.05% on BrowseComp-Plus with GPT-5, using 12.6 search calls per question. TL;DR Size: a hosted search system built to search over 1M+ files. It pairs with an answering model such as GPT-",
       "titleZh": "Nace AI Releases Drex for Search for AI Agents: 92.05% on BrowseComp-Plus With 12.6 Search Calls",
       "summaryZh": "",
       "translated": false,
@@ -1327,7 +1741,7 @@
     {
       "id": "d4fc15392e5cfcdd64",
       "titleOriginal": "webframe: evaluated as a scraper and a sandbox",
-      "summaryOriginal": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need to b...",
+      "summaryOriginal": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a system browser (\"WKWebView on macOS, WebKitGTK on Linux, WebView2 on Windows\") so it doesn't need to bund",
       "titleZh": "webframe: evaluated as a scraper and a sandbox",
       "summaryZh": "",
       "translated": false,
@@ -1340,8 +1754,7 @@
       "publishedAt": "2026-10-26T16:15:00.000Z",
       "author": "",
       "tags": [
-        "research",
-        "Prompt"
+        "research"
       ],
       "category": "research",
       "readingMinutes": 2
@@ -1685,7 +2098,7 @@
     {
       "id": "69d5a0023539efcf96",
       "titleOriginal": "The focus on AI safety disasters ignores everyday harms",
-      "summaryOriginal": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate...",
+      "summaryOriginal": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate ov",
       "titleZh": "The focus on AI safety disasters ignores everyday harms",
       "summaryZh": "",
       "translated": false,
@@ -1732,7 +2145,7 @@
     {
       "id": "3fb44a491dd633de3b",
       "titleOriginal": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
-      "summaryOriginal": "Tsinghua University and CUHK researchers open-sourced AKV , a serving system for KV cache engineering in LLM agents. Instead of summarizing old history, agents drop selected KV cache entries and keep reusing the rest. Across 3 models and 4 agent benchmarks, average cost falls 27.7% . Average task score rises 1.7 points. The code is Apache-2.0 licensed and builds on SGLang . TL;DR What it is: Serving system plus policy library, no weights. Tested on GPT-OSS-120B (5.1B active), MiniMax-M2.7 (23...",
+      "summaryOriginal": "Tsinghua University and CUHK researchers open-sourced AKV , a serving system for KV cache engineering in LLM agents. Instead of summarizing old history, agents drop selected KV cache entries and keep reusing the rest. Across 3 models and 4 agent benchmarks, average cost falls 27.7% . Average task score rises 1.7 points. The code is Apache-2.0 licensed and builds on SGLang . TL;DR What it is: Serving system plus policy library, no weights. Tested on GPT-OSS-120B (5.1B active), MiniMax-M2.7 (230B",
       "titleZh": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
       "summaryZh": "",
       "translated": false,
@@ -1757,9 +2170,9 @@
     {
       "id": "d56bd8d421b080a8b5",
       "titleOriginal": "地铁里的 AI 伪人广告，正在集体霸凌人类",
-      "summaryOriginal": "体育西路站，人称「地狱西」，是广州地铁拥挤程度的显化。 每日有数十万人聊着天、握着手机经过站厅通道，被广告灯箱照出一道道黑色剪影。 但现在，除了老板、客户和 deadline，起早贪黑、睡眼惺忪的路人们，还要面临一种新的恐惧—— 那就是在地铁站里无处不在、时刻勾起恐怖谷效应的「AI 伪人广告」。 AI 味太重，广告看了很烧心 AI 的普及，向来是悄无声息的；或者说，你知道它们会火，但没想到火得那么快，好比一夜之间发现身边所有人都在看红果短剧。 地铁站的 AI 广告也是如此。 AI 广告其实不是什么新鲜事。早在两年前，深圳地铁亲自下场制作的「你的样子」系列广告，还有飞猪、京东们那些略带诡异的素材就已上过热搜。 但有 AI 广告是一回事，只剩下 AI 广告是另一回事。如今站在地铁站环顾四周，几乎全部灯箱广告里都标注着「画面由 AI 生成」，带来的是一种完全不同的精神冲击： 这一天来得比想象中快太多了。 当然，如果不是广告的「AI 味」太重，我们本不会注意到放在海报角落的 AI 生成标注。 就这一点来说，GPT Images 等常用模型难辞其咎。 图｜用 ChatGPT 一分钟生成的海...",
+      "summaryOriginal": "体育西路站，人称「地狱西」，是广州地铁拥挤程度的显化。 每日有数十万人聊着天、握着手机经过站厅通道，被广告灯箱照出一道道黑色剪影。 但现在，除了老板、客户和 deadline，起早贪黑、睡眼惺忪的路人们，还要面临一种新的恐惧—— 那就是在地铁站里无处不在、时刻勾起恐怖谷效应的「AI 伪人广告」。 AI 味太重，广告看了很烧心 AI 的普及，向来是悄无声息的；或者说，你知道它们会火，但没想到火得那么快，好比一夜之间发现身边所有人都在看红果短剧。 地铁站的 AI 广告也是如此。 AI 广告其实不是什么新鲜事。早在两年前，深圳地铁亲自下场制作的「你的样子」系列广告，还有飞猪、京东们那些略带诡异的素材就已上过热搜。 但有 AI 广告是一回事，只剩下 AI 广告是另一回事。如今站在地铁站环顾四周，几乎全部灯箱广告里都标注着「画面由 AI 生成」，带来的是一种完全不同的精神冲击： 这一天来得比想象中快太多了。 当然，如果不是广告的「AI 味」太重，我们本不会注意到放在海报角落的 AI 生成标注。 就这一点来说，GPT Images 等常用模型难辞其咎。 图｜用 ChatGPT 一分钟生成的海报 每",
       "titleZh": "地铁里的 AI 伪人广告，正在集体霸凌人类",
-      "summaryZh": "体育西路站，人称「地狱西」，是广州地铁拥挤程度的显化。 每日有数十万人聊着天、握着手机经过站厅通道，被广告灯箱照出一道道黑色剪影。 但现在，除了老板、客户和 deadline，起早贪黑、睡眼惺忪的路人们，还要面临一种新的恐惧—— 那就是在地铁站里无处不在、时刻勾起恐怖谷效应的「AI 伪人广告」。 AI 味太重，广告看了很烧心 AI 的普及，向来是悄无声息的；或者说，你知道它们会火，但没想到火得那么快，好比一夜之间发现身边所有人都在看红果短剧。 地铁站的 AI 广告也是如此。 AI 广告其实不是什么新鲜事。早在两年前，深圳地铁亲自下场制作的「你的样子」系列广告，还有飞猪、京东们那些略带诡异的素材就已上过热搜。 但有 AI 广告是一回事，只剩下 AI 广告是另一回事。如今站在地铁站环顾四周，几乎全部灯箱广告里都标注着「画面由 AI 生成」，带来的是一种完全不同的精神冲击： 这一天来得比想象中快太多了。 当然，如果不是广告的「AI 味」太重，我们本不会注意到放在海报角落的 AI 生成标注。 就这一点来说，GPT Images 等常用模型难辞其咎。 图｜用 ChatGPT 一分钟生成的海...",
+      "summaryZh": "体育西路站，人称「地狱西」，是广州地铁拥挤程度的显化。 每日有数十万人聊着天、握着手机经过站厅通道，被广告灯箱照出一道道黑色剪影。 但现在，除了老板、客户和 deadline，起早贪黑、睡眼惺忪的路人们，还要面临一种新的恐惧—— 那就是在地铁站里无处不在、时刻勾起恐怖谷效应的「AI 伪人广告」。 AI 味太重，广告看了很烧心 AI 的普及，向来是悄无声息的；或者说，你知道它们会火，但没想到火得那么快，好比一夜之间发现身边所有人都在看红果短剧。 地铁站的 AI 广告也是如此。 AI 广告其实不是什么新鲜事。早在两年前，深圳地铁亲自下场制作的「你的样子」系列广告，还有飞猪、京东们那些略带诡异的素材就已上过热搜。 但有 AI 广告是一回事，只剩下 AI 广告是另一回事。如今站在地铁站环顾四周，几乎全部灯箱广告里都标注着「画面由 AI 生成」，带来的是一种完全不同的精神冲击： 这一天来得比想象中快太多了。 当然，如果不是广告的「AI 味」太重，我们本不会注意到放在海报角落的 AI 生成标注。 就这一点来说，GPT Images 等常用模型难辞其咎。 图｜用 ChatGPT 一分钟生成的海报 每",
       "translated": true,
       "url": "https://www.ifanr.com/1685809",
       "sourceId": "ifanr",
@@ -1770,14 +2183,14 @@
       "publishedAt": "2026-10-26T07:42:44.000Z",
       "author": "彭海星",
       "tags": [
-        "launch",
+        "news",
         "公司",
         "商业",
         "AI 广告",
         "ai 生图"
       ],
-      "category": "launch",
-      "readingMinutes": 3
+      "category": "news",
+      "readingMinutes": 2
     },
     {
       "id": "eb7708c5f537ab79bf",
@@ -1826,9 +2239,9 @@
     {
       "id": "d7ce1fc1ae36e567a2",
       "titleOriginal": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-      "summaryOriginal": "首款触屏 MacBook Pro 周四登场 iPhone Duo 开售不到两天即破发 部分用户反馈 iPhone Duo 内屏开裂 企业微信回应账号发送色情引流信息：第三方外挂被攻破，已强制下线受影响账号 OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 AI 越来越贵了，国内大模型均价上涨 98% 曝小云雀并入即梦，字节收拢 AI 视频应用资源 Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 马斯克称 SpaceX 完成 400 亿美元债务融资，用于采购 GPU 蓝思科技第三季度净利润降逾五成，前三季汇兑损失推高财务费用 阿波罗首席经济学家：AI 回报还没体现在科技业以外的利润率上 大众与众 09 上市：限时 16.99 万元起，5 米轿跑用上 5C 超充 CapCut 将接入 ChatGPT，11 月面向手机、桌面和网页端公测 猛士 X700 上市，限时焕新价 20.98 万元起 八位堂《古墓丽影》30 周年手柄开售，把劳拉与失落山谷做成两种设计 致态联名《影之刃零》，TiPlus9100 固态硬盘加入武侠礼盒 《复仇者联盟 5》发布...",
+      "summaryOriginal": "首款触屏 MacBook Pro 周四登场 iPhone Duo 开售不到两天即破发 部分用户反馈 iPhone Duo 内屏开裂 企业微信回应账号发送色情引流信息：第三方外挂被攻破，已强制下线受影响账号 OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 AI 越来越贵了，国内大模型均价上涨 98% 曝小云雀并入即梦，字节收拢 AI 视频应用资源 Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 马斯克称 SpaceX 完成 400 亿美元债务融资，用于采购 GPU 蓝思科技第三季度净利润降逾五成，前三季汇兑损失推高财务费用 阿波罗首席经济学家：AI 回报还没体现在科技业以外的利润率上 大众与众 09 上市：限时 16.99 万元起，5 米轿跑用上 5C 超充 CapCut 将接入 ChatGPT，11 月面向手机、桌面和网页端公测 猛士 X700 上市，限时焕新价 20.98 万元起 八位堂《古墓丽影》30 周年手柄开售，把劳拉与失落山谷做成两种设计 致态联名《影之刃零》，TiPlus9100 固态硬盘加入武侠礼盒 《复仇者联盟 5》发布棒球赛",
       "titleZh": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-      "summaryZh": "首款触屏 MacBook Pro 周四登场 iPhone Duo 开售不到两天即破发 部分用户反馈 iPhone Duo 内屏开裂 企业微信回应账号发送色情引流信息：第三方外挂被攻破，已强制下线受影响账号 OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 AI 越来越贵了，国内大模型均价上涨 98% 曝小云雀并入即梦，字节收拢 AI 视频应用资源 Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 马斯克称 SpaceX 完成 400 亿美元债务融资，用于采购 GPU 蓝思科技第三季度净利润降逾五成，前三季汇兑损失推高财务费用 阿波罗首席经济学家：AI 回报还没体现在科技业以外的利润率上 大众与众 09 上市：限时 16.99 万元起，5 米轿跑用上 5C 超充 CapCut 将接入 ChatGPT，11 月面向手机、桌面和网页端公测 猛士 X700 上市，限时焕新价 20.98 万元起 八位堂《古墓丽影》30 周年手柄开售，把劳拉与失落山谷做成两种设计 致态联名《影之刃零》，TiPlus9100 固态硬盘加入武侠礼盒 《复仇者联盟 5》发布...",
+      "summaryZh": "首款触屏 MacBook Pro 周四登场 iPhone Duo 开售不到两天即破发 部分用户反馈 iPhone Duo 内屏开裂 企业微信回应账号发送色情引流信息：第三方外挂被攻破，已强制下线受影响账号 OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 AI 越来越贵了，国内大模型均价上涨 98% 曝小云雀并入即梦，字节收拢 AI 视频应用资源 Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 马斯克称 SpaceX 完成 400 亿美元债务融资，用于采购 GPU 蓝思科技第三季度净利润降逾五成，前三季汇兑损失推高财务费用 阿波罗首席经济学家：AI 回报还没体现在科技业以外的利润率上 大众与众 09 上市：限时 16.99 万元起，5 米轿跑用上 5C 超充 CapCut 将接入 ChatGPT，11 月面向手机、桌面和网页端公测 猛士 X700 上市，限时焕新价 20.98 万元起 八位堂《古墓丽影》30 周年手柄开售，把劳拉与失落山谷做成两种设计 致态联名《影之刃零》，TiPlus9100 固态硬盘加入武侠礼盒 《复仇者联盟 5》发布棒球赛",
       "translated": true,
       "url": "https://www.ifanr.com/1685755",
       "sourceId": "ifanr",
@@ -1846,7 +2259,7 @@
         "OpenAI"
       ],
       "category": "launch",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "1758535ac6be3e6bbb",
@@ -1919,7 +2332,7 @@
     {
       "id": "c932414b7eb961ad85",
       "titleOriginal": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-      "summaryOriginal": "Nanbeige LLM Lab has released Nanbeige4.3-33B on Hugging Face under the Apache 2.0 license. Nanbeige4.3-33B is a 33B dense language model built for agentic coding and office-style ‘cowork’ tasks. The lab sits inside the recruitment platform BOSS Zhipin . It also published Nanbeige4.3-33B-Base for custom post-training. The model supports a 524,288-token context window. In the lab’s own table, it leads 17 of 20 benchmarks against 3 open models near 30B. TL;DR Size: 33B parameters, dense (no MoE...",
+      "summaryOriginal": "Nanbeige LLM Lab has released Nanbeige4.3-33B on Hugging Face under the Apache 2.0 license. Nanbeige4.3-33B is a 33B dense language model built for agentic coding and office-style ‘cowork’ tasks. The lab sits inside the recruitment platform BOSS Zhipin . It also published Nanbeige4.3-33B-Base for custom post-training. The model supports a 524,288-token context window. In the lab’s own table, it leads 17 of 20 benchmarks against 3 open models near 30B. TL;DR Size: 33B parameters, dense (no MoE),",
       "titleZh": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
       "summaryZh": "",
       "translated": false,
@@ -1968,7 +2381,7 @@
     {
       "id": "4cd8b15dd649b7e43a",
       "titleOriginal": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
-      "summaryOriginal": "Hugging Face has released Carbon-X , an open DNA language model with 14.8B parameters. Carbon-X is a decoder-only model from Hugging Face Bio. It reads raw DNA in a chat and answers in English. It predicts whether mutations are benign or pathogenic, flags regulatory regions, classifies organisms and predicts next bases. The weights ship under Apache 2.0, so labs can keep sensitive sequences on their own GPUs. Hugging Face built it with Zhongguancun Academy and TIGEM / University of Naples Fed...",
+      "summaryOriginal": "Hugging Face has released Carbon-X , an open DNA language model with 14.8B parameters. Carbon-X is a decoder-only model from Hugging Face Bio. It reads raw DNA in a chat and answers in English. It predicts whether mutations are benign or pathogenic, flags regulatory regions, classifies organisms and predicts next bases. The weights ship under Apache 2.0, so labs can keep sensitive sequences on their own GPUs. Hugging Face built it with Zhongguancun Academy and TIGEM / University of Naples Federi",
       "titleZh": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
       "summaryZh": "",
       "translated": false,
@@ -1993,7 +2406,7 @@
     {
       "id": "0c0ce1d91251a58f08",
       "titleOriginal": "Seam Cutter",
-      "summaryOriginal": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for...",
+      "summaryOriginal": "Tool: Seam Cutter I built this weird and very specific cropping tool - it lets you create a horizontal or vertical cut across an image, then slide the two sides relative to each other. Effectively it lets you crop out a section in the middle of an image. I wanted this because I often use Tailor on my iPhone to stitch several screenshots together into lot long image, but sometimes I find myself wanting to crop out a section in the middle - to redact an irrelevant prompt from a transcript, for exa",
       "titleZh": "缝合切割机",
       "summaryZh": "",
       "translated": true,
@@ -2063,7 +2476,7 @@
     {
       "id": "1a4147d6e8f37270d8",
       "titleOriginal": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-      "summaryOriginal": "Stanford and UC Berkeley researchers released TokenGate , a module for long-context prefill. TokenGate learned token pruning lets an existing LLM skim its input. Only the tokens that matter get full processing. The research team reports 1.4x to 11.3x faster time-to-first-token (TTFT) with no accuracy loss. Peak prefill memory drops 1.5x to 3.4x. Code and checkpoints are on GitHub under Apache-2.0. TL;DR MLP gate: A small MLP gate and LoRA (r=16) added to Qwen3-1.7B or Qwen3.5-2B. Tested on co...",
+      "summaryOriginal": "Stanford and UC Berkeley researchers released TokenGate , a module for long-context prefill. TokenGate learned token pruning lets an existing LLM skim its input. Only the tokens that matter get full processing. The research team reports 1.4x to 11.3x faster time-to-first-token (TTFT) with no accuracy loss. Peak prefill memory drops 1.5x to 3.4x. Code and checkpoints are on GitHub under Apache-2.0. TL;DR MLP gate: A small MLP gate and LoRA (r=16) added to Qwen3-1.7B or Qwen3.5-2B. Tested on conte",
       "titleZh": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
       "summaryZh": "",
       "translated": false,
@@ -2088,7 +2501,7 @@
     {
       "id": "b7ca3dd28f26a14177",
       "titleOriginal": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-      "summaryOriginal": "Anthropic has launched OSS Scanner , a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos , against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 launch, Anthropic reported 77 critical and 803 high model-rated findings . TL;DR Scale: 114 projects accep...",
+      "summaryOriginal": "Anthropic has launched OSS Scanner , a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company’s strongest models, including Claude Mythos , against enrolled codebases. Reports go straight to maintainers without human review. That trade delivers faster findings, but shifts triage work onto project teams. 11 days after the October 8 launch, Anthropic reported 77 critical and 803 high model-rated findings . TL;DR Scale: 114 projects accepted",
       "titleZh": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
       "summaryZh": "",
       "translated": false,
@@ -2329,9 +2742,9 @@
     {
       "id": "6b898982cc6746fc55",
       "titleOriginal": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
-      "summaryOriginal": "曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者 Gathin 在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小米电视连打开 Netflix 前都要先看一段赞助广告。 于是，他把电视型号交给了编程助手 Claude Code，让它通过 Wi-Fi 接入设备，一口气停用了 25 个系统组件，再写一个极简桌面——原来杂乱的主页，一下子就变得清爽起来。 他随后把这套 prompt、桌面源码和踩坑记录开源到了 GitHub，项目命名为 CleanYourTV 。 短短几天，项目迅速收获了约 1.37 万颗 Star， 「天下苦智能电视久矣」了属于是 。在 Reddit 的相关讨论区中，挤满了追问自家机型能否适配的用户，不少人也陆续贴出自己改造后...",
+      "summaryOriginal": "曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者 Gathin 在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小米电视连打开 Netflix 前都要先看一段赞助广告。 于是，他把电视型号交给了编程助手 Claude Code，让它通过 Wi-Fi 接入设备，一口气停用了 25 个系统组件，再写一个极简桌面——原来杂乱的主页，一下子就变得清爽起来。 他随后把这套 prompt、桌面源码和踩坑记录开源到了 GitHub，项目命名为 CleanYourTV 。 短短几天，项目迅速收获了约 1.37 万颗 Star， 「天下苦智能电视久矣」了属于是 。在 Reddit 的相关讨论区中，挤满了追问自家机型能否适配的用户，不少人也陆续贴出自己改造后的极简",
       "titleZh": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
-      "summaryZh": "曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者 Gathin 在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小米电视连打开 Netflix 前都要先看一段赞助广告。 于是，他把电视型号交给了编程助手 Claude Code，让它通过 Wi-Fi 接入设备，一口气停用了 25 个系统组件，再写一个极简桌面——原来杂乱的主页，一下子就变得清爽起来。 他随后把这套 prompt、桌面源码和踩坑记录开源到了 GitHub，项目命名为 CleanYourTV 。 短短几天，项目迅速收获了约 1.37 万颗 Star， 「天下苦智能电视久矣」了属于是 。在 Reddit 的相关讨论区中，挤满了追问自家机型能否适配的用户，不少人也陆续贴出自己改造后...",
+      "summaryZh": "曾几何时，电视在人们心目中，还是个开机就能看、按两下遥控器就能换台的物种。 现在，打开电视准备看部电影，首先映入眼帘的却是一段开机广告。好不容易进了主页，扑面而来的又是满屏的海报推荐、会员充值弹窗，中途按个暂停还会跳出一整张促销贴片。 图｜北京商报 最近，有一群人终于不打算再忍下去了。他们找来了一个意料之外的帮手——AI，试着把电视给「改回去」。 给电视做一场「大扫除」 上周，开发者 Gathin 在社交平台上发了一组给父母改电视的照片。按他的描述，家里的小米电视连打开 Netflix 前都要先看一段赞助广告。 于是，他把电视型号交给了编程助手 Claude Code，让它通过 Wi-Fi 接入设备，一口气停用了 25 个系统组件，再写一个极简桌面——原来杂乱的主页，一下子就变得清爽起来。 他随后把这套 prompt、桌面源码和踩坑记录开源到了 GitHub，项目命名为 CleanYourTV 。 短短几天，项目迅速收获了约 1.37 万颗 Star， 「天下苦智能电视久矣」了属于是 。在 Reddit 的相关讨论区中，挤满了追问自家机型能否适配的用户，不少人也陆续贴出自己改造后的极简",
       "translated": true,
       "url": "https://www.ifanr.com/1685473",
       "sourceId": "ifanr",
@@ -2349,12 +2762,12 @@
         "智能电视"
       ],
       "category": "news",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "4fe4a528295291342d",
       "titleOriginal": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
-      "summaryOriginal": "2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research de...",
+      "summaryOriginal": "2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed source , but, with 2.5 months left to go, we finally got it - a 2.8T open weights model beating Fable 5.1, not just Fable 5, at that: View post on X ↗ with even better efficiency: View post on X ↗ You can tell Kimi is proud of their latest model by how fancy their landing page is: As usual we don’t get much research detai",
       "titleZh": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
       "summaryZh": "",
       "translated": false,
@@ -2375,7 +2788,7 @@
     {
       "id": "3812b4d599bb7adbe6",
       "titleOriginal": "battledrones v14: Compass Rose, a four player map",
-      "summaryOriginal": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network cod...",
+      "summaryOriginal": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude Opus 5.5 added a new map called \"Compass Rose\" and modified the WebSockets multiplayer network code t",
       "titleZh": "battledrones v14: Compass Rose, a four player map",
       "summaryZh": "",
       "translated": false,
@@ -2398,9 +2811,9 @@
     {
       "id": "103ce0c9b030ef6feb",
       "titleOriginal": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
-      "summaryOriginal": "刚刚，Kimi 正式发布了新一代旗舰模型 K3.1 Pro。在国产大模型纷纷卷起速度和价格的当下，Kimi 又把竞争带回了性能天花板之争。 前两天，大模型竞技场上一款叫 Kibitz 的神秘模型，就已经引起了大家的关注。社交媒体的信息流里，都是用这款模型生成的各种惊艳的案例。 图｜提示词：编写一个骑自行车的鹈鹕的 SVG，尽可能详细 这个骑自行车的鹈鹕，一行提示词已经进化到在不同的环境背景里面骑行，还能调节步频。不少网友认为，效果已经足以媲美 GPT-6 Astra 和 Opus 等前沿闭源模型。 现在 Kibitz 的真实身份也揭晓了，它就是 Kimi K3.1 Pro。一起公开的，还有这款新模型在竞技场上的盲测成绩。 在代码、Agent 和知识类基准上，K31. Pro 都紧追最强闭源模型， 在 Artificial Analysis 「 智能指数 」 直接跃升到 全球 第四， 开源第一 。 除了保持 benchmark 的领先，K3.1 Pro 一如既往地没有选择走两三个月来国模的 Flash 路线，它继续用旗舰大模型来占据国产模型 Pro 档位的第一。 K3.1 Pro...",
+      "summaryOriginal": "刚刚，Kimi 正式发布了新一代旗舰模型 K3.1 Pro。在国产大模型纷纷卷起速度和价格的当下，Kimi 又把竞争带回了性能天花板之争。 前两天，大模型竞技场上一款叫 Kibitz 的神秘模型，就已经引起了大家的关注。社交媒体的信息流里，都是用这款模型生成的各种惊艳的案例。 图｜提示词：编写一个骑自行车的鹈鹕的 SVG，尽可能详细 这个骑自行车的鹈鹕，一行提示词已经进化到在不同的环境背景里面骑行，还能调节步频。不少网友认为，效果已经足以媲美 GPT-6 Astra 和 Opus 等前沿闭源模型。 现在 Kibitz 的真实身份也揭晓了，它就是 Kimi K3.1 Pro。一起公开的，还有这款新模型在竞技场上的盲测成绩。 在代码、Agent 和知识类基准上，K31. Pro 都紧追最强闭源模型， 在 Artificial Analysis 「 智能指数 」 直接跃升到 全球 第四， 开源第一 。 除了保持 benchmark 的领先，K3.1 Pro 一如既往地没有选择走两三个月来国模的 Flash 路线，它继续用旗舰大模型来占据国产模型 Pro 档位的第一。 K3.1 Pro 拥有",
       "titleZh": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
-      "summaryZh": "刚刚，Kimi 正式发布了新一代旗舰模型 K3.1 Pro。在国产大模型纷纷卷起速度和价格的当下，Kimi 又把竞争带回了性能天花板之争。 前两天，大模型竞技场上一款叫 Kibitz 的神秘模型，就已经引起了大家的关注。社交媒体的信息流里，都是用这款模型生成的各种惊艳的案例。 图｜提示词：编写一个骑自行车的鹈鹕的 SVG，尽可能详细 这个骑自行车的鹈鹕，一行提示词已经进化到在不同的环境背景里面骑行，还能调节步频。不少网友认为，效果已经足以媲美 GPT-6 Astra 和 Opus 等前沿闭源模型。 现在 Kibitz 的真实身份也揭晓了，它就是 Kimi K3.1 Pro。一起公开的，还有这款新模型在竞技场上的盲测成绩。 在代码、Agent 和知识类基准上，K31. Pro 都紧追最强闭源模型， 在 Artificial Analysis 「 智能指数 」 直接跃升到 全球 第四， 开源第一 。 除了保持 benchmark 的领先，K3.1 Pro 一如既往地没有选择走两三个月来国模的 Flash 路线，它继续用旗舰大模型来占据国产模型 Pro 档位的第一。 K3.1 Pro...",
+      "summaryZh": "刚刚，Kimi 正式发布了新一代旗舰模型 K3.1 Pro。在国产大模型纷纷卷起速度和价格的当下，Kimi 又把竞争带回了性能天花板之争。 前两天，大模型竞技场上一款叫 Kibitz 的神秘模型，就已经引起了大家的关注。社交媒体的信息流里，都是用这款模型生成的各种惊艳的案例。 图｜提示词：编写一个骑自行车的鹈鹕的 SVG，尽可能详细 这个骑自行车的鹈鹕，一行提示词已经进化到在不同的环境背景里面骑行，还能调节步频。不少网友认为，效果已经足以媲美 GPT-6 Astra 和 Opus 等前沿闭源模型。 现在 Kibitz 的真实身份也揭晓了，它就是 Kimi K3.1 Pro。一起公开的，还有这款新模型在竞技场上的盲测成绩。 在代码、Agent 和知识类基准上，K31. Pro 都紧追最强闭源模型， 在 Artificial Analysis 「 智能指数 」 直接跃升到 全球 第四， 开源第一 。 除了保持 benchmark 的领先，K3.1 Pro 一如既往地没有选择走两三个月来国模的 Flash 路线，它继续用旗舰大模型来占据国产模型 Pro 档位的第一。 K3.1 Pro 拥有",
       "translated": true,
       "url": "https://www.ifanr.com/1685684",
       "sourceId": "ifanr",
@@ -2418,14 +2831,14 @@
         "Agent"
       ],
       "category": "guide",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "ab387c3a62705ef6fb",
       "titleOriginal": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-      "summaryOriginal": "周末也值得一看的新闻 Kimi K3.1 Pro 正式上线，支持百万上下文，完整权重将在 11 月 4 日前发布 微信初步适配 iPhone Duo，支持大屏分栏，暂不支持平板登录 全球 PC 三季度出货量下降 21%，Counterpoint 预计四季度降幅扩大 何刚出任华为董事，继续担任终端 BG CEO 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 沃尔沃汽车拟全球裁减约 2500 个岗位，三季度由盈转亏 上海累计超 200 款大模型完成备案，智能算力规模超 20 万 P 国家信息化「十五五」规划提出适时启动 6G 商用 横店与火山引擎推出「横店π」，把 AI 接入影视制作流程 九号与米其林签署合作框架，拟在服务中心提供轮胎检测与更换 国办鼓励设立「失业缓冲期」，减缓 AI 应用对就业的冲击 首部「龙标」AI 电影《三星堆：未来往事》上映 OpenAI 公布训练环境加固方案，前沿训练改用离线网络内容 英伟达与 TCV 投资 Higgsfield，支持 AI 视频平台扩建 君联资本据报参与 DeepSeek 融资，与联想集团同属联想控股 杨元庆：未来 80%...",
+      "summaryOriginal": "周末也值得一看的新闻 Kimi K3.1 Pro 正式上线，支持百万上下文，完整权重将在 11 月 4 日前发布 微信初步适配 iPhone Duo，支持大屏分栏，暂不支持平板登录 全球 PC 三季度出货量下降 21%，Counterpoint 预计四季度降幅扩大 何刚出任华为董事，继续担任终端 BG CEO 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 沃尔沃汽车拟全球裁减约 2500 个岗位，三季度由盈转亏 上海累计超 200 款大模型完成备案，智能算力规模超 20 万 P 国家信息化「十五五」规划提出适时启动 6G 商用 横店与火山引擎推出「横店π」，把 AI 接入影视制作流程 九号与米其林签署合作框架，拟在服务中心提供轮胎检测与更换 国办鼓励设立「失业缓冲期」，减缓 AI 应用对就业的冲击 首部「龙标」AI 电影《三星堆：未来往事》上映 OpenAI 公布训练环境加固方案，前沿训练改用离线网络内容 英伟达与 TCV 投资 Higgsfield，支持 AI 视频平台扩建 君联资本据报参与 DeepSeek 融资，与联想集团同属联想控股 杨元庆：未来 80% 的 T",
       "titleZh": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-      "summaryZh": "周末也值得一看的新闻 Kimi K3.1 Pro 正式上线，支持百万上下文，完整权重将在 11 月 4 日前发布 微信初步适配 iPhone Duo，支持大屏分栏，暂不支持平板登录 全球 PC 三季度出货量下降 21%，Counterpoint 预计四季度降幅扩大 何刚出任华为董事，继续担任终端 BG CEO 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 沃尔沃汽车拟全球裁减约 2500 个岗位，三季度由盈转亏 上海累计超 200 款大模型完成备案，智能算力规模超 20 万 P 国家信息化「十五五」规划提出适时启动 6G 商用 横店与火山引擎推出「横店π」，把 AI 接入影视制作流程 九号与米其林签署合作框架，拟在服务中心提供轮胎检测与更换 国办鼓励设立「失业缓冲期」，减缓 AI 应用对就业的冲击 首部「龙标」AI 电影《三星堆：未来往事》上映 OpenAI 公布训练环境加固方案，前沿训练改用离线网络内容 英伟达与 TCV 投资 Higgsfield，支持 AI 视频平台扩建 君联资本据报参与 DeepSeek 融资，与联想集团同属联想控股 杨元庆：未来 80%...",
+      "summaryZh": "周末也值得一看的新闻 Kimi K3.1 Pro 正式上线，支持百万上下文，完整权重将在 11 月 4 日前发布 微信初步适配 iPhone Duo，支持大屏分栏，暂不支持平板登录 全球 PC 三季度出货量下降 21%，Counterpoint 预计四季度降幅扩大 何刚出任华为董事，继续担任终端 BG CEO 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 沃尔沃汽车拟全球裁减约 2500 个岗位，三季度由盈转亏 上海累计超 200 款大模型完成备案，智能算力规模超 20 万 P 国家信息化「十五五」规划提出适时启动 6G 商用 横店与火山引擎推出「横店π」，把 AI 接入影视制作流程 九号与米其林签署合作框架，拟在服务中心提供轮胎检测与更换 国办鼓励设立「失业缓冲期」，减缓 AI 应用对就业的冲击 首部「龙标」AI 电影《三星堆：未来往事》上映 OpenAI 公布训练环境加固方案，前沿训练改用离线网络内容 英伟达与 TCV 投资 Higgsfield，支持 AI 视频平台扩建 君联资本据报参与 DeepSeek 融资，与联想集团同属联想控股 杨元庆：未来 80% 的 T",
       "translated": true,
       "url": "https://www.ifanr.com/1685660",
       "sourceId": "ifanr",
@@ -2443,7 +2856,7 @@
         "何刚"
       ],
       "category": "research",
-      "readingMinutes": 3
+      "readingMinutes": 2
     },
     {
       "id": "b15a6fb9671b3fea84",
@@ -2518,7 +2931,7 @@
     {
       "id": "2e71264ea893e4823f",
       "titleOriginal": "Introducing Kimi K3.1 Pro",
-      "summaryOriginal": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks sho...",
+      "summaryOriginal": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show K",
       "titleZh": "Introducing Kimi K3.1 Pro",
       "summaryZh": "",
       "translated": false,
@@ -2586,7 +2999,7 @@
     {
       "id": "6c7366eae8d13a6476",
       "titleOriginal": "AI Is Getting Good at Math. Here’s Why.",
-      "summaryOriginal": "In May, an internal model at OpenAI found a counterexample to Erdős's unit distance conjecture . Open since 1946. Many experts had tried to prove it. OpenAI found a counterexample instead. A month later, OpenAI published a proof of the Cycle Double Cover (CDC) problem , then solutions to ten more open problems by July. And a proof of Navier Stokes in September. Anthropic published a formalization of the fermat's last theorem , and advanced bounds on Reimann's hypothesis . The models are sudde...",
+      "summaryOriginal": "In May, an internal model at OpenAI found a counterexample to Erdős's unit distance conjecture . Open since 1946. Many experts had tried to prove it. OpenAI found a counterexample instead. A month later, OpenAI published a proof of the Cycle Double Cover (CDC) problem , then solutions to ten more open problems by July. And a proof of Navier Stokes in September. Anthropic published a formalization of the fermat's last theorem , and advanced bounds on Reimann's hypothesis . The models are suddenly",
       "titleZh": "AI Is Getting Good at Math. Here’s Why.",
       "summaryZh": "",
       "translated": false,
@@ -2607,7 +3020,7 @@
     {
       "id": "d118e2133ee5b628d2",
       "titleOriginal": "[AINews] Black October",
-      "summaryOriginal": "If you are reading this, you’re receiving this from our new provider, Beehiiv! We are making progress on our redesign — if you have a friend that didn’t receive AINews, please find us in Spam filter and move us out to your Inbox… thank you! AINews is now free… we are building new subscriber benefits soon. We ordinarily try not to repeat title stories if we already covered it, as we did Patch the Planet yesterday and our Cyber trend call in July. But, if the scale is warranted, we also view ou...",
+      "summaryOriginal": "If you are reading this, you’re receiving this from our new provider, Beehiiv! We are making progress on our redesign — if you have a friend that didn’t receive AINews, please find us in Spam filter and move us out to your Inbox… thank you! AINews is now free… we are building new subscriber benefits soon. We ordinarily try not to repeat title stories if we already covered it, as we did Patch the Planet yesterday and our Cyber trend call in July. But, if the scale is warranted, we also view our c",
       "titleZh": "[AINews] Black October",
       "summaryZh": "",
       "translated": false,
@@ -2695,9 +3108,31 @@
       "readingMinutes": 2
     },
     {
+      "id": "c6099fc8919f3d5469",
+      "titleOriginal": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "summaryOriginal": "Anima expands what care teams can do with OpenAI models, giving them more capacity to respond to patients.",
+      "titleZh": "Anima helps clinics cut call waits by 75% with GPT-6 and GPT-Live",
+      "summaryZh": "",
+      "translated": false,
+      "url": "https://openai.com/index/anima",
+      "sourceId": "openai",
+      "sourceName": "OpenAI",
+      "sourceSite": "https://openai.com/news",
+      "sourceColor": "#10a37f",
+      "lang": "en",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "author": "",
+      "tags": [
+        "launch",
+        "Startup"
+      ],
+      "category": "launch",
+      "readingMinutes": 2
+    },
+    {
       "id": "2aedd54f3eb3c47485",
       "titleOriginal": "Designing an AI serving harness built to last",
-      "summaryOriginal": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can th...",
+      "summaryOriginal": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the m",
       "titleZh": "Designing an AI serving harness built to last",
       "summaryZh": "",
       "translated": false,
@@ -2786,7 +3221,7 @@
     {
       "id": "d8c2939ee8cf1af6b6",
       "titleOriginal": "The Foundations of Scalable AI",
-      "summaryOriginal": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Ins...",
+      "summaryOriginal": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insigh",
       "titleZh": "The Foundations of Scalable AI",
       "summaryZh": "",
       "translated": false,
@@ -2799,17 +3234,17 @@
       "publishedAt": "2026-10-22T18:48:04.000Z",
       "author": "MIT Technology Review Events",
       "tags": [
-        "research",
+        "analysis",
         "Artificial intelligence",
         "sponsored"
       ],
-      "category": "research",
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
       "id": "09776931f4659a5dc7",
       "titleOriginal": "Donating Agent Skills to the Agentic AI Foundation",
-      "summaryOriginal": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I would...",
+      "summaryOriginal": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't",
       "titleZh": "Donating Agent Skills to the Agentic AI Foundation",
       "summaryZh": "",
       "translated": false,
@@ -2822,16 +3257,16 @@
       "publishedAt": "2026-10-22T18:09:56.000Z",
       "author": "",
       "tags": [
-        "launch",
+        "news",
         "Agent"
       ],
-      "category": "launch",
+      "category": "news",
       "readingMinutes": 2
     },
     {
       "id": "4d9b576e5743b82853",
       "titleOriginal": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-      "summaryOriginal": "Warm welcome to Basil Chatha , our newest cohost from the Forward Deployed side of the AI Engineering world! We’ll be ramping up a new show with him and couldn’t pass up an interview with Modal’s CEO Eric on the occasion of their monster Series D! Two years ago, we spoke with Erik Bernhardsson about his vision for truly serverless AI infrastructure: developers should be able to run code without provisioning clusters, predicting load, or paying for idle resources. CTO Akshat then joined us to...",
+      "summaryOriginal": "Warm welcome to Basil Chatha , our newest cohost from the Forward Deployed side of the AI Engineering world! We’ll be ramping up a new show with him and couldn’t pass up an interview with Modal’s CEO Eric on the occasion of their monster Series D! Two years ago, we spoke with Erik Bernhardsson about his vision for truly serverless AI infrastructure: developers should be able to run code without provisioning clusters, predicting load, or paying for idle resources. CTO Akshat then joined us to tal",
       "titleZh": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "summaryZh": "",
       "translated": false,
@@ -2845,7 +3280,6 @@
       "author": "Latent.Space",
       "tags": [
         "analysis",
-        "Agent",
         "Coding"
       ],
       "category": "analysis",
@@ -2896,7 +3330,7 @@
     {
       "id": "b82818c8a1633d5f70",
       "titleOriginal": "You are the Team — Anekha Sokhal, Moshi",
-      "summaryOriginal": "Tickets and applications now live for AIE CODE - the last flagship AIE of the year. When Anekha Sokhal traded energy derivatives, staying on top of the market meant tracking more information than any person could read. Now, as CEO of Moshi, she is building the tool she wished she had: a recommendation engine that connects market information to what matters for a trader’s book. At AI Engineer New York, Anekha joins swyx to discuss her path from mathematics and JPMorgan to founding Moshi, and w...",
+      "summaryOriginal": "Tickets and applications now live for AIE CODE - the last flagship AIE of the year. When Anekha Sokhal traded energy derivatives, staying on top of the market meant tracking more information than any person could read. Now, as CEO of Moshi, she is building the tool she wished she had: a recommendation engine that connects market information to what matters for a trader’s book. At AI Engineer New York, Anekha joins swyx to discuss her path from mathematics and JPMorgan to founding Moshi, and why",
       "titleZh": "You are the Team — Anekha Sokhal, Moshi",
       "summaryZh": "",
       "translated": false,
@@ -2918,7 +3352,7 @@
     {
       "id": "6a85074051ec367717",
       "titleOriginal": "Making the case for context-aware AI",
-      "summaryOriginal": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead is giving technology the context to act usefully within complex business processes. For Devavrat Shah, chief scie...",
+      "summaryOriginal": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead is giving technology the context to act usefully within complex business processes. For Devavrat Shah, chief scienti",
       "titleZh": "Making the case for context-aware AI",
       "summaryZh": "",
       "translated": false,
@@ -2933,8 +3367,7 @@
       "tags": [
         "analysis",
         "Artificial intelligence",
-        "sponsored",
-        "Agent"
+        "sponsored"
       ],
       "category": "analysis",
       "readingMinutes": 2
@@ -2942,7 +3375,7 @@
     {
       "id": "1597d0c89acaa275f6",
       "titleOriginal": "AI’s hidden storage bill: What inference leaves behind",
-      "summaryOriginal": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure plan...",
+      "summaryOriginal": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure plannin",
       "titleZh": "AI’s hidden storage bill: What inference leaves behind",
       "summaryZh": "",
       "translated": false,
@@ -2955,18 +3388,17 @@
       "publishedAt": "2026-10-22T08:41:18.000Z",
       "author": "Tim Rausch",
       "tags": [
-        "research",
+        "analysis",
         "Artificial intelligence",
-        "sponsored",
-        "Prompt"
+        "sponsored"
       ],
-      "category": "research",
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
       "id": "fd3ae03361f511a328",
       "titleOriginal": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "summaryOriginal": "Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders , a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a researcher at the security firm Calif, as part of the OpenAI “ Patch the Planet ” project in August 2026 using GPT 5.6 Sol: View post on X … as well as Wiz, recently acquired into Google Cloud (using Gemini 4 Argon and...",
+      "summaryOriginal": "Almost 2 months ago, OpenAI introduced Daybreak for Frontline Defenders , a $1B subsidy for access to Daybreak cyber models and products. That funding came into use almost immediately, as major vulnerabilities in PHP were independently discovered by two parties: Ryan Austin, a researcher at the security firm Calif, as part of the OpenAI “ Patch the Planet ” project in August 2026 using GPT 5.6 Sol: View post on X … as well as Wiz, recently acquired into Google Cloud (using Gemini 4 Argon and GPT",
       "titleZh": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
       "summaryZh": "",
       "translated": false,
@@ -3053,7 +3485,7 @@
     {
       "id": "952285572a8e70b95f",
       "titleOriginal": "Today's PHP Security Release, and How We're Strengthening PHP Security",
-      "summaryOriginal": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums an...",
+      "summaryOriginal": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong: On Tuesday, October 20th, at around 15:00 UTC, the two CVE IDs began circulating on online forums and s",
       "titleZh": "Today's PHP Security Release, and How We're Strengthening PHP Security",
       "summaryZh": "",
       "translated": false,
@@ -3096,7 +3528,7 @@
     {
       "id": "6c1da1b548c0412278",
       "titleOriginal": "Panache — RTS Belle Époque pour mobile",
-      "summaryOriginal": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, Creusot cuirassés, automates en képi, Gargantua la forteresse marchante — et beauco...",
+      "summaryOriginal": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de stratégie en temps réel pour mobile et navigateur, dans la France de la Belle Époque (vers 1900) : dirigeables, Fardiers à vapeur, Creusot cuirassés, automates en képi, Gargantua la forteresse marchante — et beaucoup",
       "titleZh": "Panache — RTS Belle Époque pour mobile",
       "summaryZh": "",
       "translated": false,
@@ -3109,8 +3541,7 @@
       "publishedAt": "2026-10-21T16:25:16.000Z",
       "author": "",
       "tags": [
-        "news",
-        "Video"
+        "news"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -3118,7 +3549,7 @@
     {
       "id": "12d4585120eb3bcb8e",
       "titleOriginal": "Claude Mods: Flipping the Harness Inside Out",
-      "summaryOriginal": "For the last few weeks I’ve used Claude Mods to mold Claude Code to my AI engineering workflow. Claude Code is great out of the box, but every engineering workflow is different. Claude Mods let you make Claude Code yours, in the way you want to pay attention. The “paying attention” part is now the most important thing. In a recent Latent Space post, The Evolution of the Agent Harness , I argued that as models absorb more of the harness into their weights, the part that’s left faces the human....",
+      "summaryOriginal": "For the last few weeks I’ve used Claude Mods to mold Claude Code to my AI engineering workflow. Claude Code is great out of the box, but every engineering workflow is different. Claude Mods let you make Claude Code yours, in the way you want to pay attention. The “paying attention” part is now the most important thing. In a recent Latent Space post, The Evolution of the Agent Harness , I argued that as models absorb more of the harness into their weights, the part that’s left faces the human. It",
       "titleZh": "Claude Mods: Flipping the Harness Inside Out",
       "summaryZh": "",
       "translated": false,
@@ -3231,7 +3662,7 @@
     {
       "id": "6018ea9507dd69569d",
       "titleOriginal": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
-      "summaryOriginal": "Proudly brought to you by SerpApi: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer ,...",
+      "summaryOriginal": "Proudly brought to you by SerpApi: Today’s release covers a LOT of ground, but you can scrape all this into markdown for your agents ! 50% token cost of JSON. We last covered the Inference Inflection in April , and historically most of the advances have been closed source decacorns from Fireworks to Baseten to Modal . Well, time for the open source response. It is day 1 of PyTorch Conf , and DeepSeek timed an intercontinental ballistic missile into the discussion by open sourcing DeepInfer , the",
       "titleZh": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
       "summaryZh": "",
       "translated": false,
@@ -3246,7 +3677,6 @@
       "tags": [
         "launch",
         "Agent",
-        "Prompt",
         "Open Source"
       ],
       "category": "launch",
@@ -3255,7 +3685,7 @@
     {
       "id": "cb51b79b07cd26fe75",
       "titleOriginal": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
-      "summaryOriginal": "Last year , Alex Lieberman and his cofounder joined us to explain Tenex’s unusual bet: pay AI engineers for the work they deliver, rather than the hours they spend at a keyboard. If AI makes an engineer faster, an hourly rate can make the engineer less money for the same job. Tenex wanted the incentives to run the other way. At AIE New York, Alex came back with CJ Hess to talk about what happens when you scale that idea into an engineering organization. We also put one of our own experiments...",
+      "summaryOriginal": "Last year , Alex Lieberman and his cofounder joined us to explain Tenex’s unusual bet: pay AI engineers for the work they deliver, rather than the hours they spend at a keyboard. If AI makes an engineer faster, an hourly rate can make the engineer less money for the same job. Tenex wanted the incentives to run the other way. At AIE New York, Alex came back with CJ Hess to talk about what happens when you scale that idea into an engineering organization. We also put one of our own experiments on",
       "titleZh": "AI for the Fortune 2000: How Tenex Builds an AI-Native SDLC — Alex Lieberman & CJ Hess",
       "summaryZh": "",
       "translated": false,
@@ -3343,7 +3773,7 @@
     {
       "id": "aac036aa8666576a8c",
       "titleOriginal": "eMudhra Intermediate CA Compromise",
-      "summaryOriginal": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world u...",
+      "summaryOriginal": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs and by many downstream trust stores. Any software that bundles a list of trusted certificates needs to be updated. This site is tracking software updates via this GitHub repository - Linux distros need to update their ca-certificates packages. In Python world uv 0",
       "titleZh": "eMudhra Intermediate CA Compromise",
       "summaryZh": "",
       "translated": false,
@@ -3364,7 +3794,7 @@
     {
       "id": "3b5ce86c8c402c8d1f",
       "titleOriginal": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "summaryOriginal": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built...",
+      "summaryOriginal": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit that I got there by telling Claude to \"Make it a LOT more fun\". It also supports multiplayer between nearby devices using audio to synchronize game state! Here's what I've built so far, and some of the things I learned along the way. Battle Drones How I built thi",
       "titleZh": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "summaryZh": "",
       "translated": false,
@@ -3377,8 +3807,7 @@
       "publishedAt": "2026-10-20T19:34:19.000Z",
       "author": "",
       "tags": [
-        "news",
-        "Agent"
+        "news"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -3386,7 +3815,7 @@
     {
       "id": "f6afcbfa7043306fa8",
       "titleOriginal": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "summaryOriginal": "This was recorded on the sidelines of the new Compute Trading track at AIE NYC . Catch us next at AIE CODE , our last flagship for the top agentic engineers in the world. In the early days of cloud, former guest Martin Casado made something so disruptive that Cisco was threatened enough to pay $600m for it, and VMware outbid for $1.3B: View post on X ↗ That concept was software-defined networking , which virtualized the routing network by separating the control plane from the data plane. That...",
+      "summaryOriginal": "This was recorded on the sidelines of the new Compute Trading track at AIE NYC . Catch us next at AIE CODE , our last flagship for the top agentic engineers in the world. In the early days of cloud, former guest Martin Casado made something so disruptive that Cisco was threatened enough to pay $600m for it, and VMware outbid for $1.3B: View post on X ↗ That concept was software-defined networking , which virtualized the routing network by separating the control plane from the data plane. That re",
       "titleZh": "The Programmable Data Center — Evan Conrad, SF Compute",
       "summaryZh": "",
       "translated": false,
@@ -3408,7 +3837,7 @@
     {
       "id": "dd8a8739a45d4ff83f",
       "titleOriginal": "30 Months on the Exponential (in Charts)",
-      "summaryOriginal": "My second book on AI, Co-Existence, is out today (and you can get it here ), 30 months after the release of Co-Intelligence in early 2024. Looking back across the gap between these books is a good way to get a sense of AI progress. And, thanks to AI, I can describe this progress with some quite lovely charts. Making the charts is itself a good indicator of how far things have come. In the era of chatbots, the era of Co-Intelligence , I would have had to work back-and-forth with an AI in a cha...",
+      "summaryOriginal": "My second book on AI, Co-Existence, is out today (and you can get it here ), 30 months after the release of Co-Intelligence in early 2024. Looking back across the gap between these books is a good way to get a sense of AI progress. And, thanks to AI, I can describe this progress with some quite lovely charts. Making the charts is itself a good indicator of how far things have come. In the era of chatbots, the era of Co-Intelligence , I would have had to work back-and-forth with an AI in a chat w",
       "titleZh": "30 Months on the Exponential (in Charts)",
       "summaryZh": "",
       "translated": false,
@@ -3421,8 +3850,7 @@
       "publishedAt": "2026-10-20T15:57:59.000Z",
       "author": "Ethan Mollick",
       "tags": [
-        "launch",
-        "Agent"
+        "launch"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -3430,7 +3858,7 @@
     {
       "id": "913203c4de74009d69",
       "titleOriginal": "The new economics of enterprise AI",
-      "summaryOriginal": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?” Enterprise AI is going through the same shift. What began as isolated chatbot and copilot experiments is becoming a foundational layer of the business, with models,...",
+      "summaryOriginal": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from “can we use it?” to “how efficiently are we using it?” Enterprise AI is going through the same shift. What began as isolated chatbot and copilot experiments is becoming a foundational layer of the business, with models, age",
       "titleZh": "The new economics of enterprise AI",
       "summaryZh": "",
       "translated": false,
@@ -3445,8 +3873,7 @@
       "tags": [
         "analysis",
         "Artificial intelligence",
-        "sponsored",
-        "Agent"
+        "sponsored"
       ],
       "category": "analysis",
       "readingMinutes": 2
@@ -3454,7 +3881,7 @@
     {
       "id": "7d296a29338c4ed322",
       "titleOriginal": "AI adoption by industry shows what other sectors can learn",
-      "summaryOriginal": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably filter into healthcare, education, retail, and manufacturing. The variation in adoption rates today isn’t a sign that non-...",
+      "summaryOriginal": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably filter into healthcare, education, retail, and manufacturing. The variation in adoption rates today isn’t a sign that non-tec",
       "titleZh": "AI adoption by industry shows what other sectors can learn",
       "summaryZh": "",
       "translated": false,
@@ -3498,7 +3925,7 @@
     {
       "id": "506646dbe51b1aa842",
       "titleOriginal": "A visit to Samsung’s massive new semiconductor hub",
-      "summaryOriginal": "_____________ THE PLACE Pyeongtaek, South Korea Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction of a fifth was halted during a drop in demand for memory chips in 2024 but restarted when...",
+      "summaryOriginal": "_____________ THE PLACE Pyeongtaek, South Korea Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction of a fifth was halted during a drop in demand for memory chips in 2024 but restarted when th",
       "titleZh": "A visit to Samsung’s massive new semiconductor hub",
       "summaryZh": "",
       "translated": false,
@@ -3544,7 +3971,7 @@
     {
       "id": "8ef125b9a8d475f10c",
       "titleOriginal": "[AINews] not much happened today",
-      "summaryOriginal": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet. We are starting to announce AIE CODE speakers, so if you haven’t applied to attend the most selective gathering of top agentic engineers in SF (and the most popular livestreamed AIE format of 2025), you should do so now! View the original post on X AI News for 10/16/2026-10/19/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINew...",
+      "summaryOriginal": "Congrats to DeepSeek V4.1 Flash 1017, MiniMax M3.1 Flash, and Mercury 3 (details below) but they’re not going to be in super wide use just yet. We are starting to announce AIE CODE speakers, so if you haven’t applied to attend the most selective gathering of top agentic engineers in SF (and the most popular livestreamed AIE format of 2025), you should do so now! View the original post on X AI News for 10/16/2026-10/19/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’",
       "titleZh": "[AINews] not much happened today",
       "summaryZh": "",
       "translated": false,
@@ -3557,10 +3984,10 @@
       "publishedAt": "2026-10-20T05:21:52.000Z",
       "author": "Latent Space",
       "tags": [
-        "launch",
+        "analysis",
         "Coding"
       ],
-      "category": "launch",
+      "category": "analysis",
       "readingMinutes": 2
     },
     {
@@ -3588,7 +4015,7 @@
     {
       "id": "af02b0baed077a8676",
       "titleOriginal": "My obituary for programming",
-      "summaryOriginal": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would...",
+      "summaryOriginal": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You got paid to work on tricky little logic puzzles. The trickier the puzzle, the more you got paid. But even pretty simple puzzles were worth a lot of money because regular people just couldn't do it! No, they needed us. They would give us a problem and we would sol",
       "titleZh": "我的节目讣告",
       "summaryZh": "",
       "translated": true,
@@ -3655,7 +4082,7 @@
     {
       "id": "12899128ec45e6d3da",
       "titleOriginal": "llm-echo 0.5",
-      "summaryOriginal": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the pr...",
+      "summaryOriginal": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve an LLM at all - it just repeats back the prompts that have been fed to it. The new release now updates the simulated token usage counts to take tool calls, system prompts, and reasoning tokens into account. Example usage: uvx --with llm-echo llm -m echo 'hi there' -o thinking 1 --usage Outputs: First I consider the promp",
       "titleZh": "llm-echo 0.5",
       "summaryZh": "",
       "translated": false,
@@ -3668,8 +4095,7 @@
       "publishedAt": "2026-10-18T23:16:16.000Z",
       "author": "",
       "tags": [
-        "launch",
-        "Prompt"
+        "launch"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -3677,7 +4103,7 @@
     {
       "id": "69ead926e6899b5ee7",
       "titleOriginal": "Inline rendering with document​.currentScript",
-      "summaryOriginal": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is <script>$(new Date().g...",
+      "summaryOriginal": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline <script> element that replaces itself when the page loads: The year is <script> document.currentScript.replaceWith( new Date().getFullYear())</script> If you define a shortcut function like this: $=(...n)=>document.currentScript.replaceWith(...n) You get a tiny template language: The year is <script>$(new Date().getF",
       "titleZh": "Inline rendering with document​.currentScript",
       "summaryZh": "",
       "translated": false,
@@ -3720,7 +4146,7 @@
     {
       "id": "f64c2d9b95dccc1248",
       "titleOriginal": "[AINews] High Taste Testers Ep. 1",
-      "summaryOriginal": "We are piloting a new show on Latent Space: High Taste Testers, a variant of our food show where we pull you in to a typical lunch conversation in San Francisco. All your favorite talking points, starting with Dev Day and going into the latest models and assistants, are here: Let us know your feedback! AI News for 10/15/2026-10/16/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’ website lets you search all past issues. As a reminder, AINews is now a section of Lat...",
+      "summaryOriginal": "We are piloting a new show on Latent Space: High Taste Testers, a variant of our food show where we pull you in to a typical lunch conversation in San Francisco. All your favorite talking points, starting with Dev Day and going into the latest models and assistants, are here: Let us know your feedback! AI News for 10/15/2026-10/16/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’ website lets you search all past issues. As a reminder, AINews is now a section of Latent",
       "titleZh": "[AINews] High Taste Testers Ep. 1",
       "summaryZh": "",
       "translated": false,
@@ -3741,7 +4167,7 @@
     {
       "id": "e946af68fd7dbe0ee8",
       "titleOriginal": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "summaryOriginal": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. Thi...",
+      "summaryOriginal": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking that question also changed when review happens. Before, review was a gate at the end of the road: write the code, open a PR, wait for your colleague. Now, review runs continuously, more like spellcheck while you write. Most changes have been reviewed and fixed by Claude at least once before a human is asked to look. This c",
       "titleZh": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
       "summaryZh": "",
       "translated": false,
@@ -3755,7 +4181,6 @@
       "author": "",
       "tags": [
         "news",
-        "Agent",
         "Coding"
       ],
       "category": "news",
@@ -3785,7 +4210,7 @@
     {
       "id": "84597031178419a855",
       "titleOriginal": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "summaryOriginal": "A version of Muse Spark Open was released today, fulfilling their original promise but with a model weaker than their Spark 1.3. It’s also worth watching the Tesla Roadster demo - not strictly AI but nothing cooler than real life flying cars. Our title story today is a rare one on interpretability and alignment. We last caught up with Goodfire in Feb : and the bitter-lesson scaling of interpretability methods with Anthropic last year : And now Nick Cammarata at Goodfire has an important essay...",
+      "summaryOriginal": "A version of Muse Spark Open was released today, fulfilling their original promise but with a model weaker than their Spark 1.3. It’s also worth watching the Tesla Roadster demo - not strictly AI but nothing cooler than real life flying cars. Our title story today is a rare one on interpretability and alignment. We last caught up with Goodfire in Feb : and the bitter-lesson scaling of interpretability methods with Anthropic last year : And now Nick Cammarata at Goodfire has an important essay ou",
       "titleZh": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
       "summaryZh": "",
       "translated": false,
@@ -3807,7 +4232,7 @@
     {
       "id": "00c66b5eda27345f2a",
       "titleOriginal": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
-      "summaryOriginal": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive use of dynamic workflows - it generates JavaScript that defines and coordinates a network of subagents to take on complex problems. My initial prompt was this - I meant \"hit the ro...",
+      "summaryOriginal": "Research: sparqlite: SPARQL 1.1 inside SQLite, written in Rust This research task is really an experiment in running Claude Code for web in \"Ultracode\" mode, as described in Orchestrate subagents at scale with dynamic workflows in the Claude Code documentation. With Ultracode turned on, Claude Code makes aggressive use of dynamic workflows - it generates JavaScript that defines and coordinates a network of subagents to take on complex problems. My initial prompt was this - I meant \"hit the rows",
       "titleZh": "sparqlite: SPARQL 1.1 inside SQLite, written in Rust",
       "summaryZh": "",
       "translated": false,
@@ -3875,7 +4300,7 @@
     {
       "id": "08c79764230e6e3c00",
       "titleOriginal": "Chirp Pong",
-      "summaryOriginal": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwi...",
+      "summaryOriginal": "Tool: Chirp Pong Another game experiment - I wanted to see if it was feasible to have a two player game on two separate phones running in static HTML where the networking code uses chirps sent via the microphone. It seems to work! Build a two player competitive pong like game where two players use their phones close to each other and the game state is sent via audio noises which the web microphone API can interpret - but add graphical and gameplay twists to make it a lot more fun and intertwine",
       "titleZh": "Chirp Pong",
       "summaryZh": "",
       "translated": false,
@@ -3940,7 +4365,7 @@
     {
       "id": "6702d1aaf0afce3a0d",
       "titleOriginal": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "summaryOriginal": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjus...",
+      "summaryOriginal": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in here from \" people with knowledge of the matter \". Key things I learned from the article: Q1 revenue (Jan/Feb/Mar) was \"about $4.8bn\" Q2 (Apr/May/Jun) was $11.5bn Q3 (Jul/Aug/Sep) was $16.8bn In Q3: $1.70 in revenue for every $1 spent on \"computing power\" Adjusted",
       "titleZh": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
       "summaryZh": "",
       "translated": false,
@@ -3961,7 +4386,7 @@
     {
       "id": "1208822c3f3ac23427",
       "titleOriginal": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "summaryOriginal": "Today Modal switches from our infra unicorn category to infra decacorn . We last caught up with Modal CTO Akshat in July: On the last day of AIE NYC , Akshat had a lot to share about the kind of infrastructure agents are needing for “ millions of concurrent sandboxes, launch RDMA clusters securely and elastically for distributed training, train state of the art speculators for inference, build a whole new sandbox runtime, and more ”: View the original post on X As Erik notes in his fundraise...",
+      "summaryOriginal": "Today Modal switches from our infra unicorn category to infra decacorn . We last caught up with Modal CTO Akshat in July: On the last day of AIE NYC , Akshat had a lot to share about the kind of infrastructure agents are needing for “ millions of concurrent sandboxes, launch RDMA clusters securely and elastically for distributed training, train state of the art speculators for inference, build a whole new sandbox runtime, and more ”: View the original post on X As Erik notes in his fundraise pos",
       "titleZh": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
       "summaryZh": "",
       "translated": false,
@@ -3975,8 +4400,7 @@
       "author": "Latent Space",
       "tags": [
         "research",
-        "Agent",
-        "Coding"
+        "Agent"
       ],
       "category": "research",
       "readingMinutes": 2
@@ -3984,7 +4408,7 @@
     {
       "id": "e3274600bfe5739a9a",
       "titleOriginal": "LaTeX renderer",
-      "summaryOriginal": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip Planner). Tiny Little Office's signature trick is to store all of the document data in the #fragment section of the URL, so every document created using it becomes a bookmarkable and shareable link. It also has an l...",
+      "summaryOriginal": "Tool: LaTeX renderer Inspired by Paul Ford and Aboard Foundary's new web app Tiny Little Office , which provides a suite of web app content editors (a Word Processor, Outliner, Presentation Builder, Spreadsheet, Calculator, Drawing Tool, Diagram Maker, Animator, Calendar, and Trip Planner). Tiny Little Office's signature trick is to store all of the document data in the #fragment section of the URL, so every document created using it becomes a bookmarkable and shareable link. It also has an llms",
       "titleZh": "LaTeX renderer",
       "summaryZh": "",
       "translated": false,
@@ -3997,17 +4421,15 @@
       "publishedAt": "2026-10-15T02:07:28.000Z",
       "author": "",
       "tags": [
-        "guide",
-        "Agent",
-        "Coding"
+        "news"
       ],
-      "category": "guide",
+      "category": "news",
       "readingMinutes": 2
     },
     {
       "id": "3a28134fc7acf8c05f",
       "titleOriginal": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
-      "summaryOriginal": "One of the key themes at the AI Engineer New York conference this week was how to balance agent autonomy with security and safety . Both frontier labs and financial firms focused on this issue in their presentations this week. The main lesson: safe autonomy depends on where you put controls and human judgment , rather than how many restrictions you impose. Sponsor: Build shopping into your agent with shop.dev Adding commerce to an agent usually means rebuilding search and checkout from scratc...",
+      "summaryOriginal": "One of the key themes at the AI Engineer New York conference this week was how to balance agent autonomy with security and safety . Both frontier labs and financial firms focused on this issue in their presentations this week. The main lesson: safe autonomy depends on where you put controls and human judgment , rather than how many restrictions you impose. Sponsor: Build shopping into your agent with shop.dev Adding commerce to an agent usually means rebuilding search and checkout from scratch.",
       "titleZh": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
       "summaryZh": "",
       "translated": false,
@@ -4029,7 +4451,7 @@
     {
       "id": "bbc1e25e9e985e4588",
       "titleOriginal": "Tree Appreciator",
-      "summaryOriginal": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5...",
+      "summaryOriginal": "Tool: Tree Appreciator Another game experiment with Claude. This one used the default Claude iPhone app (chat mode, not Claude Code mode), where I prompted Claude Opus 5.5 Max with: Build a three js game called \"Tree appreciator\" - it shows you two algorithmically generated trees and the game mechanics is about appreciating the differences between them. Think hard about how to make sure it is both fun and beautiful. Somewhat embarrassingly given my recent talk , I've found that telling Opus 5.5",
       "titleZh": "Tree Appreciator",
       "summaryZh": "",
       "translated": false,
@@ -4051,7 +4473,7 @@
     {
       "id": "27e342f2e55e90d7b8",
       "titleOriginal": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
-      "summaryOriginal": "A few years ago I stumbled upon Leash Bio’s Substack , and was hooked. Be it their Kaggle competition that showed that no, we really haven’t solved protein-ligand binding , or their crazy discovery that knowing a molecule’s author is perhaps all you need to know to predict how good it is . Their substack — or at least Owl Posting ’s 1 deep dive on them — should be required reading for any scientist trying to do chemistry with AI. So I was super excited to finally be able to sit down with Ian...",
+      "summaryOriginal": "A few years ago I stumbled upon Leash Bio’s Substack , and was hooked. Be it their Kaggle competition that showed that no, we really haven’t solved protein-ligand binding , or their crazy discovery that knowing a molecule’s author is perhaps all you need to know to predict how good it is . Their substack — or at least Owl Posting ’s 1 deep dive on them — should be required reading for any scientist trying to do chemistry with AI. So I was super excited to finally be able to sit down with Ian Qui",
       "titleZh": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
       "summaryZh": "",
       "translated": false,
@@ -4072,7 +4494,7 @@
     {
       "id": "8560636ebc000f33b2",
       "titleOriginal": "AI is mass decompiling games. That's both awesome and scary.",
-      "summaryOriginal": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can...",
+      "summaryOriginal": "AI is mass decompiling games. That's both awesome and scary. Indie game developer Popcar talks about the recent wave of AI-powered decompilation of existing games, enabling weird mashups between existing games, and producing a boom in game preservation projects to get old games working on new hardware (often in a browser using WebAssembly). I like how this piece captures both the positives and the negatives of this new development: Most people already realized the scary part by now. If AI can de",
       "titleZh": "AI is mass decompiling games. That's both awesome and scary.",
       "summaryZh": "",
       "translated": false,
@@ -4085,8 +4507,7 @@
       "publishedAt": "2026-10-14T16:26:53.000Z",
       "author": "",
       "tags": [
-        "news",
-        "Video"
+        "news"
       ],
       "category": "news",
       "readingMinutes": 2
@@ -4136,7 +4557,7 @@
     {
       "id": "fd83ae3d1e3e02de26",
       "titleOriginal": "Redesigning source control at Anthropic",
-      "summaryOriginal": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of...",
+      "summaryOriginal": "Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the past six months. In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day. They included a chart showing those changes. I had Claude modify their chart ( code here ) to add markers for the public releases of each of th",
       "titleZh": "Redesigning source control at Anthropic",
       "summaryZh": "",
       "translated": false,
@@ -4158,7 +4579,7 @@
     {
       "id": "781a955ce352281bda",
       "titleOriginal": "llm-gemini 0.35",
-      "summaryOriginal": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me...",
+      "summaryOriginal": "Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription plan. Here are the low, medium and high pelicans . As expected, they are all excellent: Gemini has a track record of producing great SVGs, and are the only lab where I know their staff have invested in SVG specifically (and who have boasted about their pelicans before.) Here's the \"high\" illustration, which cost me 17.",
       "titleZh": "llm-gemini 0.35",
       "summaryZh": "",
       "translated": false,
@@ -4266,7 +4687,7 @@
     {
       "id": "87e22abf54d8b62861",
       "titleOriginal": "Quoting Geoffrey Huntley",
-      "summaryOriginal": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agent...",
+      "summaryOriginal": "If the agent isn't using my diagnostics library, I could introspect and update AGENTS.md, but there's still a delta, and it'll drift. Instead, I write a pre-commit hook that checks the git diff for direct calls to observability modules that bypass my diagnostics module. Boom: fail the commit, inject a prompt telling the agent to use the diagnostics library. All of a sudden it's ten out of ten. — Geoffrey Huntley , nobody should type code by hand anymore. here's what's left. Tags: coding-agents ,",
       "titleZh": "Quoting Geoffrey Huntley",
       "summaryZh": "",
       "translated": false,
@@ -4354,7 +4775,7 @@
     {
       "id": "ee61659f96467b432c",
       "titleOriginal": "The Dot and the Swarm",
-      "summaryOriginal": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with agents as a manager, deciding how to delegate work to agents and specifying how those agents should be organized. I thought that getting agents to work effectively as a group would take careful co...",
+      "summaryOriginal": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly large wrong. In the last year I have been posting about how I suspected that humans would have to approach working with agents as a manager, deciding how to delegate work to agents and specifying how those agents should be organized. I thought that getting agents to work effectively as a group would take careful const",
       "titleZh": "The Dot and the Swarm",
       "summaryZh": "",
       "translated": false,
@@ -4481,7 +4902,7 @@
     {
       "id": "44ad14e38ca0d0c8bd",
       "titleOriginal": "The Overhang",
-      "summaryOriginal": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied by controversy) and widespread discussions about the risks posed by AI and what to do about it (also accompanied by controversy). I think these concerns, along with a mounting set of other worries...",
+      "summaryOriginal": "We are still on an exponential curve of AI development. I try to put out a Substack post every couple weeks or so, yet, as the pace speeds up, that sometimes feels too slow. In the weeks since my last post, we had the apparent cracking of one of the most famous problems in math by an AI (accompanied by controversy) and widespread discussions about the risks posed by AI and what to do about it (also accompanied by controversy). I think these concerns, along with a mounting set of other worries, c",
       "titleZh": "The Overhang",
       "summaryZh": "",
       "translated": false,
@@ -4629,7 +5050,7 @@
     {
       "id": "0cce3296bceb61c683",
       "titleOriginal": "Agency and Agents",
-      "summaryOriginal": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out of AI, and I have a longer post on that coming soon. But this post is about the agency of AI, and how the choices we make about how to use it (or constrain it) will shape all of our futures. For muc...",
+      "summaryOriginal": "Agency is the initiative to act. Increasingly, it is going to determine what happens next with AI, and whether that is good or bad for us. But whose agency? Human agency, the willingness to push, experiment and act without waiting for instructions, seems increasingly important to getting value out of AI, and I have a longer post on that coming soon. But this post is about the agency of AI, and how the choices we make about how to use it (or constrain it) will shape all of our futures. For much o",
       "titleZh": "Agency and Agents",
       "summaryZh": "",
       "translated": false,
@@ -4862,7 +5283,7 @@
     {
       "id": "3a1d098fa3da2b4542",
       "titleOriginal": "An opinionated guide to which AI to use to do stuff",
-      "summaryOriginal": "Every few months, I write a guide for people who want to use AI to do stuff. This time, a lot has changed, in part because what it means to “use AI to do stuff” encompasses so much more “stuff” than it used to. Until recently, using AI meant talking to a model through a chatbot in a constant back-and-forth conversation. Now, it means using an agentic system, where the AI is capable of doing the equivalent of many hours of real human work in one go by combining the brains of an AI model with a...",
+      "summaryOriginal": "Every few months, I write a guide for people who want to use AI to do stuff. This time, a lot has changed, in part because what it means to “use AI to do stuff” encompasses so much more “stuff” than it used to. Until recently, using AI meant talking to a model through a chatbot in a constant back-and-forth conversation. Now, it means using an agentic system, where the AI is capable of doing the equivalent of many hours of real human work in one go by combining the brains of an AI model with a se",
       "titleZh": "An opinionated guide to which AI to use to do stuff",
       "summaryZh": "",
       "translated": false,
@@ -4925,7 +5346,7 @@
     {
       "id": "28b4d4894e7b82222b",
       "titleOriginal": "The twilight of the chatbots",
-      "summaryOriginal": "If you feel like things are accelerating in AI, you are probably right. Better AI models from the leading American AI labs have been releasing more quickly than ever (though government interventions stopped access temporarily to two of the most powerful models, Claude Fable and GPT-5.6). But it isn't just release timing. The evidence points to accelerating capability gains as well (though the frontier stays jagged, and AIs remain weak in many places). This is especially obvious when we look a...",
+      "summaryOriginal": "If you feel like things are accelerating in AI, you are probably right. Better AI models from the leading American AI labs have been releasing more quickly than ever (though government interventions stopped access temporarily to two of the most powerful models, Claude Fable and GPT-5.6). But it isn't just release timing. The evidence points to accelerating capability gains as well (though the frontier stays jagged, and AIs remain weak in many places). This is especially obvious when we look at t",
       "titleZh": "The twilight of the chatbots",
       "summaryZh": "",
       "translated": false,
@@ -4938,8 +5359,7 @@
       "publishedAt": "2026-06-30T22:18:12.000Z",
       "author": "Ethan Mollick",
       "tags": [
-        "launch",
-        "Prompt"
+        "launch"
       ],
       "category": "launch",
       "readingMinutes": 2
@@ -4952,7 +5372,7 @@
       "site": "https://openai.com/news",
       "lang": "en",
       "color": "#10a37f",
-      "count": 30
+      "count": 32
     },
     {
       "id": "deepmind",
@@ -4960,7 +5380,7 @@
       "site": "https://deepmind.google/blog/",
       "lang": "en",
       "color": "#4285f4",
-      "count": 30
+      "count": 31
     },
     {
       "id": "techcrunch",
@@ -4968,7 +5388,7 @@
       "site": "https://techcrunch.com/category/artificial-intelligence/",
       "lang": "en",
       "color": "#0a9e01",
-      "count": 21
+      "count": 25
     },
     {
       "id": "theverge",
@@ -4976,7 +5396,7 @@
       "site": "https://www.theverge.com/ai-artificial-intelligence",
       "lang": "en",
       "color": "#e44d26",
-      "count": 10
+      "count": 15
     },
     {
       "id": "mittr",
@@ -4992,7 +5412,7 @@
       "site": "https://www.wired.com/tag/artificial-intelligence/",
       "lang": "en",
       "color": "#111111",
-      "count": 10
+      "count": 11
     },
     {
       "id": "thedecoder",
@@ -5000,7 +5420,7 @@
       "site": "https://the-decoder.com/",
       "lang": "en",
       "color": "#5b4bdb",
-      "count": 10
+      "count": 12
     },
     {
       "id": "marktechpost",
@@ -5032,7 +5452,7 @@
       "site": "https://www.latent.space/",
       "lang": "en",
       "color": "#7357ff",
-      "count": 20
+      "count": 23
     },
     {
       "id": "ifanr",
@@ -5056,7 +5476,7 @@
       "site": "https://www.tmtpost.com/",
       "lang": "zh",
       "color": "#1c64f2",
-      "count": 14
+      "count": 15
     },
     {
       "id": "infoq",
@@ -5068,9 +5488,9 @@
     }
   ],
   "stats": {
-    "total": 219,
-    "guides": 16,
-    "translated": 14,
+    "total": 238,
+    "guides": 14,
+    "translated": 26,
     "sources": 15
   }
 }
